@@ -88,7 +88,7 @@ def films_reco(request, id, model):
             continue
     data['popular'] = popular
     popular_movie_list = [movie_dict[movie.movieid_id] for movie in popular_movies[:5]]
-    data['recommendation'] = get_recommendation(request )#,popular_movie_list
+    data['recommendation'] = get_recommendation(request)#,popular_movie_list
 
 
     return render(request, 'films_details.html', data)

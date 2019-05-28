@@ -20,6 +20,7 @@ def index(request):
     data['popular'] = popular
     popular_movie_list = [movie_dict[movie.movieid_id] for movie in popular_movies[:5]]
     data['recommendation'] = get_recommendation(request, popular_movie_list)
+    data['szymon'] = search_index.hello_from_szymon
     return render(request, 'base.html', data)
 
 

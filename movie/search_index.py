@@ -6,6 +6,8 @@ class Index:
     data_in_memory = {'movie_dict': {}, 'movie_list': [],
                       'movie_rating': {}, 'movie_genre': {}}
     movie_index = {}
+
+    hello_from_szymon = 'Hello Django Site, Heh!'
     
 
     def __init__(self):

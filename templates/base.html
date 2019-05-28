@@ -14,7 +14,7 @@
 
             <a class="navbar-brand" href="/"><span class=" 	glyphicon glyphicon-home"></span> Strona główna</a>
         </div>
-
+        <h1>{{ data.szymon }}</h1>
         
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
@@ -72,7 +72,7 @@ function searchSubmit() {
 {% block mainbody %}
     {% load static %}
     <div style=" margin-left: 1%;">
-        <p style="color: black"><b>Popularne:</b></p>
+        <p style="color: black"> <h1>{{ szymon }}</h1><b>Popularne:</b></p>
         {% for movie in popular %}
             <a href="/movie/movie_detail/{{ movie.movieid }}">
                 <img id="poster" class="img-rounded" src="{{ movie.poster }}" width="125" height="180">
