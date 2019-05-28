@@ -1,0 +1,39 @@
+
+       if request.user.is_authenticated:
+        data = {'username': request.user.get_username()}
+    popular_movies = Popularity.objects.all().order_by('-weight')
+    popular = []
+
+base html
+
+function showResult(str) {
+        if (str.length === 0) {
+            $(".searchlistdiv").hide();
+            return;
+        }
+        var path = "/movie/search_suggest/" + str;
+        $.get(path, function (data) {
+            data = JSON.parse(data);
+            if (document.getElementById('search-input').value !== data.text)
+                return;
+            $(".search-movie").siblings().not(".search-actor").remove();
+            for (var i = data.movie.length - 1; i >= 0; i--) {
+                var img = "<img src='" + data.movie[i].poster + "' width='60' height='75'></img>";
+                var link = "<div class='suggest' onclick=\"location.href='/movie/movie_detail/"
+                    + data.movie[i].movieid + "'\">" + img + "<b>" + data.movie[i].title + "</b></div>";
+                $(".search-movie").after(link)
+            }
+            if (data.movie.length === 0)
+                $(".search-movie").after("<div class='no_suggest'><b>No suggestion!</b></div>")
+
+            for (var i = data.actor.length - 1; i >= 0; i--) {
+                var img = "<img src='" + data.actor[i].photo + "' width='60' height='75'></img>";
+                var link = "<div class='suggest' onclick=\"location.href='/movie/actor_detail/"
+                    + data.actor[i].actorid + "'\">" + img + "<b>" + data.actor[i].name + "</b></div>";
+                $(".search-actor").after(link)
+            }
+            if (data.actor.length === 0)
+                $(".search-actor").after("<div class='no_suggest'><b>No suggestion!</b></div>")
+
+            $(".searchlistdiv").show();
+        });

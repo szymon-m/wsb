@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block mainbody %}
+    <div class="Layer" id="layer"></div>
+    <div id="container">
+        {% if object %}
+
+    
+                
+                {#                <div class="Layer" id="layer"></div>#}
+
+                <p><b>Rok produkcji:</b> {{ object.year }}</p>
+                <p><b>Gatunek:</b> {{ object.genres }}</p>
+                <p><b>Długość filmu:</b> {{ object.length }} min</p>
+                
+                <p><b>Ocena:</b> {{ object.rate }}</p>
+                
+                </span>
+
+                
+
+                
+
+            </div>
+
+            <div id="main-pic">
+                <img border="0" src="{{ object.poster }}" alt="Nie można załadować zdjęcia!" width="300" height="500">
+            </div>
+            <ul class="nav navbar-nav">
+                <li><a href="/movie/films_detail/{{ movie.movieid }}"><span class="glyphicon glyphicon-film"></span> Rekomendowane filmy dla filmu {{ object.title }}:</a></li>  
+            </ul>
+
+
+        {% endif %}
+            
+
+    </div>
+{% endblock %}
+

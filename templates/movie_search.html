@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block mainbody %}
+
+    <a href="/movie/search/movie/{{ query_string }}/{{ 1 }}">
+
+    </a>
+
+    <div>
+        <h2>{{ length }} movie(s) with "{{ query_string }}":</h2>
+        <hr>
+
+        {% for movie in items %}
+            <h2><a href="/movie/movie_detail/{{ movie.movieid }}" target="_self">{{ movie.title }}</a></h2>
+            <img border="0" src="{{ movie.poster }}" alt="Nie można zakadować zdjęcia!" width="200" height="320">
+            <hr>
+        {% endfor %}
+
+        {% if pages %}
+            <p>Jesteś na {{ current_page }} stronie z {{ page_number }} </p>
+            {% if current_page != 1 %}
+                <a href="/movie/search/movie/{{ query_string }}/{{ 1 }}" target="_self">Pierwsza</a>
+                <a href="/movie/search/movie/{{ query_string }}/{{ current_page|add:-1 }}" target="_self">Poprzednia</a>
+            {% endif %}
+
+            {% for page in pages %}
+                {% if page == current_page %}
+                    <b>{{ page }}</b>
+                {% else %}
+                    <a href="/movie/search/movie/{{ query_string }}/{{ page }}" target="_self">{{ page }}</a>
+                {% endif %}
+            {% endfor %}
+
+            {% if current_page != page_number %}
+                <a href="/movie/search/movie/{{ query_string }}/{{ current_page|add:1 }}" target="_self">Nastepna</a>
+                <a href="/movie/search/movie/{{ query_string }}/{{ page_number }}" target="_self">Ostatnia</a>
+            {% endif %}
+        {% endif %}
+
+    </div>
+{% endblock %}
