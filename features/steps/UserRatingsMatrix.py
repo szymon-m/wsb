@@ -1,9 +1,9 @@
 from behave import *
-import hamcrest
 from hamcrest import assert_that, equal_to
-
+import pandas
 import helpers
 from helpers.data_csv import retrive_imdbid
+from helpers.data_frame import create_user_ratings_table
 
 use_step_matcher("re")
 
@@ -123,12 +123,36 @@ def step_impl(context):
                 break
             else:
                 columns = row.split(',')
-                userId = columns[0]
-                movieId = columns[1]
-                rating = columns[2]
-                actual[0] = (userId,movieId,rating)
+                userId = int(columns[0])
+                movieId = int(columns[1])
+                rating = float(columns[2])
+                actual.append((userId , movieId, rating))
                 x += 1
 
-    expected = (1,1,5.0)
+    expected = (72998, 41569, 4.0)
 
     assert_that(actual[0], equal_to(expected))
+
+
+@given("Z plikow stripped_ratings\.csv")
+def step_impl(context):
+    """
+    :type context: behave.runner.Context
+    """
+    context.stripped_rating_file = 'stripped_rating.csv'
+
+
+@when("Kiedy wywoluje funkcje helpers\.data_frame\.create_user_ratings_table\(rating_file\)")
+def step_impl(context):
+    """
+    :type context: behave.runner.Context
+    """
+    context.user_ratings_df = helpers.data_frame.create_user_ratings_table(context.stripped_rating_file)
+
+
+@then("Otrzymuje macierz user_ratings typu pandas\.DataFrame")
+def step_impl(context):
+    """
+    :type context: behave.runner.Context
+    """
+    assert_that(context.user_ratings_df, equal_to(type(pandas.DataFrame)))
