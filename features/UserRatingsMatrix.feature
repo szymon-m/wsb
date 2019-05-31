@@ -24,7 +24,7 @@ Feature: Tabela pomocnicza User Ratings
   Scenario: Tworze plik stripped_ratings.csv
     Given Mając listę identyfikatorow filmow wystepujacych w bazie
     And oraz plik ratings.csv
-    When kiedy uruchamiam funkcję helpers.data_csv.create_stripped_ratings_csv(ids_present_in_db,rating_file)
+    When kiedy uruchamiam funkcję helpers.data_csv.create_stripped_ratings_csv(merged_ids_list,rating_file)
     Then otrzymam plik stripped_rating.csv
 
   Scenario: Tworzy pandas.DataFrame User_Ratings

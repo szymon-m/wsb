@@ -22,7 +22,7 @@ movie_list = []
 movie_genres = {}
 actor_set = {}
 
-with open('data.csv') as f:
+with open('test_data.csv') as f:
     for row in f.readlines()[1:]:
         columns = row.split(',')
         movie_id = columns[0].split('/')[4]

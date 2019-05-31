@@ -29,6 +29,8 @@ def step_impl(context):
     """
     :type context: behave.runner.Context
     """
+    # duża baza item[0] = 'tt0114709'
+
     expected = 'tt0499549'
     actual = context.imdbId_list[0]
 
@@ -69,15 +71,21 @@ def step_impl(context):
     # imdbid = tt0499549   id = 72998
     # imdbid = tt0449088   id = 53125
 
-    expected_tt0499549 = 72998
-    expected_tt0449088 = 53125
+    expected_tt0499549 = 72998 #mała baza ratings.csv
+    expected_tt0449088 = 53125 #mała baza ratings.csv
 
-    expected = 3649 # 3649 wspólnych filmów
+    expected_tt0113189 = 10  #duża baza ratings.csv
+    expected_tt0114709 = 1   #duża baza
+
+    expected_20m = 4336 # 3649 wspólnych filmów  duża baza 4336
+    expected_100k = 3649
     actual = context.ids_present_in_db
 
-    assert_that(len(actual), equal_to(expected))
-    assert_that(actual[1], equal_to(expected_tt0449088))
-    assert_that(actual[0], equal_to(expected_tt0499549))
+    assert_that(len(actual), equal_to(expected_20m))
+    assert_that(actual[0], equal_to(expected_tt0499549)) # mała baza
+    assert_that(actual[1], equal_to(expected_tt0449088)) # mała baza
+    #assert_that(actual[0], equal_to(expected_tt0114709))
+    #assert_that(actual[1], equal_to(expected_tt0113189))
 
     #assert_that(actual[72998], equal_to('tt0499549'))
 
@@ -101,7 +109,7 @@ def step_impl(context):
     context.rating_file = 'movie/csv_data/ratings.csv'
 
 
-@when("kiedy uruchamiam funkcję helpers\.data_csv\.create_stripped_ratings_csv\(ids_present_in_db,rating_file\)")
+@when("kiedy uruchamiam funkcję helpers\.data_csv\.create_stripped_ratings_csv\(merged_ids_list,rating_file\)")
 def step_impl(context):
     """
     :type context: behave.runner.Context
@@ -129,9 +137,10 @@ def step_impl(context):
                 actual.append((userId , movieId, rating))
                 x += 1
 
-    expected = (72998, 41569, 4.0)
+    expected_100k = (41569, 72998, 4.0)
+    expected_20m = (138479, 72998, 2.0)
 
-    assert_that(actual[0], equal_to(expected))
+    assert_that(actual[0], equal_to(expected_20m))
 
 
 @given("Z plikow stripped_ratings\.csv")

@@ -5,3 +5,6 @@ Include/
 Lib/
 LICENSE.txt
 Scripts/
+movie/csv_data/ratings.csv
+movie/csv_data/links.csv
+movie/csv_data/movies.csv

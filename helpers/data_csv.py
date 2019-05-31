@@ -4,7 +4,7 @@ def retrive_imdbid(data_file):
 
     ids = []
 
-    with open('data.csv') as f:
+    with open(data_file, encoding="utf8") as f:
         for row in f.readlines()[1:]:
             columns = row.split(',')
             imdb_id = columns[0].split('/')[4]
@@ -25,55 +25,58 @@ def merge_ids(links_file, imdb_id_list):
             movieid = columns[0]
             imdbid = 'tt' + str(columns[1])
             links[imdbid] = int(movieid)
+            #print(links)
 
     for item in imdb_id_list:
         for key in links:
             if key == item:
                 result_list.append(links[key])
+                #print('ID added' + str(links[key]))
                 #del links[key]
-            else:
-                not_found.append(links[key])
+            #else:
+            #    not_found.append(links[key])
                 #del links[key]
+                #print('ID not found' + str(links[key]))
 
+    # for key in links:
+    #     for item in imdb_id_list:
+    #         if key == item:
+    #             result_list.append(links[key])
+    #             print(links[key])
+    #             break
+    #         else:
+    #             not_found.append(links[key])
+    #             print(links[key])
+    #             continue
+
+    print("Ids found: " + str(len(result_list)))
+    print("ids NOT found: " + str(len(not_found)))
+    #print(links)
     return result_list
 
-    #return links
 
-
-def create_stripped_ratings_csv(ids_present_in_db, rating_file):
+def create_stripped_ratings_csv(merged_ids_list, rating_file):
 
     input_file = {}
     output_file = {}
 
+    #print(merged_ids_list)
+
     with open(rating_file) as f:
         for row in f.readlines()[1:]:
             columns = row.split(',')
+            input_file.update({int(columns[1]): {'userId': int(columns[0]), 'movieId': int(columns[1]), 'rating' : float(columns[2])}})
+            #print(input_file[int(columns[1])])
 
-            #input_file[[columns[0]]['userId']] = int(columns[0])
-            #input_file[columns[0]]['movieId'] = int(columns[1])
-            #input_file[columns[0]]['rating'] = float(columns[2])
-            input_file.update({int(columns[0]): {'userId': int(columns[0]), 'movieId': int(columns[1]), 'rating' : float(columns[2])}})
-            #print(input_file[int(columns[0])])
+    #print(input_file[72998])
+    #print(input_file)
 
-    for item in ids_present_in_db:
-
+    for item in merged_ids_list:
         for key in input_file:
             if key == item:
-
+                #print("ok")
                 output_file.update({int(item): {'userId': int(input_file[key]['userId']), 'movieId': int(input_file[key]['movieId']), 'rating' : float(input_file[key]['rating'])}})
-                #print(output_file[key])
-                #del links[key]
-            #else:
-                #not_found.append(links[key])
-                #del links[key]
-
-        # if int(columns[0]) == item:
-        #
-        #     output_file[int(item)]['userId'] = int(columns[0])
-        #     output_file[int(item)]['movieId'] = int(columns[1])
-        #     output_file[int(item)]['rating'] = float(columns[2])
-        #
-        #     print(output_file[int(item)])
+                #print(output_file[int(item)])
 
     fieldnames = ['userId', 'movieId', 'rating']
     with open('stripped_rating.csv', 'w', newline='') as file:
@@ -81,4 +84,4 @@ def create_stripped_ratings_csv(ids_present_in_db, rating_file):
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
         for item in output_file:
-            writer.writerow(output_file[item])
+            writer.writerow((output_file[item]))
