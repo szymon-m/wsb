@@ -10,6 +10,7 @@ def retrive_imdbid(data_file):
             imdb_id = columns[0].split('/')[4]
             ids.append(imdb_id)
 
+    print("Imdbs found: " + str(len(ids)))
     return ids
 
 

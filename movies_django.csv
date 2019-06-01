@@ -1,0 +1,2927 @@
+movieId,title,genres
+tt0499549,b'Avatar',Action|Adventure|Fantasy|Sci-Fi
+tt0449088,"b""Pirates of the Caribbean: At World's End""",Action|Adventure|Fantasy
+tt2379713,b'Spectre',Action|Adventure|Thriller
+tt1345836,b'The Dark Knight Rises',Action|Thriller
+tt0401729,b'John Carter',Action|Adventure|Sci-Fi
+tt0413300,b'Spider-Man 3',Action|Adventure|Romance
+tt0398286,b'Tangled',Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance
+tt2395427,b'Avengers: Age of Ultron',Action|Adventure|Sci-Fi
+tt0417741,b'Harry Potter and the Half-Blood Prince',Adventure|Family|Fantasy|Mystery
+tt2975590,b'Batman v Superman: Dawn of Justice',Action|Adventure|Sci-Fi
+tt0348150,b'Superman Returns',Action|Adventure|Sci-Fi
+tt0830515,b'Quantum of Solace',Action|Adventure
+tt0383574,"b""Pirates of the Caribbean: Dead Man's Chest""",Action|Adventure|Fantasy
+tt1210819,b'The Lone Ranger',Action|Adventure|Western
+tt0770828,b'Man of Steel',Action|Adventure|Fantasy|Sci-Fi
+tt0499448,b'The Chronicles of Narnia: Prince Caspian',Action|Adventure|Family|Fantasy
+tt0848228,b'The Avengers',Action|Adventure|Sci-Fi
+tt1298650,b'Pirates of the Caribbean: On Stranger Tides',Action|Adventure|Fantasy
+tt1409024,b'Men in Black 3',Action|Adventure|Comedy|Family|Fantasy|Sci-Fi
+tt2310332,b'The Hobbit: The Battle of the Five Armies',Adventure|Fantasy
+tt0948470,b'The Amazing Spider-Man',Action|Adventure|Fantasy
+tt0955308,b'Robin Hood',Action|Adventure|Drama|History
+tt1170358,b'The Hobbit: The Desolation of Smaug',Adventure|Fantasy
+tt0385752,b'The Golden Compass',Adventure|Family|Fantasy
+tt0360717,b'King Kong',Action|Adventure|Drama|Romance
+tt0120338,b'Titanic',Drama|Romance
+tt3498820,b'Captain America: Civil War',Action|Adventure|Sci-Fi
+tt1440129,b'Battleship',Action|Adventure|Sci-Fi|Thriller
+tt0369610,b'Jurassic World',Action|Adventure|Sci-Fi|Thriller
+tt1074638,b'Skyfall',Action|Adventure|Thriller
+tt0316654,b'Spider-Man 2',Action|Adventure|Fantasy|Romance
+tt1300854,b'Iron Man Three',Action|Adventure|Sci-Fi
+tt1014759,b'Alice in Wonderland',Adventure|Family|Fantasy
+tt0376994,b'X-Men: The Last Stand',Action|Adventure|Fantasy|Sci-Fi|Thriller
+tt1453405,b'Monsters University',Adventure|Animation|Comedy|Family|Fantasy
+tt1055369,b'Transformers: Revenge of the Fallen',Action|Adventure|Sci-Fi
+tt2109248,b'Transformers: Age of Extinction',Action|Adventure|Sci-Fi
+tt1623205,b'Oz the Great and Powerful',Adventure|Family|Fantasy
+tt1872181,b'The Amazing Spider-Man 2',Action|Adventure|Fantasy|Sci-Fi
+tt1104001,b'Tron',Action|Adventure|Sci-Fi
+tt1216475,b'Cars 2',Adventure|Animation|Comedy|Family|Sport
+tt1133985,b'Green Lantern',Action|Adventure|Sci-Fi
+tt0435761,b'Toy Story 3',Adventure|Animation|Comedy|Family|Fantasy
+tt0438488,b'Terminator Salvation',Action|Adventure|Sci-Fi
+tt2820852,b'Furious Seven',Action|Crime|Thriller
+tt0816711,b'World War Z',Action|Adventure|Horror|Sci-Fi|Thriller
+tt1877832,b'X-Men: Days of Future Past',Action|Adventure|Fantasy|Sci-Fi|Thriller
+tt1408101,b'Star Trek: Into Darkness',Action|Adventure|Sci-Fi
+tt1351685,b'Jack the Giant Slayer',Adventure|Fantasy
+tt1343092,b'The Great Gatsby',Drama|Romance
+tt0473075,b'Prince of Persia: The Sands of Time',Action|Adventure|Fantasy|Romance
+tt1663662,b'Pacific Rim',Action|Adventure|Sci-Fi
+tt1399103,b'Transformers: Dark of the Moon',Action|Adventure|Sci-Fi
+tt0367882,b'Indiana Jones and the Kingdom of the Crystal Skull',Action|Adventure|Fantasy
+tt1979388,b'The Good Dinosaur',Adventure|Animation|Comedy|Family|Fantasy
+tt1217209,b'Brave',Adventure|Animation|Comedy|Family|Fantasy
+tt2660888,b'Star Trek: Beyond',Action|Adventure|Sci-Fi|Thriller
+tt0910970,b'WALL\xc2\xb7E',Adventure|Animation|Family|Sci-Fi
+tt0293564,b'Rush Hour 3',Action|Comedy|Crime|Thriller
+tt1190080,b'2012',Action|Adventure|Sci-Fi
+tt1067106,b'A Christmas Carol',Animation|Drama|Family|Fantasy
+tt1617661,b'Jupiter Ascending',Action|Adventure|Sci-Fi
+tt0918940,b'The Legend of Tarzan',Action|Adventure|Drama|Romance
+tt0363771,"b'The Chronicles of Narnia: The Lion, the Witch and the Wardrobe'",Adventure|Family|Fantasy
+tt3385516,b'X-Men: Apocalypse',Action|Adventure|Sci-Fi
+tt0468569,b'The Dark Knight',Action|Crime|Drama|Thriller
+tt1049413,b'Up',Adventure|Animation|Comedy|Family
+tt0892782,b'Monsters vs. Aliens',Action|Adventure|Animation|Comedy|Family|Sci-Fi
+tt0371746,b'Iron Man',Action|Adventure|Sci-Fi
+tt0970179,b'Hugo',Adventure|Drama|Family|Mystery
+tt0120891,b'Wild Wild West',Action|Comedy|Sci-Fi|Western
+tt0859163,b'The Mummy: Tomb of the Dragon Emperor',Action|Adventure|Fantasy|Horror|Thriller
+tt1386697,b'Suicide Squad',Action|Adventure|Comedy|Sci-Fi
+tt0413099,b'Evan Almighty',Comedy|Family|Fantasy
+tt1631867,b'Edge of Tomorrow',Action|Adventure|Sci-Fi
+tt0114898,b'Waterworld',Action|Adventure|Sci-Fi|Thriller
+tt1046173,b'G.I. Joe: The Rise of Cobra',Action|Adventure|Sci-Fi|Thriller
+tt2096673,b'Inside Out',Adventure|Animation|Comedy|Drama|Family|Fantasy
+tt3040964,b'The Jungle Book',Adventure|Drama|Family|Fantasy
+tt1228705,b'Iron Man 2',Action|Adventure|Sci-Fi
+tt1735898,b'Snow White and the Huntsman',Action|Adventure|Drama|Fantasy
+tt1587310,b'Maleficent',Action|Adventure|Family|Fantasy|Romance
+tt2103281,b'Dawn of the Planet of the Apes',Action|Adventure|Drama|Sci-Fi
+tt1321869,b'The Lovers',Action|Adventure|Romance|Sci-Fi
+tt1335975,b'47 Ronin',Action|Adventure|Drama|Fantasy
+tt1843866,b'Captain America: The Winter Soldier',Action|Adventure|Sci-Fi
+tt0892791,b'Shrek Forever After',Adventure|Animation|Comedy|Family|Fantasy
+tt1964418,b'Tomorrowland',Action|Adventure|Family|Mystery|Sci-Fi
+tt2245084,b'Big Hero 6',Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi
+tt1772341,b'Wreck-It Ralph',Adventure|Animation|Comedy|Family|Sci-Fi
+tt0338348,b'The Polar Express',Adventure|Animation|Family|Fantasy
+tt1628841,b'Independence Day: Resurgence',Action|Adventure|Sci-Fi
+tt0892769,b'How to Train Your Dragon',Adventure|Animation|Family|Fantasy
+tt0181852,b'Terminator 3: Rise of the Machines',Action|Sci-Fi
+tt2015381,b'Guardians of the Galaxy',Action|Adventure|Sci-Fi
+tt0816692,b'Interstellar',Adventure|Drama|Sci-Fi
+tt1375666,b'Inception',Action|Adventure|Sci-Fi|Thriller
+tt4262980,b'Shin Gojira',Action|Adventure|Drama|Horror|Sci-Fi
+tt0903624,b'The Hobbit: An Unexpected Journey',Adventure|Fantasy
+tt0232500,b'The Fast and the Furious',Action|Crime|Thriller
+tt0421715,b'The Curious Case of Benjamin Button',Drama|Fantasy|Romance
+tt1270798,b'X: First Class',Action|Adventure|Sci-Fi
+tt1951266,b'The Hunger Games: Mockingjay - Part 2',Adventure|Sci-Fi
+tt0963966,"b""The Sorcerer's Apprentice""",Action|Adventure|Family|Fantasy
+tt0409182,b'Poseidon',Action|Adventure|Drama|Thriller
+tt2567026,b'Alice Through the Looking Glass',Adventure|Family|Fantasy
+tt0413267,b'Shrek the Third',Adventure|Animation|Comedy|Family|Fantasy
+tt0803096,b'Warcraft',Action|Adventure|Fantasy
+tt1340138,b'Terminator Genisys',Action|Adventure|Sci-Fi
+tt0980970,b'The Chronicles of Narnia: The Voyage of the Dawn Treader',Adventure|Family|Fantasy
+tt0213149,b'Pearl Harbor',Action|Drama|History|Romance|War
+tt0418279,b'Transformers',Action|Adventure|Sci-Fi
+tt0346491,b'Alexander',Action|Adventure|Biography|Drama|History|Romance|War
+tt0373889,b'Harry Potter and the Order of the Phoenix',Adventure|Family|Fantasy|Mystery
+tt0330373,b'Harry Potter and the Goblet of Fire',Adventure|Family|Fantasy|Mystery
+tt0448157,b'Hancock',Action|Drama
+tt0480249,b'I Am Legend',Drama|Horror|Sci-Fi
+tt0367594,b'Charlie and the Chocolate Factory',Adventure|Comedy|Family|Fantasy
+tt0382932,b'Ratatouille',Animation|Comedy|Family|Fantasy
+tt0372784,b'Batman Begins',Action|Adventure
+tt0479952,b'Madagascar: Escape 2 Africa',Action|Adventure|Animation|Comedy|Family
+tt1078912,b'Night at the Museum: Battle of the Smithsonian',Adventure|Comedy|Family|Fantasy
+tt0458525,b'X-Men Origins: Wolverine',Action|Adventure|Fantasy|Sci-Fi|Thriller
+tt0242653,b'The Matrix Revolutions',Action|Sci-Fi
+tt2294629,b'Frozen',Adventure|Animation|Comedy|Family|Fantasy|Musical
+tt0234215,b'The Matrix Reloaded',Action|Sci-Fi
+tt1981115,b'Thor: The Dark World',Action|Adventure|Fantasy
+tt1392190,b'Mad Max: Fury Road',Action|Adventure|Sci-Fi|Thriller
+tt0808151,b'Angels & Demons',Mystery|Thriller
+tt0800369,b'Thor',Action|Adventure|Fantasy
+tt0397892,b'Bolt',Adventure|Animation|Comedy|Drama|Family
+tt0436339,b'G-Force',Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi
+tt1646987,b'Wrath of the Titans',Action|Adventure|Fantasy
+tt1077368,b'Dark Shadows',Comedy|Fantasy|Horror
+tt2381249,b'Mission: Impossible - Rogue Nation',Action|Adventure|Thriller
+tt0780653,b'The Wolfman',Drama|Fantasy|Horror|Thriller
+tt0389790,b'Bee Movie',Adventure|Animation|Comedy|Family
+tt1302011,b'Kung Fu Panda 2',Action|Adventure|Animation|Comedy|Family
+tt0938283,b'The Last Airbender',Action|Adventure|Family|Fantasy
+tt0317919,b'Mission: Impossible III',Action|Adventure|Thriller
+tt2334879,b'White House Down',Action|Drama|Thriller
+tt1305591,b'Mars Needs Moms',Action|Adventure|Animation|Comedy|Family|Sci-Fi
+tt0424095,b'Flushed Away',Adventure|Animation|Comedy|Family
+tt3332064,b'Pan',Adventure|Family|Fantasy
+tt0864835,b'Mr. Peabody & Sherman',Adventure|Animation|Comedy|Family|Sci-Fi
+tt0332452,b'Troy',Adventure
+tt1277953,"b""Madagascar 3: Europe's Most Wanted""",Adventure|Animation|Comedy|Family
+tt0246460,b'Die Another Day',Action|Adventure|Thriller
+tt1289401,b'Ghostbusters',Action|Comedy|Fantasy|Sci-Fi
+tt0120591,b'Armageddon',Action|Adventure|Sci-Fi|Thriller
+tt0120912,b'Men in Black II',Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi
+tt0442933,b'Beowulf',Action|Adventure|Animation|Fantasy
+tt2267968,b'Kung Fu Panda 3',Action|Adventure|Animation|Comedy|Family
+tt1229238,b'Mission: Impossible - Ghost Protocol',Action|Adventure|Thriller
+tt1446192,b'Rise of the Guardians',Adventure|Animation|Family|Fantasy
+tt0369441,b'Fun with Dick and Jane',Comedy|Crime
+tt0325710,b'The Last Samurai',Action|Drama|History|War
+tt1528100,b'Exodus: Gods and Kings',Action|Adventure|Drama
+tt0796366,b'Star Trek',Action|Adventure|Sci-Fi
+tt0145487,b'Spider-Man',Action|Adventure|Fantasy|Romance
+tt1646971,b'How to Train Your Dragon 2',Action|Adventure|Animation|Comedy|Family|Fantasy
+tt2404233,b'Gods of Egypt',Action|Adventure|Fantasy
+tt0382992,b'Stealth',Action|Adventure|Sci-Fi|Thriller
+tt0409459,b'Watchmen',Action|Drama|Mystery|Sci-Fi
+tt0122151,b'Lethal Weapon 4',Action|Crime|Thriller
+tt0286716,b'Hulk',Action|Sci-Fi
+tt1583421,b'G.I. Joe: Retaliation',Action|Adventure|Sci-Fi|Thriller
+tt0318649,b'Sahara',Action|Adventure|Comedy|Thriller
+tt0173840,b'Final Fantasy: The Spirits Within',Action|Adventure|Animation|Fantasy|Romance|Sci-Fi
+tt0458339,b'Captain America: The First Avenger',Action|Adventure|Sci-Fi
+tt0143145,b'The World Is Not Enough',Action|Adventure|Thriller
+tt0311113,b'Master and Commander: The Far Side of the World',Action|Adventure|Drama|History|War
+tt1673434,b'The Twilight Saga: Breaking Dawn - Part 2',Adventure|Drama|Fantasy|Romance
+tt1402488,b'Happy Feet Two',Animation|Comedy|Family|Musical
+tt0800080,b'The Incredible Hulk',Action|Adventure|Sci-Fi
+tt0086759,b'Miami Vice',Action|Crime|Drama|Mystery|Thriller
+tt3691740,b'The BFG',Adventure|Family|Fantasy
+tt1663202,b'The Revenant',Adventure|Drama|Thriller|Western
+tt1860353,b'Turbo',Adventure|Animation|Comedy|Family|Sport
+tt1192628,b'Rango',Adventure|Animation|Comedy|Family|Western
+tt1911658,b'Penguins of Madagascar',Adventure|Animation|Comedy|Family
+tt0440963,b'The Bourne Ultimatum',Action|Mystery|Thriller
+tt0441773,b'Kung Fu Panda',Action|Adventure|Animation|Comedy|Family
+tt0478970,b'Ant-Man',Action|Adventure|Comedy|Sci-Fi
+tt1951264,b'The Hunger Games: Catching Fire',Adventure|Sci-Fi|Thriller
+tt2224026,b'Home',Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi
+tt0407304,b'War of the Worlds',Adventure|Sci-Fi|Thriller
+tt0172156,b'Bad Boys II',Action|Comedy|Crime|Thriller
+tt0448694,b'Puss in Boots',Action|Adventure|Animation|Comedy|Family|Fantasy
+tt0944835,b'Salt',Action|Crime|Mystery|Thriller
+tt1959490,b'Noah',Action|Adventure|Drama
+tt0983193,b'The Adventures of Tintin',Action|Adventure|Family|Mystery
+tt0304141,b'Harry Potter and the Prisoner of Azkaban',Adventure|Family|Fantasy|Mystery
+tt0455824,b'Australia',Adventure|Drama|Romance|War
+tt1815862,b'After Earth',Action|Adventure|Sci-Fi
+tt2692250,b'Night at the Museum: Secret of the Tomb',Adventure|Comedy|Family|Fantasy
+tt1001526,b'Megamind',Action|Animation|Comedy|Family|Sci-Fi
+tt0241527,"b""Harry Potter and the Sorcerer's Stone""",Adventure|Family|Fantasy
+tt0790736,b'R.I.P.D.',Action|Comedy|Fantasy
+tt0325980,b'Pirates of the Caribbean: The Curse of the Black Pearl',Action|Adventure|Fantasy
+tt1951265,b'The Hunger Games: Mockingjay - Part 1',Adventure|Sci-Fi|Thriller
+tt0382625,b'The Da Vinci Code',Mystery|Thriller
+tt2357291,b'Rio 2',Adventure|Animation|Comedy|Family|Musical
+tt0290334,b'X2',Action|Adventure|Fantasy|Sci-Fi|Thriller
+tt1596343,b'Fast Five',Action|Crime|Thriller
+tt1515091,b'Sherlock Holmes: A Game of Shadows',Action|Adventure|Crime|Mystery|Thriller
+tt0800320,b'Clash of the Titans',Action|Adventure|Fantasy
+tt0100802,b'Total Recall',Action|Sci-Fi
+tt1194173,b'The Bourne Legacy',Action|Adventure|Thriller
+tt0118688,b'Batman & Robin',Action
+tt0170016,b'How the Grinch Stole Christmas',Comedy|Family|Fantasy
+tt0319262,b'The Day After Tomorrow',Action|Adventure|Sci-Fi|Thriller
+tt0120755,b'Mission: Impossible II',Action|Adventure|Thriller
+tt0177971,b'The Perfect Storm',Action|Adventure|Drama|Thriller
+tt0486576,b'4: Rise of the Silver Surfer',Action|Adventure|Sci-Fi|Thriller
+tt0454876,b'Life of Pi',Adventure|Drama|Fantasy
+tt0259324,b'Ghost Rider',Action|Fantasy|Thriller
+tt4196776,b'Jason Bourne',Action|Thriller
+tt0305357,"b""Charlie's Angels: Full Throttle""",Action|Adventure|Comedy|Crime
+tt1446714,b'Prometheus',Adventure|Mystery|Sci-Fi
+tt0243585,b'Stuart Little 2',Adventure|Animation|Comedy|Family|Fantasy
+tt1535108,b'Elysium',Action|Drama|Sci-Fi|Thriller
+tt0296572,b'The Chronicles of Riddick',Action|Adventure|Sci-Fi|Thriller
+tt1234721,b'RoboCop',Action|Crime|Sci-Fi|Thriller
+tt0811080,b'Speed Racer',Action|Family|Sport
+tt1341188,b'How Do You Know',Comedy|Drama|Romance
+tt1013743,b'Knight and Day',Action|Comedy|Romance
+tt1483013,b'Oblivion',Action|Adventure|Mystery|Sci-Fi
+tt0121766,b'Star Wars: Episode III - Revenge of the Sith',Action|Adventure|Fantasy|Sci-Fi
+tt0121765,b'Star Wars: Episode II - Attack of the Clones',Action|Adventure|Fantasy|Sci-Fi
+tt0198781,"b'Monsters, Inc.'",Adventure|Animation|Comedy|Family|Fantasy
+tt1430132,b'The Wolverine',Action|Adventure|Sci-Fi|Thriller
+tt0120915,b'Star Wars: Episode I - The Phantom Menace',Action|Adventure|Fantasy|Sci-Fi
+tt0481499,b'The Croods',Adventure|Animation|Comedy|Family|Fantasy
+tt0463872,b'Ast\xc3\xa9rix aux jeux olympiques',Adventure|Comedy|Family|Fantasy
+tt0245562,b'Windtalkers',Action|Drama|War
+tt2381991,"b""The Huntsman: Winter's War""",Action|Adventure|Drama|Fantasy
+tt1291150,b'Teenage Mutant Ninja Turtles',Action|Adventure|Comedy|Sci-Fi
+tt1454468,b'Gravity',Adventure|Drama|Sci-Fi|Thriller
+tt0118928,"b""Dante's Peak""",Action|Adventure|Thriller
+tt3949660,b'Teenage Mutant Ninja Turtles: Out of the Shadows',Action|Adventure|Comedy|Sci-Fi
+tt1502712,b'Fantastic Four',Action|Adventure|Sci-Fi
+tt0477347,b'Night at the Museum',Action|Adventure|Comedy|Family|Fantasy
+tt2126355,b'San Andreas',Action|Adventure|Drama|Thriller
+tt0120347,b'Tomorrow Never Dies',Action|Adventure|Thriller
+tt0187393,b'The Patriot',Action|Drama|History|War
+tt0349903,"b""Ocean's Twelve""",Crime|Thriller
+tt0356910,b'Mr. & Mrs. Smith',Action|Comedy|Crime|Romance|Thriller
+tt2908446,b'Insurgent',Adventure|Sci-Fi|Thriller
+tt0338751,b'The Aviator',Biography|Drama
+tt1320261,"b""Gulliver's Travels""",Adventure|Comedy|Family|Fantasy
+tt0990407,b'The Green Hornet',Action|Comedy|Crime|Sci-Fi|Thriller
+tt1253863,b'300: Rise of an Empire',Action|Drama|Fantasy|War
+tt0472181,b'The Smurfs',Adventure|Animation|Comedy|Family|Fantasy
+tt0299172,b'Home on the Range',Animation|Comedy|Family|Music|Western
+tt3410834,b'Allegiant',Action|Adventure|Mystery|Sci-Fi|Thriller
+tt0433035,b'Real Steel',Action|Drama|Sci-Fi|Sport
+tt2017020,b'The Smurfs 2',Adventure|Animation|Comedy|Family|Fantasy
+tt0120179,b'Speed 2: Cruise Control',Action|Crime|Romance|Thriller
+tt1731141,"b""Ender's Game""",Action|Sci-Fi
+tt0337978,b'Live Free or Die Hard',Action|Adventure|Thriller
+tt0120737,b'The Lord of the Rings: The Fellowship of the Ring',Action|Adventure|Drama|Fantasy
+tt0327437,b'Around the World in 80 Days',Action|Adventure|Comedy
+tt0248667,b'Ali',Biography|Drama|Sport
+tt0312528,b'The Cat in the Hat',Adventure|Comedy|Family|Fantasy
+tt0343818,"b'I, Robot'",Action|Mystery|Sci-Fi|Thriller
+tt0320661,b'Kingdom of Heaven',Action|Adventure|Drama|History|War
+tt0164912,b'Stuart Little',Adventure|Comedy|Family|Fantasy
+tt0780521,b'The Princess and the Frog',Animation|Family|Fantasy|Musical|Romance
+tt3659388,b'The Martian',Adventure|Drama|Sci-Fi
+tt0399201,b'The Island',Action|Adventure|Romance|Sci-Fi|Thriller
+tt0172495,b'Gladiator',Action|Drama|Romance
+tt0181689,b'Minority Report',Action|Mystery|Sci-Fi|Thriller
+tt0295297,b'Harry Potter and the Chamber of Secrets',Adventure|Family|Fantasy|Mystery
+tt0381061,b'Casino Royale',Action|Adventure|Thriller
+tt0133152,b'Planet of the Apes',Action|Adventure|Sci-Fi|Thriller
+tt0103064,b'Terminator 2: Judgment Day',Action|Sci-Fi
+tt1152836,b'Public Enemies',Biography|Crime|Drama|History|Romance
+tt0765429,b'American Gangster',Biography|Crime|Drama
+tt0111503,b'True Lies',Action|Comedy|Thriller
+tt1111422,b'The Taking of Pelham 123',Action|Crime|Thriller
+tt0970866,b'Little Fockers',Comedy|Romance
+tt1386588,b'The Other Guys',Action|Comedy|Crime
+tt0116213,b'Eraser',Action|Drama|Mystery|Thriller
+tt1853728,b'Django Unchained',Drama|Western
+tt0116583,b'The Hunchback of Notre Dame',Animation|Drama|Family|Musical|Romance
+tt0120917,"b""The Emperor's New Groove""",Adventure|Animation|Comedy|Family|Fantasy
+tt1764651,b'The Expendables 2',Action|Adventure|Thriller
+tt0368891,b'National Treasure',Action|Adventure|Comedy|Family|Mystery
+tt0449010,b'Eragon',Action|Adventure|Family|Fantasy
+tt0386117,b'Where the Wild Things Are',Adventure|Drama|Family|Fantasy
+tt0848537,b'Epic',Adventure|Animation|Family|Fantasy
+tt1243957,b'The Tourist',Action|Romance|Thriller
+tt0146675,b'End of Days',Action|Fantasy|Horror|Mystery
+tt0450259,b'Blood Diamond',Adventure|Drama|Thriller
+tt0993846,b'The Wolf of Wall Street',Biography|Comedy|Crime|Drama
+tt0112462,b'Batman Forever',Action|Adventure|Fantasy
+tt0120201,b'Starship Troopers',Action|Sci-Fi|War
+tt1371111,b'Cloud Atlas',Drama|Sci-Fi
+tt1219342,"b""Legend of the Guardians: The Owls of Ga'Hoole""",Action|Adventure|Animation|Family|Fantasy
+tt0327554,b'Catwoman',Action|Crime|Fantasy|Romance|Thriller
+tt1267297,b'Hercules',Action|Adventure
+tt0133240,b'Treasure Planet',Adventure|Animation|Family|Sci-Fi
+tt0457400,b'Land of the Lost',Adventure|Comedy|Sci-Fi
+tt2333784,b'The Expendables 3',Action|Adventure|Thriller
+tt2058673,b'Point Break',Action|Crime|Sport|Thriller
+tt0362165,b'Son of the Mask',Comedy|Family|Fantasy
+tt1390411,b'In the Heart of the Sea',Action|Adventure|Biography|Drama|History|Thriller
+tt0180052,b'The Adventures of Pluto Nash',Action|Comedy|Sci-Fi
+tt0947810,b'Green Zone',Action|Drama|Thriller|War
+tt2452042,b'The Peanuts Movie',Adventure|Animation|Comedy|Family
+tt0120176,b'The Spanish Prisoner',Drama|Mystery|Thriller
+tt0217505,b'Gangs of New York',Crime|Drama
+tt1410063,b'Jin ling shi san chai',Drama|History|Romance|War
+tt0423294,"b""Surf's Up""",Animation|Comedy|Family|Sport
+tt0327162,b'The Stepford Wives',Comedy|Sci-Fi|Thriller
+tt0265086,b'Black Hawk Down',Drama|History|War
+tt1790886,b'The Campaign',Comedy
+tt0119116,b'Le cinqui\xc3\xa8me \xc3\xa9l\xc3\xa9ment',Action|Adventure|Sci-Fi
+tt1261945,b'Sex and the City 2',Comedy|Drama|Romance
+tt0138749,b'The Road to El Dorado',Adventure|Animation|Comedy|Family|Romance
+tt1667889,b'Ice Age: Continental Drift',Adventure|Animation|Comedy|Family
+tt1661199,b'Cinderella',Drama|Family|Fantasy|Romance
+tt0380510,b'The Lovely Bones',Drama|Fantasy|Thriller
+tt0266543,b'Finding Nemo',Adventure|Animation|Comedy|Family
+tt0167260,b'The Lord of the Rings: The Return of the King',Action|Adventure|Drama|Fantasy
+tt0167261,b'The Lord of the Rings: The Two Towers',Action|Adventure|Drama|Fantasy
+tt1121096,b'Seventh Son',Action|Adventure|Fantasy
+tt0146316,b'Lara Croft: Tomb Raider',Action|Adventure|Fantasy|Thriller
+tt2209764,b'Transcendence',Drama|Mystery|Romance|Sci-Fi|Thriller
+tt0163025,b'Jurassic Park III',Action|Adventure|Sci-Fi|Thriller
+tt1318514,b'Rise of the Planet of the Apes',Action|Drama|Sci-Fi|Thriller
+tt0416236,b'The Spiderwick Chronicles',Adventure|Family|Fantasy
+tt1606378,b'A Good Day to Die Hard',Action|Thriller
+tt0318974,b'The Alamo',Drama|History|War|Western
+tt0317705,b'The Incredibles',Action|Adventure|Animation|Family
+tt0112760,b'Cutthroat Island',Action|Adventure|Comedy
+tt0814255,b'Percy Jackson & the Olympians: The Lightning Thief',Adventure|Family|Fantasy
+tt0119654,b'Men in Black',Adventure|Comedy|Family|Mystery|Sci-Fi
+tt0120363,b'Toy Story 2',Adventure|Animation|Comedy|Family|Fantasy
+tt0477080,b'Unstoppable',Action|Thriller
+tt0266915,b'Rush Hour 2',Action|Comedy|Crime|Thriller
+tt0161081,b'What Lies Beneath',Drama|Fantasy|Horror|Mystery|Thriller
+tt0844471,b'Cloudy with a Chance of Meatballs',Animation|Comedy|Family|Sci-Fi
+tt1080016,b'Ice Age: Dawn of the Dinosaurs',Action|Adventure|Animation|Comedy|Family
+tt0359950,b'The Secret Life of Walter Mitty',Adventure|Comedy|Drama|Fantasy|Romance
+tt0160127,"b""Charlie's Angels""",Action|Adventure|Comedy|Crime|Thriller
+tt0407887,b'The Departed',Crime|Drama|Thriller
+tt0120762,b'Mulan',Adventure|Animation|Family|Fantasy|Musical|War
+tt0942385,b'Tropic Thunder',Action|Comedy
+tt1568346,b'The Girl with the Dragon Tattoo',Crime|Drama|Mystery|Thriller
+tt0112864,b'Die Hard with a Vengeance',Action|Adventure|Thriller
+tt0988045,b'Sherlock Holmes',Action|Adventure|Crime|Mystery|Thriller
+tt2638144,b'Ben-Hur',Adventure|Drama|History
+tt0230011,b'Atlantis: The Lost Empire',Action|Adventure|Animation|Family|Fantasy|Sci-Fi
+tt2974918,b'Alvin and the Chipmunks: The Road Chip',Adventure|Animation|Comedy|Family|Fantasy|Music
+tt0985699,b'Valkyrie',Drama|History|Thriller|War
+tt0960144,"b""You Don't Mess with the Zohan""",Action|Comedy
+tt2120120,b'Pixels',Action|Animation|Comedy|Sci-Fi
+tt0212720,b'Artificial Intelligence: AI',Adventure|Drama|Sci-Fi
+tt0338094,b'The Haunted Mansion',Comedy|Family|Fantasy|Horror|Mystery
+tt0118884,b'Contact',Drama|Mystery|Sci-Fi|Thriller
+tt0164052,b'Hollow Man',Action|Horror|Sci-Fi|Thriller
+tt0373926,b'The Interpreter',Crime|Mystery|Thriller
+tt1854564,b'Percy Jackson: Sea of Monsters',Adventure|Family|Fantasy
+tt0325703,b'Lara Croft Tomb Raider: The Cradle of Life',Action|Adventure|Fantasy
+tt3110958,b'Now You See Me 2',Action|Adventure|Comedy|Crime|Mystery|Thriller
+tt0120053,b'The Saint',Action|Adventure|Romance|Sci-Fi|Thriller
+tt0266987,b'Spy Game',Action|Crime|Thriller
+tt1436562,b'Rio',Adventure|Animation|Comedy|Family|Musical
+tt0182789,b'Bicentennial Man',Comedy|Drama|Sci-Fi
+tt0120461,b'Volcano',Action|Drama|Sci-Fi|Thriller
+tt0118972,"b""The Devil's Own""",Action|Crime|Drama|Thriller
+tt0267626,b'K-19: The Widowmaker',Drama|History|Thriller|War
+tt0082198,b'Conan the Barbarian',Adventure|Fantasy
+tt0352248,b'Cinderella Man',Biography|Drama|Sport
+tt1041804,b'The Nutcracker in 3D',Action|Family|Fantasy|Musical
+tt0329575,b'Seabiscuit',Drama|History|Sport
+tt0117998,b'Twister',Action|Adventure|Drama|Thriller
+tt0366548,b'Happy Feet',Animation|Comedy|Family|Music|Romance
+tt0372183,b'The Bourne Supremacy',Action|Mystery|Thriller
+tt0118571,b'Air Force One',Action|Adventure|Drama|Thriller
+tt0240772,"b""Ocean's Eleven""",Crime|Thriller
+tt1509767,b'The Three Musketeers',Action|Adventure|Romance
+tt0837562,b'Hotel Transylvania',Animation|Comedy|Family|Fantasy
+tt0461770,b'Enchanted',Animation|Comedy|Family|Fantasy|Musical|Romance
+tt2243973,b'Hannibal',Crime|Drama|Horror|Mystery|Thriller
+tt1599348,b'Safe House',Action|Crime|Mystery|Thriller
+tt0471042,b'Tower Heist',Action|Comedy|Crime
+tt0457939,b'The Holiday',Comedy|Romance
+tt0120660,b'Enemy of the State',Action|Crime|Drama|Mystery|Thriller
+tt1230414,"b""It's Complicated""",Comedy|Drama|Romance
+tt0496806,"b""Ocean's Thirteen""",Crime|Thriller
+tt0400717,b'Open Season',Adventure|Animation|Comedy|Family
+tt1840309,b'Divergent',Adventure|Mystery|Sci-Fi
+tt0215750,b'Enemy at the Gates',Drama|History|War
+tt0327850,b'The Rundown',Action|Adventure|Comedy|Thriller
+tt0107362,b'Last Action Hero',Action|Adventure|Comedy|Fantasy
+tt0397535,b'Memoirs of a Geisha',Drama|Romance
+tt0463985,b'The Fast and the Furious: Tokyo Drift',Action|Crime|Thriller
+tt1430607,b'Arthur Christmas',Adventure|Animation|Comedy|Family|Fantasy
+tt0233469,b'Collateral Damage',Action|Drama|Thriller
+tt1667353,b'Mirror Mirror',Adventure|Comedy|Drama|Family|Fantasy
+tt0446029,b'Scott Pilgrim vs. the World',Action|Comedy|Fantasy|Romance
+tt0298814,b'The Core',Action|Adventure|Sci-Fi|Thriller
+tt0144528,b'Nutty Professor II: The Klumps',Comedy|Romance|Sci-Fi
+tt0267913,b'Scooby-Doo',Adventure|Comedy|Mystery
+tt1343727,b'Dredd',Action|Sci-Fi
+tt0389860,b'Click',Comedy|Drama|Fantasy|Romance
+tt1287468,b'Cats & Dogs: The Revenge of Kitty Galore',Action|Comedy|Family|Fantasy
+tt0489099,b'Jumper',Action|Adventure|Sci-Fi|Thriller
+tt0411477,b'Hellboy II: The Golden Army',Action|Adventure|Fantasy|Horror|Sci-Fi
+tt0443706,b'Zodiac',Crime|Drama|History|Mystery|Thriller
+tt0216216,b'The 6th Day',Action|Mystery|Sci-Fi|Thriller
+tt0315327,b'Bruce Almighty',Comedy|Drama
+tt1320253,b'The Expendables',Action|Adventure|Thriller
+tt0117060,b'Mission: Impossible',Action|Adventure|Thriller
+tt1392170,b'The Hunger Games',Adventure|Drama|Sci-Fi|Thriller
+tt1411697,b'The Hangover Part II',Comedy
+tt0103776,b'Batman Returns',Action
+tt0327084,b'Over the Hedge',Adventure|Animation|Comedy|Family
+tt0275847,b'Lilo & Stitch',Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi
+tt0413895,"b""Charlotte's Web""",Comedy|Family|Fantasy
+tt0120647,b'Deep Impact',Action|Drama|Romance|Sci-Fi|Thriller
+tt1821694,b'RED 2',Action|Comedy|Crime|Thriller
+tt0398165,b'The Longest Yard',Comedy|Crime|Sport
+tt1615918,b'Alvin and the Chipmunks: Chipwrecked',Adventure|Animation|Comedy|Family|Fantasy|Music
+tt2191701,b'Grown Ups 2',Comedy
+tt0425061,b'Get Smart',Action|Adventure|Comedy
+tt0337741,"b""Something's Gotta Give""",Comedy|Drama|Romance
+tt1130884,b'Shutter Island',Mystery|Thriller
+tt0369436,b'Four Christmases',Comedy|Drama|Romance
+tt0358082,b'Robots',Adventure|Animation|Comedy|Family|Sci-Fi
+tt0119094,b'Face/Off',Action|Crime|Sci-Fi|Thriller
+tt0960731,b'Bedtime Stories',Comedy|Family|Fantasy|Romance
+tt0257044,b'Road to Perdition',Crime|Drama|Thriller
+tt1564367,b'Just Go with It',Comedy|Romance
+tt3322312,b'Daredevil',Action|Adventure|Crime|Drama|Sci-Fi|Thriller
+tt0118880,b'Con Air',Action|Crime|Thriller
+tt1059786,b'Eagle Eye',Action|Mystery|Thriller
+tt0159365,b'Cold Mountain',Adventure|Drama|History|Romance|War
+tt1037705,b'The Book of Eli',Action|Adventure|Drama|Thriller
+tt0119137,b'Flubber',Comedy|Family|Sci-Fi
+tt0171363,b'The Haunting',Fantasy|Horror|Mystery|Thriller
+tt0117705,b'Space Jam',Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport
+tt0383216,b'The Pink Panther',Adventure|Comedy|Crime|Family|Mystery
+tt0970416,b'The Day the Earth Stood Still',Drama|Sci-Fi|Thriller
+tt0118883,b'Conspiracy Theory',Action|Crime|Mystery|Romance|Thriller
+tt2713180,b'Fury',Action|Drama|War
+tt1302067,b'Yogi Bear',Adventure|Animation|Comedy|Family
+tt0166813,b'Spirit: Stallion of the Cimarron',Adventure|Animation|Family|Western
+tt1222817,b'Zookeeper',Comedy|Family|Romance
+tt0120738,b'Lost in Space',Action|Adventure|Family|Sci-Fi|Thriller
+tt0368008,b'The Manchurian Candidate',Drama|Mystery|Sci-Fi|Thriller
+tt0119033,b'D\xc3\xa9j\xc3\xa0 Vu',Drama|Romance
+tt2510894,b'Hotel Transylvania 2',Animation|Comedy|Family|Fantasy
+tt0120910,b'Fantasia 2000',Animation|Family|Fantasy|Music
+tt0268695,b'The Time Machine',Action|Adventure|Sci-Fi
+tt0244244,b'Swordfish',Action|Crime|Thriller
+tt0386140,b'The Legend of Zorro',Action|Adventure|Western
+tt0120889,b'What Dreams May Come',Drama|Fantasy|Romance
+tt0185431,b'Little Nicky',Comedy|Fantasy
+tt0355295,b'The Brothers Grimm',Action|Adventure|Comedy|Fantasy|Thriller
+tt4291590,b'\xc3\x89volution',Drama|Horror|Mystery|Sci-Fi
+tt0119051,b'The Edge',Action|Adventure|Drama|Thriller
+tt0986263,b'Surrogates',Action|Sci-Fi|Thriller
+tt1762399,b'Walking with Dinosaurs 3D',Adventure|Animation|Family
+tt0185183,b'Battlefield Earth',Action|Adventure|Sci-Fi
+tt0318155,b'Looney Tunes: Back in Action',Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi
+tt0875034,b'Nine',Drama|Musical|Romance
+tt0300556,b'Timeline',Action|Adventure|Sci-Fi
+tt0119925,b'The Postman',Action|Adventure|Drama|Sci-Fi
+tt0120595,b'Babe: Pig in the City',Adventure|Comedy|Drama|Family|Fantasy
+tt1618442,b'The Last Witch Hunter',Action|Adventure|Fantasy
+tt0344854,b'Arthur et les Minimoys',Adventure|Animation|Family|Fantasy
+tt0765128,b'Oc\xc3\xa9ans',Documentary|Drama
+tt0318081,b'A Sound of Thunder',Action|Adventure|Horror|Sci-Fi|Thriller
+tt1921064,b'Pompeii',Action|Adventure|Drama|History|Romance
+tt0110357,b'The Lion King',Adventure|Animation|Drama|Family|Musical
+tt1397514,b'Journey 2: The Mysterious Island',Action|Adventure|Comedy|Family|Fantasy|Sci-Fi
+tt1985966,b'Cloudy with a Chance of Meatballs 2',Animation|Comedy|Family|Fantasy|Sci-Fi
+tt0289765,b'Red Dragon',Crime|Drama|Thriller
+tt0317648,b'Hidalgo',Action|Adventure|Western
+tt0810913,b'Jack and Jill',Comedy
+tt0322259,b'2 Fast 2 Furious',Action|Crime|Thriller
+tt1754656,b'Le Petit Prince',Adventure|Animation|Drama|Family|Fantasy
+tt0427392,b'The Invasion',Sci-Fi|Thriller
+tt0131704,b'The Adventures of Rocky & Bullwinkle',Adventure|Animation|Comedy|Family|Fantasy
+tt2709768,b'The Secret Life of Pets',Animation|Comedy|Family
+tt0311429,b'The League of Extraordinary Gentlemen',Action|Adventure|Fantasy|Sci-Fi
+tt1690953,b'Despicable Me 2',Animation|Comedy|Family|Sci-Fi
+tt0116629,b'Independence Day',Action|Adventure|Sci-Fi
+tt0119567,b'The Lost World: Jurassic Park',Action|Adventure|Sci-Fi
+tt0351283,b'Madagascar',Adventure|Animation|Comedy|Family
+tt0206634,b'Children of Men',Drama|Sci-Fi|Thriller
+tt0120903,b'X-Men',Action|Adventure|Sci-Fi
+tt0493464,b'Wanted',Action|Crime|Fantasy|Thriller
+tt0117500,b'The Rock',Action|Adventure|Thriller
+tt0438097,b'Ice Age: The Meltdown',Action|Adventure|Animation|Comedy|Family|Fantasy
+tt0343660,b'50 First Dates',Comedy|Romance
+tt0427327,b'Hairspray',Comedy|Drama|Family|Music|Musical|Romance
+tt0204313,b'Exorcist: The Beginning',Horror|Mystery|Thriller
+tt0141369,b'Inspector Gadget',Action|Adventure|Comedy|Family|Sci-Fi
+tt1670345,b'Now You See Me',Crime|Mystery|Thriller
+tt1375670,b'Grown Ups',Comedy
+tt0362227,b'The Terminal',Comedy|Drama
+tt3489184,b'Constantine',Drama|Fantasy|Horror|Thriller
+tt0785006,b'Hotel for Dogs',Comedy|Family
+tt0472062,"b""Charlie Wilson's War""",Biography|Comedy|Drama|History
+tt0307453,b'Shark Tale',Adventure|Animation|Comedy|Family
+tt0443489,b'Dreamgirls',Drama|Music|Musical
+tt0874936,b'Life',Crime|Drama|Mystery
+tt0408306,b'Munich',Drama|History|Thriller
+tt0314353,b'Tears of the Sun',Action|Drama|Thriller|War
+tt1103153,b'Killers',Action|Comedy|Romance|Thriller
+tt1638355,b'The Man from U.N.C.L.E.',Action|Adventure|Comedy
+tt0371246,b'Spanglish',Comedy|Drama|Romance
+tt0385880,b'Monster House',Animation|Comedy|Family|Fantasy|Mystery
+tt0166485,b'Anna and the King',Drama|History|Romance
+tt1253864,b'Immortals',Action|Drama|Fantasy|Romance
+tt0340163,b'Hostage',Action|Crime|Drama|Mystery|Thriller
+tt0329717,b'Hollywood Homicide',Action|Comedy|Crime|Thriller
+tt0120157,b'Soldier',Action|Drama|Sci-Fi
+tt0806203,b'Carriers',Drama|Horror|Sci-Fi|Thriller
+tt0166276,b'Monkeybone',Animation|Comedy|Fantasy
+tt0377062,b'Flight of the Phoenix',Action|Adventure|Drama|Thriller
+tt0217869,b'Unbreakable',Drama|Mystery|Sci-Fi|Thriller
+tt2293640,b'Minions',Action|Animation|Comedy|Family|Sci-Fi
+tt0978764,b'Sucker Punch',Action|Fantasy
+tt0120832,b'Snake Eyes',Crime|Mystery|Thriller
+tt0120184,b'Sphere',Drama|Mystery|Sci-Fi|Thriller
+tt1985949,b'Angry Birds',Action|Animation|Comedy|Family
+tt0770752,"b""Fool's Gold""",Action|Adventure|Comedy|Romance|Thriller
+tt1201167,b'Funny People',Comedy|Drama
+tt0431197,b'The Kingdom',Action|Drama|Thriller
+tt0415306,b'Talladega Nights: The Ballad of Ricky Bobby',Action|Comedy|Sport
+tt0240462,b'Dr. Dolittle 2',Comedy|Family|Fantasy
+tt0112573,b'Braveheart',Biography|Drama|History|War
+tt0418763,b'Jarhead',Action|Drama|War
+tt0462538,b'The Simpsons Movie',Adventure|Animation|Comedy
+tt0268995,b'The Majestic',Drama|Romance
+tt0132245,b'Driven',Action|Drama|Sport
+tt0338512,b'Deux fr\xc3\xa8res',Adventure|Drama|Family
+tt0368447,b'The Village',Drama|Mystery|Romance|Thriller
+tt0118998,b'Doctor Dolittle',Comedy|Family|Fantasy
+tt0286106,b'Signs',Drama|Sci-Fi|Thriller
+tt0298148,b'Shrek 2',Adventure|Animation|Comedy|Family|Fantasy|Romance
+tt0317219,b'Cars',Adventure|Animation|Comedy|Family|Sport
+tt0163187,b'Runaway Bride',Comedy|Romance
+tt0295701,b'xXx',Action|Adventure|Thriller
+tt2279373,b'The SpongeBob Movie: Sponge Out of Water',Adventure|Animation|Comedy|Family|Fantasy
+tt0117438,b'Ransom',Crime|Thriller
+tt0361748,b'Inglourious Basterds',Adventure|Drama|War
+tt0102057,b'Hook',Adventure|Comedy|Family|Fantasy
+tt0099423,b'Die Hard 2',Action|Thriller
+tt0257076,b'S.W.A.T.',Action|Adventure|Crime|Thriller
+tt2647544,b'Sleepy Hollow',Adventure|Drama|Fantasy|Mystery|Thriller
+tt0259711,b'Vanilla Sky',Fantasy|Mystery|Romance|Sci-Fi|Thriller
+tt0452637,b'Lady in the Water',Drama|Fantasy|Mystery|Thriller
+tt0370263,b'AVP: Alien vs. Predator',Action|Horror|Sci-Fi|Thriller
+tt1231580,b'Alvin and the Chipmunks: The Squeakquel',Animation|Comedy|Family|Fantasy|Music
+tt0277434,b'We Were Soldiers',Action|Drama|History|War
+tt2302755,b'Olympus Has Fallen',Action|Thriller
+tt0120844,b'Star Trek: Insurrection',Action|Adventure|Sci-Fi|Thriller
+tt1217613,b'Battle Los Angeles',Action|Sci-Fi
+tt0319061,b'Big Fish',Adventure|Drama|Fantasy
+tt0111742,b'Wolf',Drama|Horror|Romance|Thriller
+tt1568911,b'War Horse',Drama|War
+tt2177771,b'The Monuments Men',Drama|War
+tt0096754,b'The Abyss',Adventure|Drama|Sci-Fi|Thriller
+tt1027718,b'Wall Street: Money Never Sleeps',Drama
+tt0829150,b'Dracula Untold',Action|Drama|Fantasy|Horror|War
+tt0133952,b'The Siege',Action|Thriller
+tt0486655,b'Stardust',Adventure|Family|Fantasy|Romance
+tt0120102,b'Seven Years in Tibet',Adventure|Biography|Drama|History|War
+tt1578275,b'The Dilemma',Comedy|Drama
+tt0419706,b'Doom',Action|Adventure|Horror|Sci-Fi
+tt0297181,b'I Spy',Action|Adventure|Comedy|Thriller
+tt1496025,b'Underworld Awakening',Action|Fantasy|Horror
+tt1336608,b'Rock of Ages',Comedy|Drama|Musical|Romance
+tt1448755,b'Killer Elite',Action|Crime|Thriller
+tt0246894,b'Rollerball',Action|Sci-Fi|Sport
+tt0308208,b'Ballistic: Ecks vs. Sever',Action|Crime|Sci-Fi|Thriller
+tt0120696,b'Hard Rain',Action|Crime|Drama|Thriller
+tt0181739,b'Osmosis Jones',Action|Adventure|Animation|Comedy|Crime|Family|Fantasy
+tt0884726,"b""Legends of Oz: Dorothy's Return""",Adventure|Animation|Family|Fantasy|Musical
+tt2717822,b'Blackhat',Action|Crime|Drama|Mystery|Thriller
+tt0346156,b'Sky Captain and the World of Tomorrow',Action|Adventure|Mystery|Sci-Fi|Thriller
+tt0430912,b'Basic Instinct 2',Crime|Mystery|Thriller
+tt1211956,b'Escape Plan',Action|Crime|Mystery|Sci-Fi|Thriller
+tt1043726,b'The Legend of Hercules',Action|Adventure|Fantasy
+tt0164184,b'The Sum of All Fears',Action|Drama|Thriller
+tt1325004,b'The Twilight Saga: Eclipse',Adventure|Drama|Fantasy|Romance
+tt1323594,b'Despicable Me',Animation|Comedy|Family
+tt0113845,b'Money Train',Action|Comedy|Crime|Drama|Thriller
+tt2637276,b'Ted 2',Comedy
+tt1186830,b'Agora',Adventure|Drama|History|Romance
+tt0132347,b'Mystery Men',Action|Comedy|Fantasy|Sci-Fi
+tt0480687,b'Hall Pass',Comedy|Romance
+tt0140352,b'The Insider',Biography|Drama|Thriller
+tt2025690,b'The Finest Hours',Action|Drama|History|Thriller
+tt0758774,b'Body of Lies',Action|Drama|Thriller
+tt0427152,b'Dinner for Schmucks',Comedy
+tt1611224,b'Abraham Lincoln: Vampire Hunter',Action|Fantasy|Horror
+tt0137494,b'Entrapment',Action|Crime|Romance|Thriller
+tt1828327,b'Last Man Standing',Comedy
+tt0120902,b'The X Files',Drama|Mystery|Sci-Fi|Thriller
+tt0462396,b'The Last Legion',Action|Adventure|Fantasy|War
+tt0120815,b'Saving Private Ryan',Action|Drama|War
+tt2369135,b'Need for Speed',Action|Crime|Drama|Thriller
+tt0268380,b'Ice Age',Adventure|Animation|Comedy|Family
+tt0285531,b'Dreamcatcher',Drama|Horror|Sci-Fi|Thriller
+tt0443272,b'Lincoln',Biography|Drama|History|War
+tt0133093,b'The Matrix',Action|Sci-Fi
+tt0112384,b'Apollo 13',Adventure|Drama|History
+tt0304669,b'The Santa Clause 2',Comedy|Family|Fantasy
+tt1707386,b'Les Mis\xc3\xa9rables',Drama|Musical|Romance
+tt0128853,"b""You've Got Mail""",Comedy|Drama|Romance
+tt0838283,b'Step Brothers',Comedy
+tt0120746,b'The Mask of Zorro',Action|Adventure|Comedy|Romance|Thriller|Western
+tt1231583,b'Due Date',Comedy|Drama
+tt1809398,b'Unbroken',Biography|Drama|Sport|War
+tt0186566,b'Space Cowboys',Action|Adventure|Thriller
+tt0106582,b'Cliffhanger',Action|Adventure|Thriller
+tt0115759,b'Broken Arrow',Action|Crime|Thriller
+tt0219854,b'The Kid',Comedy|Family|Fantasy
+tt0469641,b'World Trade Center',Drama|History|Thriller
+tt0304415,b'Mona Lisa Smile',Drama
+tt1645170,b'The Dictator',Comedy|Romance
+tt0120663,b'Eyes Wide Shut',Drama|Mystery|Thriller
+tt1823664,b'Annie',Comedy|Drama|Family|Musical
+tt2381941,b'Focus',Comedy|Crime|Drama|Romance
+tt1596350,b'This Means War',Action|Comedy|Romance
+tt0359013,b'Blade: Trinity',Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller
+tt0119942,b'Primary Colors',Comedy|Drama
+tt1855325,b'Resident Evil: Retribution',Action|Horror|Sci-Fi|Thriller
+tt0452608,b'Death Race',Action|Sci-Fi|Thriller
+tt0116908,b'The Long Kiss Goodnight',Action|Crime|Drama|Mystery|Thriller
+tt0228750,b'Proof of Life',Action|Drama|Thriller
+tt0406375,b'Zathura: A Space Adventure',Action|Adventure|Comedy|Family|Fantasy|Sci-Fi
+tt0137523,b'Fight Club',Drama
+tt0758794,b'We Are Marshall',Drama|Sport
+tt3877200,b'The Missing',Crime|Drama|Mystery
+tt0102070,b'Hudson Hawk',Action|Adventure|Comedy
+tt0219952,b'Lucky Numbers',Comedy|Crime
+tt1418377,"b'I, Frankenstein'",Action|Fantasy|Sci-Fi|Thriller
+tt0357277,b'Elektra',Action|Crime|Fantasy|Thriller
+tt0458481,b'Sin City: A Dame to Kill For',Action|Crime|Thriller
+tt0156934,b'Random Hearts',Drama|Mystery|Romance
+tt2719848,b'Everest',Adventure|Biography|Drama|History|Sport|Thriller
+tt0396171,b'Perfume: The Story of a Murderer',Crime|Drama|Fantasy
+tt0295178,b'Austin Powers in Goldmember',Action|Comedy|Crime
+tt0375568,b'Astro Boy',Action|Animation|Comedy|Family|Sci-Fi
+tt0107290,b'Jurassic Park',Adventure|Sci-Fi|Thriller
+tt0111756,b'Wyatt Earp',Adventure|Biography|Crime|Drama|Western
+tt0109444,b'Clear and Present Danger',Action|Crime|Drama|Thriller
+tt3672840,b'Tian jiang xiong shi',Action|Adventure|Drama|History
+tt0430304,b'Littleman',Comedy|Crime
+tt0141926,b'U-571',Action|War
+tt0112346,b'The American President',Comedy|Drama|Romance
+tt0811138,b'The Love Guru',Comedy|Romance|Sport
+tt0233142,b'3000 Miles to Graceland',Action|Comedy|Crime|Thriller
+tt3460252,b'The Hateful Eight',Crime|Drama|Mystery|Thriller|Western
+tt0445934,b'Blades of Glory',Comedy|Sport
+tt1411704,b'Hop',Adventure|Animation|Comedy|Family|Fantasy
+tt0416449,b'300',Action|Drama|Fantasy|War
+tt0290002,b'Meet the Fockers',Comedy|Romance
+tt0822832,b'Marley & Me',Comedy|Drama|Family
+tt0120689,b'The Green Mile',Crime|Drama|Fantasy|Mystery
+tt0486946,b'Wild Hogs',Action|Adventure|Comedy
+tt0371606,b'Chicken Little',Adventure|Animation|Comedy|Family|Sci-Fi
+tt2267998,b'Gone Girl',Crime|Drama|Mystery|Thriller
+tt0258463,b'The Bourne Identity',Action|Mystery|Thriller
+tt0113189,b'GoldenEye',Action|Adventure|Thriller
+tt0144214,"b""The General's Daughter""",Drama|Mystery|Thriller
+tt0120382,b'The Truman Show',Comedy|Drama|Sci-Fi
+tt0120794,b'The Prince of Egypt',Adventure|Animation|Biography|Drama|Family|Fantasy|Musical
+tt0317303,b'Daddy Day Care',Comedy|Family
+tt1272878,b'2 Guns',Action|Comedy|Crime|Drama|Thriller
+tt0239395,b'Cats & Dogs',Action|Comedy|Family|Fantasy
+tt0317740,b'The Italian Job',Action|Crime|Thriller
+tt0313737,b'Two Weeks Notice',Comedy|Romance
+tt0120587,b'Antz',Adventure|Animation|Comedy|Family
+tt1078940,b'Couples Retreat',Comedy
+tt0099371,b'Days of Thunder',Action|Drama|Sport
+tt0452598,b'Cheaper by the Dozen 2',Adventure|Comedy|Family
+tt4046784,b'Maze Runner: The Scorch Trials',Action|Sci-Fi|Thriller
+tt0879870,b'Eat Pray Love',Drama|Romance
+tt0218967,b'The Family Man',Comedy|Drama|Fantasy|Romance
+tt1245526,b'RED',Action|Comedy|Crime|Thriller
+tt0119314,b'The Horse Whisperer',Drama|Romance|Western
+tt0369339,b'Collateral',Crime|Drama|Thriller
+tt0277296,b'The Scorpion King',Action|Adventure|Fantasy|Thriller
+tt0349710,b'Ladder 49',Action|Drama|Thriller
+tt0790724,b'Jack Reacher',Action|Crime|Mystery|Thriller
+tt0149261,b'Deep Blue Sea',Action|Sci-Fi|Thriller
+tt1477715,b'This Is It',Documentary|Music
+tt1598778,b'Contagion',Drama|Thriller
+tt0257568,b'Kangaroo Jack',Action|Adventure|Comedy|Crime
+tt0327597,b'Coraline',Animation|Family|Fantasy
+tt0949731,b'The Happening',Sci-Fi|Thriller
+tt0328107,b'Man on Fire',Action|Crime|Drama|Thriller
+tt0393735,b'The Shaggy Dog',Comedy|Family|Fantasy
+tt0335438,b'Starsky & Hutch',Comedy|Crime
+tt0116705,b'Jingle All the Way',Comedy|Family
+tt0167190,b'Hellboy',Action|Fantasy|Horror|Sci-Fi
+tt0120633,b'A Civil Action',Drama
+tt1623288,b'ParaNorman',Adventure|Animation|Comedy|Family|Fantasy
+tt0119395,b'The Jackal',Action|Adventure|Crime|Thriller
+tt0338337,b'Paycheck',Action|Mystery|Sci-Fi|Thriller
+tt0420238,b'The Tale of Despereaux',Adventure|Animation|Comedy|Family|Fantasy
+tt0790772,b'Rules of Engagement',Comedy|Romance
+tt0114781,b'Under Siege 2: Dark Territory',Action|Thriller
+tt1205537,b'Jack Ryan: Shadow Recruit',Action|Drama|Thriller
+tt2446980,b'Joy',Biography|Comedy|Drama
+tt3300542,b'London Has Fallen',Action|Crime|Drama|Thriller
+tt0118583,b'Alien: Resurrection',Action|Horror|Sci-Fi
+tt0822854,b'Shooter',Action|Crime|Drama|Mystery|Thriller
+tt0787474,b'The Boxtrolls',Adventure|Animation|Comedy|Family|Fantasy
+tt0120791,b'Practical Magic',Comedy|Drama|Fantasy|Romance
+tt1490017,b'The LEGO Movie',Action|Adventure|Animation|Comedy|Family|Fantasy
+tt0385307,b'Miss Congeniality 2: Armed and Fabulous',Action|Comedy|Crime
+tt0253556,b'Reign of Fire',Action|Adventure|Fantasy|Sci-Fi|Thriller
+tt1321870,b'Gangster Squad',Action|Crime|Drama|Thriller
+tt1045778,b'Year One',Adventure|Comedy
+tt1057500,b'Invictus',Biography|Drama|History|Sport
+tt0473705,b'State of Play',Crime|Drama|Mystery|Thriller
+tt1135487,b'Duplicity',Comedy|Crime|Romance|Thriller
+tt0443632,b'The Sentinel',Action|Crime|Thriller
+tt0762125,b'Planet 51',Adventure|Animation|Comedy|Family|Sci-Fi
+tt0253754,b'Star Trek: Nemesis',Action|Adventure|Sci-Fi|Thriller
+tt0138524,b'Intolerable Cruelty',Comedy|Crime|Romance
+tt2083383,b'Trouble with the Curve',Drama|Sport
+tt1226273,b'Edge of Darkness',Crime|Drama|Mystery|Thriller
+tt0120004,b'The Relic',Horror|Mystery|Sci-Fi|Thriller
+tt0289848,b'Analyze That',Comedy|Crime
+tt1034331,b'Righteous Kill',Action|Crime|Drama|Mystery|Thriller
+tt0821642,b'The Soloist',Biography|Drama|Music
+tt0146984,b'The Legend of Bagger Vance',Drama|Fantasy|Sport
+tt0181875,b'Almost Famous',Adventure|Comedy|Drama|Music
+tt0455499,b'Garfield: A Tail of Two Kitties',Animation|Comedy|Family|Fantasy
+tt0329774,b'xXx: State of the Union',Action|Adventure|Crime|Thriller
+tt0822847,b'Priest',Action|Fantasy|Horror|Sci-Fi|Thriller
+tt0165982,b'Sinbad: Legend of the Seven Seas',Adventure|Animation|Comedy|Drama|Family|Fantasy|Romance
+tt0119081,b'Event Horizon',Horror|Sci-Fi|Thriller
+tt0387877,b'The Black Dahlia',Crime|Drama|Mystery|Thriller
+tt0454824,b'Flyboys',Action|Adventure|Drama|History|Romance|War
+tt0272020,b'The Last Castle',Action|Drama|Thriller
+tt1837709,"b""Winter's Tale""",Drama|Fantasy|Mystery|Romance
+tt1538403,b'The Mortal Instruments: City of Bones',Fantasy|Horror|Mystery|Romance
+tt0765476,b'Meet Dave',Adventure|Comedy|Family|Romance|Sci-Fi
+tt0382628,b'Dark Water',Drama|Horror|Thriller
+tt0494238,b'Inkheart',Adventure|Family|Fantasy
+tt0831887,b'The Spirit',Action|Crime|Fantasy|Thriller
+tt3045616,b'Mortdecai',Action|Comedy|Mystery|Romance
+tt0460780,b'In the Name of the King: A Dungeon Siege Tale',Action|Adventure|Fantasy|Thriller
+tt4591310,b'Xi you ji zhi: Sun Wukong san da Baigu Jing',Action|Adventure|Fantasy
+tt0326905,b'The Great Raid',Action|Drama|War
+tt1431045,b'Deadpool',Action|Adventure|Comedy|Romance|Sci-Fi
+tt2179136,b'American Sniper',Action|Biography|Drama|History|Thriller|War
+tt1051904,b'Goosebumps',Adventure|Comedy|Family|Fantasy|Horror
+tt0425123,b'Just Like Heaven',Comedy|Fantasy|Romance
+tt0158622,b'The Flintstones in Viva Rock Vegas',Comedy|Family|Romance|Sci-Fi
+tt0095956,b'Rambo III',Action|Adventure|Thriller|War
+tt0379865,b'Leatherheads',Comedy|Drama|Romance|Sport
+tt2479478,b'The Ridiculous 6',Comedy|Western
+tt1314228,b'Did You Hear About the Morgans?',Comedy|Drama|Romance
+tt2234155,b'The Internship',Comedy
+tt1220634,b'Resident Evil: Afterlife',Action|Adventure|Horror|Sci-Fi
+tt0485985,b'Red Tails',Action|Adventure|Drama|History|War
+tt0159206,b'Sex and the City',Comedy|Romance
+tt0118971,"b""The Devil's Advocate""",Drama|Mystery|Thriller
+tt1232200,"b""That's My Boy""",Comedy
+tt0116136,b'DragonHeart',Action|Adventure|Fantasy
+tt0367479,b'After the Sunset',Action|Comedy|Crime|Drama
+tt1071875,b'Ghost Rider: Spirit of Vengeance',Action|Fantasy|Thriller
+tt0238112,"b""Captain Corelli's Mandolin""",Drama|Music|Romance|War
+tt0395699,b'The Pacifier',Action|Comedy|Drama|Family|Thriller
+tt0351977,b'Walking Tall',Action|Crime
+tt0109830,b'Forrest Gump',Comedy|Drama
+tt0952640,b'Alvin and the Chipmunks',Animation|Comedy|Family|Fantasy|Music
+tt0114148,b'Pocahontas',Adventure|Animation|Drama|Family|History|Musical|Romance
+tt0078346,b'Superman',Action|Adventure|Drama|Romance|Sci-Fi
+tt0117218,b'The Nutty Professor',Comedy|Romance|Sci-Fi
+tt0386588,b'Hitch',Comedy|Romance
+tt0328828,b'American Wedding',Comedy|Romance
+tt1535109,b'Captain Phillips',Biography|Drama|Thriller
+tt1279935,b'Date Night',Comedy|Crime|Romance|Thriller
+tt0112642,b'Casper',Comedy|Family|Fantasy
+tt0455944,b'The Equalizer',Action|Crime|Thriller
+tt0252076,b'Maid in Manhattan',Comedy|Drama|Romance
+tt0112740,b'Crimson Tide',Action|Drama|Thriller|War
+tt0454921,b'The Pursuit of Happyness',Biography|Drama
+tt0408790,b'Flightplan',Drama|Mystery|Thriller
+tt0109635,b'Disclosure',Drama|Thriller
+tt0120632,b'City of Angels',Drama|Fantasy|Romance
+tt0266697,b'Kill Bill: Vol. 1',Action
+tt0131325,b'Bowfinger',Comedy
+tt0118480,b'Stargate SG-1',Action|Adventure|Drama|Sci-Fi
+tt0378194,b'Kill Bill: Vol. 2',Action|Crime|Drama|Thriller
+tt0098439,b'Tango & Cash',Action|Comedy|Crime|Thriller
+tt0116253,b'Executive Decision',Action|Adventure|Thriller
+tt1396218,"b""Mr. Popper's Penguins""",Comedy|Family|Fantasy
+tt0865556,b'The Forbidden Kingdom',Action|Adventure|Fantasy
+tt1621039,b'Free Birds',Adventure|Animation|Comedy|Family
+tt0103644,b'Alien\xc2\xb3',Action|Horror|Sci-Fi
+tt0116250,b'Evita',Biography|Drama|History|Musical
+tt0122690,b'Ronin',Action|Adventure|Crime|Thriller
+tt0116409,b'The Ghost and the Darkness',Adventure|Drama|Horror|Thriller
+tt1109624,b'Paddington',Animation|Comedy|Family|Fantasy
+tt1298649,b'The Watch',Action|Comedy|Sci-Fi
+tt0269347,b'The Hunted',Action|Crime|Drama|Thriller
+tt0128278,b'Instinct',Drama|Thriller
+tt0338466,b'Stuck on You',Comedy
+tt0839980,b'Semi-Pro',Comedy|Sport
+tt1430626,b'The Pirates! In an Adventure with Scientists!',Adventure|Animation|Comedy|Family
+tt0824747,b'Changeling',Crime|Drama|Mystery|Thriller
+tt0115857,b'Chain Reaction',Action|Drama|Sci-Fi|Thriller
+tt0116277,b'The Fan',Action|Drama|Sport|Thriller
+tt0293508,b'The Phantom of the Opera',Drama|Musical|Romance|Thriller
+tt0414055,b'Elizabeth: The Golden Age',Biography|Drama|History|War
+tt0402022,b'\xc3\x86on Flux',Action|Sci-Fi
+tt0279111,b'Gods and Generals',Drama|History|War
+tt0780567,b'Imagine That',Comedy|Drama|Family|Fantasy
+tt2281587,b'Muppets Most Wanted',Adventure|Comedy|Crime|Family|Musical
+tt1126591,b'Burlesque',Drama|Music|Musical|Romance
+tt0344510,b'Un long dimanche de fian\xc3\xa7ailles',Drama|Mystery|Romance|War
+tt0160184,b'D-Tox',Crime|Horror|Mystery|Thriller
+tt0187738,b'Blade II',Action|Horror|Sci-Fi|Thriller
+tt0814314,b'Seven Pounds',Drama|Romance
+tt1308729,b'Bullet to the Head',Action|Thriller
+tt0099674,b'The Godfather: Part III',Crime|Drama
+tt0368709,b'Elizabethtown',Comedy|Drama|Romance
+tt0463034,"b'You, Me and Dupree'",Comedy|Romance
+tt0081573,b'Superman II',Action|Adventure|Romance|Sci-Fi
+tt0299930,b'Gigli',Comedy|Crime|Romance
+tt0405676,"b""All the King's Men""",Drama|Thriller
+tt0118617,b'Anastasia',Adventure|Animation|Drama|Family|Fantasy|Musical|Mystery|Romance
+tt0203009,b'Moulin Rouge!',Drama|Musical|Romance
+tt0249478,b'Domestic Disturbance',Crime|Mystery|Thriller
+tt1355683,b'Black Mass',Biography|Crime|Drama
+tt0418689,b'Flags of Our Fathers',Drama|History|War
+tt1197624,b'Law Abiding Citizen',Crime|Drama|Thriller
+tt0462322,b'Grindhouse',Action|Horror|Thriller
+tt0338216,b'Lucky You',Drama|Romance|Sport
+tt0264464,b'Catch Me If You Can',Biography|Crime|Drama
+tt1790885,b'Zero Dark Thirty',Drama|History|Thriller
+tt0452594,b'The Break-Up',Comedy|Drama|Romance
+tt0795421,b'Mamma Mia!',Comedy|Family|Musical|Romance
+tt0817230,"b""Valentine's Day""",Comedy|Romance
+tt0377818,b'The Dukes of Hazzard',Action|Adventure|Comedy
+tt0120863,b'The Thin Red Line',Drama|War
+tt1488555,b'The Change-Up',Comedy|Fantasy
+tt0125664,b'Man on the Moon',Biography|Comedy|Drama
+tt0112641,b'Casino',Biography|Crime|Drama
+tt1179034,b'From Paris with Love',Action|Thriller
+tt0245803,b'Bulletproof Monk',Action|Comedy|Fantasy
+tt0183505,"b'Me, Myself & Irene'",Comedy
+tt0414853,b'Barnyard',Animation|Comedy|Family
+tt0790604,b'Deck the Halls',Comedy|Family
+tt1259571,b'The Twilight Saga: New Moon',Adventure|Drama|Fantasy|Romance
+tt0126029,b'Shrek',Adventure|Animation|Comedy|Family|Fantasy
+tt1385826,b'The Adjustment Bureau',Romance|Sci-Fi|Thriller
+tt0102798,b'Robin Hood: Prince of Thieves',Action|Adventure|Drama|Romance
+tt0116695,b'Jerry Maguire',Comedy|Drama|Romance|Sport
+tt1637725,b'Ted',Comedy|Fantasy
+tt0119822,b'As Good as It Gets',Comedy|Drama|Romance
+tt1229340,b'Anchorman 2: The Legend Continues',Comedy
+tt0280590,b'Mr. Deeds',Comedy|Romance
+tt1650062,b'Super 8',Mystery|Sci-Fi|Thriller
+tt0251127,b'How to Lose a Guy in 10 Days',Comedy|Romance
+tt2294449,b'22 Jump Street',Action|Comedy|Crime
+tt0110148,b'Interview with the Vampire: The Vampire Chronicles',Drama|Fantasy|Horror
+tt1068680,b'Yes Man',Comedy|Romance
+tt1489889,b'Central Intelligence',Action|Comedy|Crime
+tt0120686,b'Stepmom',Comedy|Drama
+tt1528854,"b""Daddy's Home""",Comedy|Family
+tt2180411,b'Into the Woods',Adventure|Comedy|Drama|Fantasy|Musical
+tt0454848,b'Inside Man',Crime|Drama|Mystery|Thriller
+tt0120784,b'Payback',Action|Crime|Drama|Thriller
+tt0112715,b'Congo',Action|Adventure|Mystery|Sci-Fi
+tt1389137,b'We Bought a Zoo',Comedy|Drama|Family
+tt0448011,b'Knowing',Drama|Mystery|Sci-Fi|Thriller
+tt0427229,b'Failure to Launch',Comedy|Romance
+tt0377109,b'The Ring Two',Horror|Mystery
+tt1570728,"b'Crazy, Stupid, Love.'",Comedy|Drama|Romance
+tt0356634,b'Garfield',Animation|Comedy|Family|Fantasy
+tt0388419,b'Christmas with the Kranks',Comedy|Family
+tt1210166,b'Moneyball',Biography|Drama|Sport
+tt0114069,b'Outbreak',Action|Drama|Thriller
+tt2024469,b'Non-Stop',Action|Mystery|Thriller
+tt1075417,b'Race to Witch Mountain',Action|Adventure|Family|Fantasy|Sci-Fi|Thriller
+tt0434409,b'V for Vendetta',Action|Drama|Thriller
+tt0381971,b'Curious George',Adventure|Animation|Comedy|Family
+tt0400497,b'Herbie Fully Loaded',Adventure|Comedy|Family|Fantasy|Romance|Sport
+tt0260866,"b""Don't Say a Word""",Crime|Drama|Mystery|Thriller
+tt1428538,b'Hansel & Gretel: Witch Hunters',Action|Fantasy|Horror
+tt0250797,b'Unfaithful',Drama|Thriller
+tt1464540,b'I Am Number Four',Action|Adventure|Sci-Fi|Thriller
+tt0365737,b'Syriana',Drama|Thriller
+tt4172430,b'13 Hours',Action|Drama|Thriller|War
+tt2262227,b'The Book of Life',Adventure|Animation|Comedy|Family|Fantasy|Romance
+tt0408345,b'Firewall',Crime|Thriller
+tt0118548,b'Absolute Power',Action|Crime|Drama|Thriller
+tt0119173,b'G.I. Jane',Action|Drama|War
+tt0119174,b'The Game',Drama|Mystery|Thriller
+tt0384537,b'Silent Hill',Adventure|Horror|Mystery
+tt0191397,b'The Replacements',Comedy|Sport
+tt1605630,b'American Reunion',Comedy
+tt0120768,b'The Negotiator',Action|Crime|Drama|Mystery|Thriller
+tt2106361,b'Into the Storm',Action|Thriller
+tt0109254,b'Beverly Hills Cop III',Action|Comedy|Crime|Thriller
+tt0099700,b'Gremlins 2: The New Batch',Comedy|Fantasy|Horror
+tt1872194,b'The Judge',Crime|Drama
+tt0119874,b'The Peacemaker',Action|Thriller
+tt0318627,b'Resident Evil: Apocalypse',Action|Horror|Sci-Fi|Thriller
+tt0317198,b'Bridget Jones: The Edge of Reason',Comedy|Drama|Romance
+tt0313443,b'Out of Time',Crime|Drama|Romance|Thriller
+tt0110725,b'On Deadly Ground',Action|Adventure|Thriller
+tt0424774,b'The Adventures of Sharkboy and Lavagirl 3-D',Action|Adventure|Family|Fantasy
+tt0163978,b'The Beach',Adventure|Drama|Thriller
+tt0350028,b'Raising Helen',Comedy|Drama|Romance
+tt1186367,b'Ninja Assassin',Action|Crime|Thriller
+tt0126916,b'For Love of the Game',Drama|Romance|Sport
+tt0117765,b'Striptease',Comedy|Crime|Drama|Thriller
+tt1392197,b'Marmaduke',Comedy|Family
+tt1212419,b'Hereafter',Drama|Fantasy
+tt0264935,b'Murder by Numbers',Crime|Mystery|Thriller
+tt0112401,b'Assassins',Action|Crime|Thriller
+tt0367959,b'Hannibal Rising',Crime|Drama|Thriller
+tt0160916,b'The Story of Us',Comedy|Drama|Romance
+tt1517260,b'The Host',Action|Adventure|Romance|Sci-Fi|Thriller
+tt0264395,b'Basic',Action|Crime|Drama|Mystery|Thriller
+tt0309377,b'Blood Work',Action|Crime|Drama|Mystery|Thriller
+tt0963178,b'The International',Action|Crime|Drama|Mystery|Thriller
+tt0116225,b'Escape from L.A.',Action|Adventure|Sci-Fi|Thriller
+tt0129167,b'The Iron Giant',Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi
+tt0362270,b'The Life Aquatic with Steve Zissou',Adventure|Comedy|Drama
+tt1124037,b'Free State of Jones',Action|Biography|Drama|History|War
+tt0289992,b'The Life of David Gale',Crime|Drama|Thriller
+tt0331933,b'Man of the House',Action|Comedy
+tt2199571,b'Run All Night',Action|Crime|Drama|Thriller
+tt0765443,b'Eastern Promises',Crime|Mystery|Thriller
+tt0151137,b'Joan of Arc',Adventure|Biography|Drama|History|War
+tt1240982,b'Your Highness',Adventure|Comedy|Fantasy
+tt1462041,b'Dream House',Drama|Mystery|Thriller
+tt0119592,b'Mad City',Crime|Drama|Thriller
+tt0977855,b'Fair Game',Biography|Drama|Thriller
+tt0421054,b'Domino',Action|Biography|Crime|Drama|Thriller
+tt0113451,b'Jade',Crime|Drama|Thriller
+tt1034032,b'Gamer',Action|Sci-Fi|Thriller
+tt1559547,b'Beautiful Creatures',Drama|Fantasy|Romance
+tt0266452,b'Death to Smoochy',Comedy|Crime|Drama|Thriller
+tt1608290,b'Zoolander 2',Comedy
+tt0315824,b'The Big Bounce',Comedy|Crime
+tt1502404,b'Drive Angry',Action|Fantasy|Thriller
+tt0891592,b'Street Fighter: The Legend of Chun-Li',Action|Crime|Drama|Mystery|Thriller
+tt0267804,b'The One',Action|Sci-Fi|Thriller
+tt3006802,b'Outlander',Drama|Romance|Sci-Fi
+tt1131729,b'The Boat That Rocked',Comedy|Drama|Music
+tt0097576,b'Indiana Jones and the Last Crusade',Action|Adventure|Fantasy
+tt1781769,b'Anna Karenina',Drama|Romance
+tt1823672,b'Chappie',Action|Crime|Drama|Sci-Fi|Thriller
+tt0145681,b'The Bone Collector',Crime|Drama|Mystery|Thriller
+tt0258000,b'Panic Room',Crime|Drama|Thriller
+tt0120188,b'Three Kings',Action|Adventure|Comedy|Drama|War
+tt1014763,b'Child 44',Crime|Drama|Thriller
+tt0250687,b'Rat Race',Adventure|Comedy
+tt0272152,b'K-PAX',Drama|Mystery|Sci-Fi
+tt0035423,b'Kate & Leopold',Comedy|Fantasy|Romance
+tt0230030,b'Bedazzled',Comedy|Fantasy|Romance
+tt0381849,b'3:10 to Yuma',Adventure|Crime|Drama|Western
+tt2446042,b'Taken 3',Action|Thriller
+tt0120780,b'Out of Sight',Crime|Drama|Romance|Thriller
+tt0115798,b'The Cable Guy',Comedy|Drama|Thriller
+tt0150433,b'Earth',Drama|Romance|War
+tt0099422,b'Dick Tracy',Action|Comedy|Crime|Music|Romance|Thriller
+tt0155267,b'The Thomas Crown Affair',Crime|Romance|Thriller
+tt0200027,b'Riding in Cars with Boys',Biography|Comedy|Drama
+tt0083944,b'First Blood',Action|Adventure|Drama
+tt0117002,b'Mary Reilly',Drama|Horror|Romance|Thriller
+tt0119738,"b""My Best Friend's Wedding""",Comedy|Romance
+tt0265029,"b""America's Sweethearts""",Comedy|Romance
+tt0278504,b'Insomnia',Drama|Mystery|Thriller
+tt0117731,b'Star Trek: First Contact',Action|Adventure|Drama|Sci-Fi|Thriller
+tt1075747,b'Jonah Hex',Action|Drama|Fantasy|Thriller|Western
+tt0115956,b'Courage Under Fire',Action|Drama|Mystery|Thriller|War
+tt1355631,b'The Infiltrator',Biography|Crime|Drama|Thriller
+tt0109813,b'The Flintstones',Comedy|Family|Fantasy
+tt1397280,b'Taken 2',Action|Crime|Thriller
+tt0306047,b'Scary Movie 3',Comedy
+tt0212346,b'Miss Congeniality',Action|Comedy|Crime|Romance
+tt0373051,b'Journey to the Center of the Earth',Action|Adventure|Family|Fantasy|Sci-Fi
+tt0368933,b'The Princess Diaries 2: Royal Engagement',Comedy|Family|Romance
+tt0107798,b'The Pelican Brief',Crime|Drama|Mystery|Thriller
+tt0109446,b'The Client',Crime|Drama|Mystery|Thriller
+tt0825232,b'The Bucket List',Adventure|Comedy|Drama
+tt0369735,b'Monster-in-Law',Comedy|Romance
+tt1392214,b'Prisoners',Crime|Drama|Mystery|Thriller
+tt0139654,b'Training Day',Crime|Drama|Thriller
+tt0177789,b'Galaxy Quest',Adventure|Comedy|Sci-Fi
+tt0257106,b'Scary Movie 2',Comedy
+tt1204342,b'The Muppets',Adventure|Comedy|Family|Musical
+tt0120611,b'Blade',Action|Horror
+tt0393162,b'Coach Carter',Drama|Sport
+tt0264472,b'Changing Lanes',Drama|Thriller
+tt0118615,b'Anaconda',Action|Adventure|Horror|Thriller
+tt0200550,b'Coyote Ugly',Comedy|Drama|Music|Romance
+tt0314331,b'Love Actually',Comedy|Drama|Romance
+tt0120623,"b""A Bug's Life""",Adventure|Animation|Comedy|Family|Fantasy
+tt0120681,b'From Hell',Horror|Mystery|Thriller
+tt0111255,b'The Specialist',Action|Crime|Drama|Romance|Thriller
+tt0117918,b'Tin Cup',Comedy|Drama|Romance|Sport
+tt0371724,"b""The Hitchhiker's Guide to the Galaxy""",Adventure|Comedy|Sci-Fi
+tt0396592,b'Fat Albert',Comedy|Family|Fantasy|Romance
+tt0432021,b'Resident Evil: Extinction',Action|Horror|Sci-Fi|Thriller
+tt1086772,b'Blended',Comedy|Romance
+tt0408985,b'Last Holiday',Adventure|Comedy|Drama
+tt1615065,b'Savages',Crime|Drama|Thriller
+tt0274166,b'Johnny English',Action|Adventure|Comedy
+tt0429589,b'The Ant Bully',Adventure|Animation|Comedy|Family|Fantasy
+tt0087182,b'Dune',Action|Adventure|Sci-Fi
+tt0445922,b'Across the Universe',Drama|Fantasy|Musical|Romance
+tt0959337,b'Revolutionary Road',Drama|Romance
+tt0450232,b'16 Blocks',Action|Crime|Drama|Thriller
+tt0364970,b'Babylon A.D.',Action|Adventure|Sci-Fi|Thriller
+tt0116421,b'The Glimmer Man',Action|Comedy|Crime|Drama|Thriller
+tt0117108,b'Multiplicity',Comedy|Romance|Sci-Fi
+tt0775552,b'Aliens in the Attic',Adventure|Comedy|Family|Fantasy|Sci-Fi
+tt0237572,b'The Pledge',Crime|Drama|Mystery|Thriller
+tt0117331,b'The Phantom',Action|Adventure|Comedy|Fantasy
+tt0149624,b'All the Pretty Horses',Drama|Romance|Western
+tt1139328,b'The Ghost Writer',Mystery|Thriller
+tt0118956,b'Deep Rising',Action|Adventure|Horror|Sci-Fi
+tt1046997,b'Miracle at St. Anna',Action|Crime|Drama|Thriller|War
+tt0473444,b'Man cheng jin dai huang jin jia',Drama|Romance
+tt0814022,b'Bangkok Dangerous',Action|Crime|Thriller
+tt0246464,b'Big Trouble',Comedy|Crime|Thriller
+tt0484740,b'Love in the Time of Cholera',Drama|Romance
+tt1634122,b'Johnny English Reborn',Action|Adventure|Comedy|Crime
+tt0249516,b'Foodfight!',Action|Animation|Comedy|Family|Fantasy
+tt1024648,b'Argo',Biography|Drama|History|Thriller
+tt0106977,b'The Fugitive',Action|Adventure|Crime|Drama|Mystery|Thriller
+tt1038919,b'The Bounty Hunter',Action|Comedy|Romance
+tt0117665,b'Sleepers',Crime|Drama|Thriller
+tt0089880,b'Rambo: First Blood Part II',Action|Adventure|Thriller|War
+tt0116731,b'The Juror',Drama|Thriller
+tt0032910,b'Pinocchio',Animation|Family|Fantasy|Musical
+tt0080855,"b""Heaven's Gate""",Adventure|Drama|Western
+tt0401855,b'Underworld: Evolution',Action|Adventure|Fantasy|Sci-Fi|Thriller
+tt1976009,b'Victor Frankenstein',Drama|Horror|Sci-Fi|Thriller
+tt0181536,b'Finding Forrester',Drama
+tt0191754,b'28 Days',Comedy|Drama
+tt0342258,b'Unleashed',Action|Crime|Drama|Thriller
+tt0253867,b'The Sweetest Thing',Comedy|Romance
+tt0106918,b'The Firm',Drama|Mystery|Thriller
+tt1438254,b'Charlie St. Cloud',Drama|Fantasy|Romance
+tt0472399,b'The Mechanic',Action|Crime|Thriller
+tt1232829,b'21 Jump Street',Action|Comedy|Crime
+tt0125439,b'Notting Hill',Comedy|Drama|Romance
+tt0120630,b'Chicken Run',Adventure|Animation|Comedy|Drama|Family
+tt0343135,b'Along Came Polly',Comedy|Romance
+tt0103859,b'Boomerang',Comedy|Drama|Romance
+tt2404463,b'The Heat',Action|Comedy|Crime
+tt0056937,b'Cleopatra',Biography|Drama|History|Romance
+tt1648179,b'Here Comes the Boom',Action|Comedy|Sport
+tt0257756,b'High Crimes',Crime|Drama|Mystery|Thriller
+tt0117057,b'The Mirror Has Two Faces',Comedy|Drama|Romance
+tt0265349,b'The Mothman Prophecies',Drama|Horror|Mystery|Thriller
+tt0889583,b'Br\xc3\xbcno',Comedy
+tt0097742,b'Licence to Kill',Action|Adventure|Thriller
+tt1486185,b'Red Riding Hood',Fantasy|Horror|Mystery|Thriller
+tt0179626,b'15 Minutes',Action|Crime|Drama|Thriller
+tt0108255,b'Super Mario Bros.',Adventure|Comedy|Family|Fantasy|Sci-Fi
+tt0399295,b'Lord of War',Crime|Drama|Thriller
+tt0299977,b'Ying xiong',Action|Adventure|History
+tt1598828,b'One for the Money',Action|Comedy|Crime|Romance|Thriller
+tt2788710,b'The Interview',Comedy
+tt1032751,"b""The Warrior's Way""",Action|Fantasy|Western
+tt0055689,"b""McHale's Navy""",Comedy|War
+tt1149361,b'Mic Macs \xc3\xa0 Tire-Larigot',Action|Comedy|Crime
+tt0298203,b'8 Mile',Drama|Music
+tt1220911,"b""Pourquoi j'ai pas mang\xc3\xa9 mon p\xc3\xa8re""",Adventure|Animation|Comedy|Family
+tt0183790,"b""A Knight's Tale""",Action|Adventure|Romance
+tt0288045,b'The Medallion',Action|Comedy|Fantasy
+tt0167404,b'The Sixth Sense',Drama|Mystery|Thriller
+tt1568338,b'Man on a Ledge',Action|Crime|Thriller
+tt1053810,b'The Big Year',Comedy
+tt0087538,b'The Karate Kid',Action|Drama|Family|Sport
+tt1800241,b'American Hustle',Crime|Drama
+tt1041829,b'The Proposal',Comedy|Drama|Romance
+tt0096874,b'Back to the Future Part II',Adventure|Comedy|Sci-Fi
+tt2872732,b'Lucy',Action|Sci-Fi|Thriller
+tt2322441,b'Fifty Shades of Grey',Drama|Romance
+tt0338459,b'Spy Kids 3: Game Over',Action|Adventure|Comedy|Family|Sci-Fi
+tt0117913,b'A Time to Kill',Crime|Drama|Thriller
+tt0349205,b'Cheaper by the Dozen',Comedy|Family
+tt1091191,b'Lone Survivor',Action|Biography|Drama|Thriller|War
+tt0104694,b'A League of Their Own',Comedy|Drama|Sport
+tt3065204,b'The Conjuring 2',Horror|Mystery|Thriller
+tt1285016,b'The Social Network',Biography|Drama
+tt1001508,"b""He's Just Not That Into You""",Comedy|Drama|Romance
+tt0362120,b'Scary Movie 4',Comedy
+tt0134084,b'Scream 3',Horror|Mystery
+tt0099088,b'Back to the Future Part III',Adventure|Comedy|Sci-Fi|Western
+tt2561572,b'Get Hard',Comedy|Crime
+tt0103874,b'Dracula',Fantasy|Horror|Romance
+tt1135503,b'Julie & Julia',Biography|Drama|Romance
+tt0453562,b'42',Biography|Drama|Sport
+tt2096672,b'Dumb and Dumber To',Comedy
+tt0397313,b'Eight Below',Adventure|Drama|Family
+tt2361509,b'The Intern',Comedy|Drama
+tt2869728,b'Ride Along 2',Action|Comedy
+tt0104691,b'The Last of the Mohicans',Action|Adventure|Drama|Romance|War
+tt0401792,b'Sin City',Crime|Thriller
+tt0443274,b'Vantage Point',Crime|Drama|Mystery|Thriller
+tt1155056,"b'I Love You, Man'",Comedy|Romance
+tt0256380,b'Shallow Hal',Comedy|Drama|Fantasy|Romance
+tt0102138,b'JFK',Drama|History|Thriller
+tt0421729,"b""Big Momma's House 2""",Comedy|Crime
+tt0236493,b'The Mexican',Adventure|Comedy|Crime|Romance
+tt0974661,b'17 Again',Comedy|Drama|Family|Fantasy|Romance
+tt2203939,b'The Other Woman',Comedy|Romance
+tt1144884,b'The Final Destination',Horror
+tt3682448,b'Bridge of Spies',Drama|History|Thriller
+tt0159273,b'Behind Enemy Lines',Action|Drama|Thriller|War
+tt1226229,b'Get Him to the Greek',Comedy|Music
+tt0358135,b'Shall We Dance',Comedy|Drama|Romance
+tt0122718,b'Small Soldiers',Action|Adventure|Comedy|Family|Sci-Fi
+tt0120177,b'Spawn',Action|Horror
+tt0245844,b'The Count of Monte Cristo',Action|Adventure|Drama|Romance|Thriller
+tt1189340,b'The Lincoln Lawyer',Crime|Drama|Thriller
+tt1401152,b'Unknown',Action|Mystery|Thriller
+tt0482571,b'The Prestige',Drama|Mystery|Sci-Fi|Thriller
+tt2170439,b'Horrible Bosses 2',Comedy|Crime
+tt0765446,b'Escape from Planet Earth',Adventure|Animation|Comedy|Family|Sci-Fi
+tt0472043,b'Apocalypto',Action|Adventure|Drama|Thriller
+tt0093428,b'The Living Daylights',Action|Adventure|Thriller
+tt1424381,b'Predators',Action|Adventure|Sci-Fi|Thriller
+tt0091396,b'Legal Eagles',Comedy|Crime|Romance
+tt0363988,b'Secret Window',Mystery|Thriller
+tt0410297,b'The Lake House',Drama|Fantasy|Romance
+tt0397101,b'The Skeleton Key',Horror|Mystery|Thriller
+tt1462769,b'The Odd Life of Timothy Green',Comedy|Drama|Family|Fantasy
+tt0866439,b'Made of Honor',Comedy|Romance
+tt1742044,b'Jersey Boys',Biography|Drama|Music|Musical
+tt0119978,b'The Rainmaker',Crime|Drama|Thriller
+tt0348836,b'Gothika',Horror|Mystery|Thriller
+tt0118607,b'Amistad',Drama|History
+tt0758730,b'AVPR: Aliens vs Predator - Requiem',Action|Horror|Sci-Fi|Thriller
+tt0110989,b'Ri\xc2\xa2hie Ri\xc2\xa2h',Comedy|Family
+tt0758766,b'Music and Lyrics',Comedy|Music|Romance
+tt1092026,b'Paul',Adventure|Comedy|Sci-Fi
+tt1694020,b'The Guilt Trip',Comedy|Drama
+tt1262416,b'Scream 4',Horror|Mystery
+tt0134273,b'8MM',Mystery|Thriller
+tt0101761,b'The Doors',Biography|Drama|Music|Musical
+tt1956620,b'Sex Tape',Comedy
+tt0162983,b'Hanging Up',Comedy|Drama
+tt1622979,b'Final Destination 5',Horror
+tt0223897,b'Pay It Forward',Drama
+tt0332047,b'Fever Pitch',Comedy|Drama|Romance|Sport
+tt0817538,b'Drillbit Taylor',Comedy|Drama
+tt2557490,b'A Million Ways to Die in the West',Comedy|Western
+tt0111143,b'The Shadow',Action|Adventure|Crime|Fantasy|Mystery|Thriller
+tt0477302,b'Extremely Loud & Incredibly Close',Adventure|Drama|Mystery
+tt1126618,b'Morning Glory',Comedy|Drama|Romance
+tt0430308,"b""Get Rich or Die Tryin'""",Biography|Crime|Drama|Music
+tt0294870,b'Rent',Drama|Musical|Romance
+tt0163983,b'Bless the Child',Crime|Drama|Horror|Thriller
+tt0129280,b'The Out-of-Towners',Comedy
+tt0116654,b'The Island of Dr. Moreau',Horror|Sci-Fi|Thriller
+tt0246544,b'The Musketeer',Action|Adventure|Romance
+tt0467200,b'The Other Boleyn Girl',Biography|Drama|History|Romance
+tt0230838,b'Sweet November',Drama|Romance
+tt0444682,b'The Reaping',Horror|Thriller
+tt0070379,b'Mean Streets',Crime|Drama|Romance|Thriller
+tt1657507,b'Colombiana',Action|Crime|Drama|Thriller
+tt0120800,b'Quest for Camelot',Adventure|Animation|Comedy|Drama|Family|Fantasy|Musical
+tt0269095,b'City by the Sea',Crime|Drama|Mystery|Thriller
+tt0115907,b'City Hall',Drama|Thriller
+tt0114436,b'Showgirls',Drama
+tt0422720,b'Marie Antoinette',Biography|Drama|History|Romance
+tt0113552,b'Kiss of Death',Action|Crime|Thriller
+tt0208988,b'Get Carter',Action|Crime|Drama|Thriller
+tt1649419,b'Lo imposible',Drama|Thriller
+tt0093278,b'Ishtar',Action|Adventure|Comedy|Music|Thriller
+tt0432283,b'Fantastic Mr. Fox',Adventure|Animation|Comedy|Crime|Family
+tt0282687,b'Life or Something Like It',Comedy|Romance
+tt0104850,b'Memoirs of an Invisible Man',Comedy|Romance|Sci-Fi|Thriller
+tt0211915,"b""Le fabuleux destin d'Am\xc3\xa9lie Poulain""",Comedy|Romance
+tt0375173,b'Alfie',Comedy|Drama|Romance
+tt1430615,b'Big Miracle',Biography|Drama|Romance
+tt0120646,b'The Deep End of the Ocean',Drama
+tt0295254,b'Feardotcom',Crime|Horror|Thriller
+tt0450405,"b""Cirque du Freak: The Vampire's Assistant""",Action|Adventure|Fantasy|Thriller
+tt0266489,b'Duplex',Comedy
+tt1111948,b'Soul Men',Comedy|Drama|Music
+tt0176269,b'Universal Soldier: The Return',Action|Sci-Fi
+tt1188729,b'Pandorum',Action|Horror|Mystery|Sci-Fi|Thriller
+tt0160399,b'Impostor',Drama|Mystery|Sci-Fi|Thriller
+tt0283160,b'Extreme Ops',Action|Adventure|Thriller
+tt0448134,b'Sunshine',Adventure|Sci-Fi|Thriller
+tt0763831,b'A Thousand Words',Comedy|Drama
+tt0361500,b'Delgo',Adventure|Animation|Comedy|Fantasy|Romance
+tt2515034,b'The Gunman',Action|Crime|Drama|Mystery|Thriller
+tt0457495,b'Stormbreaker',Action|Adventure|Family|Thriller
+tt0486822,b'Disturbia',Drama|Mystery|Thriller
+tt0113243,b'Hackers',Comedy|Crime|Drama|Thriller
+tt0455782,b'The Hunting Party',Adventure|Comedy|Drama|Romance|Thriller|War
+tt0110074,b'The Hudsucker Proxy',Comedy|Fantasy
+tt0374089,b'K\xc3\xb6shpendiler',Drama|History|War
+tt1706620,b'Snowpiercer',Action|Drama|Sci-Fi|Thriller
+tt0961097,b'Un monstre \xc3\xa0 Paris',Adventure|Animation|Comedy|Fantasy|Music|Romance
+tt0357054,b'The Last Shot',Comedy
+tt0109506,b'The Crow',Action|Drama|Fantasy
+tt2631186,b'Bahubali: The Beginning',Action|Adventure|Drama|Fantasy|War
+tt0452694,"b""The Time Traveler's Wife""",Drama|Fantasy|Romance|Sci-Fi
+tt0490084,b'Because I Said So',Comedy|Romance
+tt1142977,b'Frankenweenie',Animation|Comedy|Family|Horror|Sci-Fi
+tt0379786,b'Serenity',Action|Adventure|Sci-Fi|Thriller
+tt0312329,b'Against the Ropes',Biography|Drama|Romance|Sport
+tt1661382,b'Grudge Match',Comedy|Sport
+tt0425637,b'Chi bi',Action|Adventure|Drama|History|War
+tt0256415,b'Sweet Home Alabama',Comedy|Romance
+tt1142988,b'The Ugly Truth',Comedy|Romance
+tt0287717,b'Spy Kids 2: Island of Lost Dreams',Action|Adventure|Comedy|Family|Sci-Fi
+tt0111280,b'Star Trek: Generations',Action|Adventure|Mystery|Sci-Fi|Thriller
+tt1462900,b'Yi dai zong shi',Action|Biography|Drama
+tt1067583,b'Water for Elephants',Drama|Romance
+tt0115082,b'3rd Rock from the Sun',Comedy|Family|Sci-Fi
+tt2911342,"b""Dragon Nest: Warriors' Dawn""",Adventure|Animation|Family|Fantasy
+tt0174856,b'The Hurricane',Biography|Drama|Sport
+tt0278435,b'Enough',Crime|Drama|Thriller
+tt3450650,b'Paul Blart: Mall Cop 2',Action|Comedy|Crime
+tt0225071,b'Angel Eyes',Drama|Romance
+tt0279889,b'Joe Somebody',Comedy|Drama
+tt0142688,b'The Ninth Gate',Mystery|Thriller
+tt0202470,b'Rock Star',Drama|Music
+tt0929632,b'Precious',Drama
+tt0118158,b'White Squall',Adventure|Drama
+tt0084787,b'The Thing',Horror|Mystery|Sci-Fi
+tt1411250,b'Riddick',Action|Sci-Fi|Thriller
+tt0119210,b'Switchback',Crime|Mystery|Thriller
+tt0193560,b'Texas Rangers',Action|Adventure|Drama|Thriller|Western
+tt0970411,b'City of Ember',Adventure|Family|Fantasy|Sci-Fi
+tt1560747,b'The Master',Drama
+tt0437954,b'Virgin Territory',Adventure|Comedy|History|Romance
+tt0469903,b'The Express',Biography|Drama|Sport
+tt2304933,b'The 5th Wave',Action|Adventure|Sci-Fi|Thriller
+tt3076658,b'Creed',Drama|Sport
+tt0840361,b'The Town',Crime|Drama|Thriller
+tt1586265,"b""What to Expect When You're Expecting""",Comedy|Drama|Romance
+tt0887883,b'Burn After Reading',Comedy|Drama
+tt0410377,"b""Nim's Island""",Adventure|Comedy|Family|Fantasy
+tt1979320,b'Rush',Action|Biography|Drama|Sport
+tt0175880,b'Magnolia',Drama
+tt1385867,b'Cop Out',Action|Comedy|Crime
+tt1292566,b'How to Be Single',Comedy|Romance
+tt1564349,b'Dolphin Tale',Drama|Family
+tt1099212,b'Twilight',Drama|Fantasy|Romance
+tt0251160,b'John Q',Crime|Drama|Thriller
+tt0181316,b'Blue Streak',Action|Comedy|Crime|Thriller
+tt1723121,"b""We're the Millers""",Comedy|Crime
+tt0118771,b'Breakdown',Action|Crime|Drama|Mystery|Thriller
+tt0086006,b'Never Say Never Again',Action|Adventure|Thriller
+tt1231587,b'Hot Tub Time Machine',Comedy|Sci-Fi
+tt2978462,b'Dolphin Tale 2',Drama|Family
+tt0266465,b'A Man Apart',Action|Crime|Drama|Thriller
+tt1243974,b'Aloha',Comedy|Drama|Romance
+tt0116410,b'Ghosts of Mississippi',Drama|History
+tt0120834,b'Snow Falling on Cedars',Drama|Mystery|Romance|Thriller
+tt1161864,b'The Rite',Drama|Horror|Mystery|Thriller
+tt0119177,b'Gattaca',Drama|Sci-Fi|Thriller
+tt0482603,b'Space Chimps',Adventure|Animation|Comedy|Family|Sci-Fi
+tt0325537,b'Head of State',Comedy
+tt1119646,b'The Hangover',Comedy
+tt2888046,b'Yip Man 3',Action|Biography|Drama|History
+tt0145660,b'Austin Powers: The Spy Who Shagged Me',Action|Adventure|Comedy|Crime
+tt0096895,b'Batman',Action|Adventure
+tt1316616,b'There Be Dragons',Biography|Drama|War
+tt0104714,b'Lethal Weapon 3',Action|Crime|Thriller
+tt0878804,b'The Blind Side',Biography|Drama|Sport
+tt0227538,b'Spy Kids',Action|Adventure|Comedy|Family|Sci-Fi
+tt1499658,b'Horrible Bosses',Comedy|Crime
+tt1403865,b'True Grit',Adventure|Drama|Western
+tt0458352,b'The Devil Wears Prada',Comedy|Drama|Romance
+tt0079945,b'Star Trek: The Motion Picture',Adventure|Mystery|Sci-Fi
+tt2024432,b'Identity Thief',Comedy|Crime
+tt0101540,b'Cape Fear',Crime|Thriller
+tt0478087,b'21',Crime|Drama|Thriller
+tt3152624,b'Trainwreck',Comedy|Romance
+tt0372237,b'Guess Who',Comedy|Romance
+tt0116209,b'The English Patient',Drama|Romance|War
+tt0119488,b'L.A. Confidential',Crime|Drama|Mystery|Thriller
+tt0405325,b'Sky High',Adventure|Comedy|Family|Sci-Fi
+tt0119360,b'In & Out',Comedy
+tt0087800,b'A Nightmare on Elm Street',Horror
+tt0209958,b'The Cell',Horror|Sci-Fi|Thriller
+tt0120744,b'The Man in the Iron Mask',Action|Adventure
+tt1028576,b'Secretariat',Biography|Drama|Family|History|Sport
+tt0453556,b'TMNT',Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi
+tt0316465,b'Radio',Biography|Drama|Sport
+tt1632708,b'Friends with Benefits',Comedy|Romance
+tt4438848,b'Neighbors 2: Sorority Rising',Comedy
+tt2140373,b'Saving Mr. Banks',Biography|Comedy|Drama|History|Music
+tt0104797,b'Malcolm X',Biography|Drama|History|Romance
+tt1758830,b'This Is 40',Comedy
+tt0976238,b'Old Dogs',Comedy|Family
+tt0834001,b'Underworld: Rise of the Lycans',Action|Adventure|Fantasy|Sci-Fi|Thriller
+tt0762114,b'License to Wed',Comedy|Romance
+tt0437863,b'The Benchwarmers',Comedy|Romance|Sport
+tt0417001,b'Must Love Dogs',Comedy|Romance
+tt0119008,b'Donnie Brasco',Biography|Crime|Drama
+tt0120804,b'Resident Evil',Action|Horror|Sci-Fi
+tt0084516,b'Poltergeist',Fantasy|Horror
+tt0335245,b'The Ladykillers',Comedy|Crime|Thriller
+tt0467197,b'Max Payne',Action|Crime|Drama|Mystery|Thriller
+tt1637688,b'In Time',Action|Sci-Fi|Thriller
+tt1212436,b'The Back-up Plan',Comedy|Romance
+tt0491152,b'Something Borrowed',Comedy|Drama|Romance
+tt0265087,b'Black Knight',Adventure|Comedy|Fantasy
+tt0111301,b'Street Fighter',Action|Adventure|Comedy|Thriller
+tt0253474,b'The Pianist',Biography|Drama|War
+tt0762121,b'The Nativity Story',Drama|Family|Fantasy
+tt0376541,b'Closer',Drama|Romance
+tt1616195,b'J. Edgar',Biography|Crime|Drama
+tt0790686,b'Mirrors',Horror|Mystery
+tt0238546,b'Queen of the Damned',Drama|Fantasy|Horror
+tt0100403,b'Predator 2',Action|Horror|Sci-Fi
+tt0880578,b'Untraceable',Crime|Drama|Thriller
+tt0300051,b'Jersey Girl',Comedy|Drama|Romance
+tt1712170,b'Alex Cross',Action|Crime|Mystery|Thriller
+tt0119668,b'Midnight in the Garden of Good and Evil',Crime|Drama|Mystery|Thriller
+tt3276924,b'Heist',Action|Crime|Thriller
+tt1415283,b'Nanny McPhee and the Big Bang',Comedy|Family|Fantasy
+tt0104427,b'Hoffa',Biography|Crime|Drama
+tt0443701,b'The X Files: I Want to Believe',Drama|Mystery|Sci-Fi|Thriller
+tt0327679,b'Ella Enchanted',Comedy|Family|Fantasy|Romance
+tt3322364,b'Concussion',Biography|Drama|Sport
+tt1600195,b'Abduction',Action|Mystery|Thriller
+tt0185014,b'Wonder Boys',Comedy|Drama
+tt0426592,b'Superhero Movie',Action|Comedy|Sci-Fi|Thriller
+tt1235522,b'Broken City',Crime|Drama|Thriller
+tt0257516,b'Cursed',Comedy|Horror
+tt1547234,b'Premium Rush',Action|Crime|Thriller
+tt2967224,b'Hot Pursuit',Action|Comedy|Crime
+tt0240510,b'The Four Feathers',Adventure|Drama|Romance|War
+tt1904996,b'Parker',Action|Crime|Romance|Thriller
+tt0360201,b'Wimbledon',Comedy|Romance|Sport
+tt0492389,b'Furry Vengeance',Comedy|Family
+tt1438173,b'Bait',Action|Horror|Sci-Fi
+tt0891527,b'Lions for Lambs',Drama|Thriller|War
+tt0841046,b'Walk Hard: The Dewey Cox Story',Comedy|Music
+tt0120824,b'The Shipping News',Drama
+tt0962736,b'The Young Victoria',Biography|Drama|History|Romance
+tt0365929,b'Whiteout',Action|Crime|Mystery|Thriller
+tt0478304,b'The Tree of Life',Drama|Fantasy
+tt0120724,b'Knock Off',Action|Comedy|Thriller
+tt1742334,b'Sabotage',Action|Crime|Drama|Thriller
+tt0304711,b'The Order',Action|Mystery|Thriller
+tt0383060,b'Zoom',Action|Adventure|Family|Sci-Fi
+tt3488710,b'The Walk',Adventure|Biography|Drama|Thriller
+tt0401445,b'A Good Year',Comedy|Drama|Romance
+tt1474684,b'Luther',Crime|Drama|Mystery|Thriller
+tt0105211,b'Radio Flyer',Drama
+tt0280665,b'Femme Fatale',Crime|Drama|Mystery|Thriller
+tt0113362,b'Le hussard sur le toit',Adventure|Drama|Romance|War
+tt0134154,b'Ride with the Devil',Drama|Romance|War|Western
+tt1164999,b'Biutiful',Drama
+tt0416496,b'Bandidas',Action|Comedy|Crime|Western
+tt1790864,b'The Maze Runner',Action|Mystery|Sci-Fi|Thriller
+tt2358925,b'Unfinished Business',Comedy
+tt0106226,b'The Age of Innocence',Drama|Romance
+tt0414993,b'The Fountain',Drama|Sci-Fi
+tt0163579,b'Chill Factor',Action|Adventure|Comedy|Drama|Thriller
+tt1656186,b'Stolen',Action|Crime|Drama|Thriller
+tt0876563,b'Gake no ue no Ponyo',Adventure|Animation|Family|Fantasy
+tt2726560,b'The Longest Ride',Drama|Romance
+tt0138304,"b""The Astronaut's Wife""",Drama|Sci-Fi|Thriller
+tt1540128,b'Playing for Keeps',Comedy|Romance|Sport
+tt2304771,b'Mandela: Long Walk to Freedom',Biography|Drama|History
+tt0082979,b'Reds',Biography|Drama|History|Romance
+tt0104257,b'A Few Good Men',Drama|Thriller
+tt0242445,b'Exit Wounds',Action|Comedy|Crime|Drama|Thriller
+tt0208003,"b""Big Momma's House""",Action|Comedy|Crime
+tt3148834,b'The House of Magic',Adventure|Animation|Comedy|Family|Fantasy
+tt1093357,b'The Darkest Hour',Action|Adventure|Horror|Sci-Fi|Thriller
+tt1800741,b'Step Up Revolution',Drama|Music|Romance
+tt0417148,b'Snakes on a Plane',Action|Adventure|Crime|Drama|Thriller
+tt0330793,b'The Punisher',Action|Crime|Drama|Thriller
+tt0380389,b'Goal!',Drama|Romance|Sport
+tt1656190,b'Safe',Action|Crime|Thriller
+tt0086190,b'Star Wars: Episode VI - Return of the Jedi',Action|Adventure|Fantasy|Sci-Fi
+tt0483607,b'Doomsday',Action|Sci-Fi|Thriller
+tt0976051,b'The Reader',Drama|Romance
+tt1655460,b'Wanderlust',Comedy
+tt0319343,b'Elf',Comedy|Family|Fantasy|Romance
+tt0117333,b'Phenomenon',Drama|Fantasy|Romance|Sci-Fi
+tt0281373,b'Snow Dogs',Adventure|Comedy|Family|Sport
+tt0096061,b'Scrooged',Comedy|Drama|Fantasy
+tt0457510,b'Nacho Libre',Comedy|Family|Sport
+tt1478338,b'Bridesmaids',Comedy|Romance
+tt1245492,b'This Is the End',Comedy|Fantasy
+tt0203019,b'Men of Honor',Biography|Drama
+tt1135084,b'Takers',Action|Crime|Thriller
+tt1931435,b'The Big Wedding',Comedy
+tt1464174,"b'Big Mommas: Like Father, Like Son'",Action|Comedy|Crime
+tt0945513,b'Source Code',Mystery|Sci-Fi|Thriller
+tt0481369,b'The Number 23',Mystery|Thriller
+tt1981107,b'The Young and Prodigious T.S. Spivet',Action|Adventure|Drama|Family
+tt0078723,b'1941',Action|Comedy|War
+tt0418647,b'Dreamer: Inspired by a True Story',Drama|Family|Sport
+tt0399146,b'A History of Violence',Crime|Drama|Thriller
+tt0388482,b'Transporter 2',Action|Crime|Thriller
+tt0114214,b'The Quick and the Dead',Action|Thriller|Western
+tt0323033,b'Laws of Attraction',Comedy|Romance
+tt0163988,b'Bringing Out the Dead',Drama|Thriller
+tt1053424,b'Repo Men',Action|Crime|Sci-Fi|Thriller
+tt0115725,b'Bogus',Comedy|Family|Fantasy
+tt0790628,b'The Incredible Burt Wonderstone',Comedy
+tt0150216,b'Cradle Will Rock',Drama
+tt0452624,b'The Good German',Drama|Mystery|Thriller
+tt0306892,b'George and the Dragon',Action|Adventure|Comedy|Fantasy|Romance
+tt0078788,b'Apocalypse Now',Drama|War
+tt1322312,b'Going the Distance',Comedy|Romance
+tt0113862,"b""Mr. Holland's Opus""",Drama|Music
+tt3014866,b'Criminal',Action|Crime|Drama|Mystery|Sci-Fi|Thriller
+tt1907668,b'Flight',Drama|Thriller
+tt0079574,b'Moonraker',Action|Adventure|Sci-Fi|Thriller
+tt2278388,b'The Grand Budapest Hotel',Adventure|Comedy|Crime|Drama
+tt0252501,b'Hearts in Atlantis',Drama|Mystery
+tt0099052,b'Arachnophobia',Comedy|Fantasy|Horror|Thriller
+tt0186151,b'Frequency',Crime|Drama|Mystery|Sci-Fi|Thriller
+tt1524930,b'Vacation',Adventure|Comedy
+tt0299658,b'Chicago',Comedy|Crime|Musical
+tt0142342,b'Big Daddy',Comedy|Drama
+tt0252866,b'American Pie 2',Comedy
+tt0114709,b'Toy Story',Adventure|Animation|Comedy|Family|Fantasy
+tt0111257,b'Speed',Action|Adventure|Crime|Thriller
+tt1606389,b'The Vow',Drama|Romance
+tt1244659,b'Extraordinary Measures',Drama
+tt0210945,b'Remember the Titans',Biography|Drama|Sport
+tt0099810,b'The Hunt for Red October',Action|Adventure|Thriller
+tt1327773,b'The Butler',Biography|Drama
+tt0364725,b'Dodgeball: A True Underdog Story',Comedy|Sport
+tt0101272,b'The Addams Family',Comedy|Fantasy
+tt0112281,b'Ace Ventura: When Nature Calls',Adventure|Comedy
+tt0247638,b'The Princess Diaries',Comedy|Family|Romance
+tt0116313,b'The First Wives Club',Comedy
+tt0114369,b'Se7en',Crime|Drama|Mystery|Thriller
+tt1136608,b'District 9',Action|Sci-Fi|Thriller
+tt0345950,b'The SpongeBob SquarePants Movie',Adventure|Animation|Comedy|Family|Fantasy
+tt0327056,b'Mystic River',Crime|Drama|Mystery|Thriller
+tt0405159,b'Million Dollar Baby',Drama|Sport
+tt0122933,b'Analyze This',Comedy|Crime
+tt0332280,b'The Notebook',Drama|Romance
+tt0988595,b'27 Dresses',Comedy|Romance
+tt1114677,b'Hannah Montana: The Movie',Comedy|Drama|Family|Music|Romance
+tt0213203,b'Rugrats in Paris: The Movie - Rugrats II',Adventure|Animation|Comedy|Family|Romance
+tt0102713,b'The Prince of Tides',Drama|Romance
+tt0110322,b'Legends of the Fall',Drama|Romance|War|Western
+tt1193138,b'Up in the Air',Drama|Romance
+tt0257360,b'About Schmidt',Comedy|Drama
+tt1588173,b'Warm Bodies',Comedy|Horror|Romance
+tt1276104,b'Looper',Action|Crime|Drama|Sci-Fi|Thriller
+tt0231775,b'Down to Earth',Comedy|Fantasy
+tt0112431,b'Babe',Comedy|Drama|Family
+tt1535438,b'Hope Springs',Comedy|Drama|Romance
+tt0800039,b'Forgetting Sarah Marshall',Comedy|Drama|Romance
+tt0430105,b'Four Brothers',Action|Crime|Drama|Mystery|Thriller
+tt0871426,b'Baby Mama',Comedy|Romance
+tt0119313,b'Hope Floats',Drama|Romance
+tt0901476,b'Bride Wars',Comedy|Romance
+tt0364751,b'Without a Paddle',Adventure|Comedy|Mystery
+tt0337563,b'13 Going on 30',Comedy|Fantasy|Romance
+tt1605783,b'Midnight in Paris',Comedy|Fantasy|Romance
+tt1821658,b'The Nut Job',Adventure|Animation|Comedy|Family
+tt0221027,b'Blow',Biography|Crime|Drama
+tt0139462,b'Message in a Bottle',Drama|Romance
+tt0098382,b'Star Trek V: The Final Frontier',Action|Adventure|Sci-Fi|Thriller
+tt0308506,b'Like Mike',Comedy|Family|Fantasy|Sport
+tt0110622,b'Naked Gun 33 1/3: The Final Insult',Comedy|Crime
+tt0090264,b'A View to a Kill',Action|Adventure|Thriller
+tt0312004,b'The Curse of the Were-Rabbit',Animation|Comedy|Family|Mystery|Sci-Fi
+tt0431308,b'P.S. I Love You',Drama|Romance
+tt0376105,b'Racing Stripes',Adventure|Comedy|Drama|Family|Sport
+tt0783233,b'Atonement',Drama|Mystery|Romance|War
+tt0892318,b'Letters to Juliet',Comedy|Drama|Romance
+tt0096933,b'Black Rain',Action|Crime|Thriller
+tt0383010,b'The Three Stooges',Comedy
+tt0121164,b'Corpse Bride',Animation|Drama|Family|Fantasy|Musical|Romance
+tt0385726,b'Glory Road',Biography|Drama|Sport
+tt3397884,b'Sicario',Action|Crime|Drama|Mystery|Thriller
+tt1798684,b'Southpaw',Drama|Sport
+tt1127180,b'Drag Me to Hell',Horror|Thriller
+tt1655441,b'The Age of Adaline',Drama|Fantasy|Romance
+tt0327137,b'Secondhand Lions',Comedy|Drama|Family
+tt1193631,b'Step Up 3D',Drama|Music|Romance
+tt0300532,b'Blue Crush',Drama|Romance|Sport
+tt0420223,b'Stranger Than Fiction',Comedy|Drama|Fantasy|Romance
+tt0389722,b'30 Days of Night',Horror
+tt1259521,b'The Cabin in the Woods',Fantasy|Horror|Mystery|Thriller
+tt0093894,b'The Running Man',Action|Crime|Sci-Fi|Thriller
+tt0091419,b'Little Shop of Horrors',Comedy|Horror|Musical|Sci-Fi
+tt0993842,b'Hanna',Action|Drama|Thriller
+tt4428038,b'The Family',Drama|Mystery
+tt0119707,b'Mortal Kombat: Annihilation',Action|Adventure|Fantasy|Sci-Fi|Thriller
+tt1583420,b'Larry Crowne',Comedy|Drama|Romance
+tt1939659,b'Carrie',Drama|Fantasy|Horror
+tt0446046,b'Take the Lead',Drama|Music
+tt0387199,b'Entourage',Comedy|Drama
+tt0421206,b'Gridiron Gang',Crime|Drama|Sport
+tt0161083,"b""What's the Worst That Could Happen?""",Comedy|Crime
+tt0472033,b'9',Action|Adventure|Animation|Drama|Mystery|Sci-Fi|Thriller
+tt2053463,b'Side Effects',Crime|Drama|Thriller
+tt0337697,b'The Prince & Me',Comedy|Family|Romance
+tt1449283,b'Winnie the Pooh',Adventure|Animation|Comedy|Family|Musical
+tt0329028,b'Dumb and Dumberer: When Harry Met Lloyd',Comedy
+tt0118798,b'Bulworth',Comedy|Drama|Romance
+tt2473602,b'Get on Up',Biography|Drama|Music
+tt0120776,b'One True Thing',Drama
+tt0114857,b'Virtuosity',Action|Crime|Sci-Fi|Thriller
+tt0465624,b'My Super Ex-Girlfriend',Comedy|Romance|Sci-Fi
+tt2377322,b'Deliver Us from Evil',Horror|Mystery|Thriller
+tt0881320,b'Sanctum',Adventure|Drama|Thriller
+tt0361841,b'Little Black Book',Comedy|Drama|Romance
+tt1195478,b'The Five-Year Engagement',Comedy|Romance
+tt0339412,b'Mr 3000',Comedy|Drama|Romance|Sport
+tt1458175,b'The Next Three Days',Crime|Drama|Romance|Thriller
+tt0370032,b'Ultraviolet',Action|Horror|Sci-Fi|Thriller
+tt0398712,b'Assault on Precinct 13',Action|Crime|Drama|Thriller
+tt0120008,b'The Replacement Killers',Action|Crime|Thriller
+tt0271367,b'Eight Legged Freaks',Action|Comedy|Horror
+tt0758752,b'Love & Other Drugs',Comedy|Drama|Romance
+tt0411061,b'88 Minutes',Crime|Drama|Mystery|Thriller
+tt0395972,b'North Country',Drama
+tt0327247,b'The Whole Ten Yards',Comedy|Crime|Thriller
+tt1017460,b'Splice',Drama|Horror|Sci-Fi
+tt0482572,b'Pride and Glory',Crime|Drama|Thriller
+tt0402901,b'The Cave',Adventure|Horror|Thriller
+tt0318283,b'Alex & Emma',Comedy|Romance
+tt0324554,b'Wicker Park',Drama|Mystery|Romance|Thriller
+tt1438176,b'Fright Night',Comedy|Horror
+tt0402399,b'The New World',Biography|Drama|History|Romance
+tt0131646,b'Wing Commander',Action|Adventure|Sci-Fi
+tt0120710,b'In Dreams',Drama|Fantasy|Thriller
+tt1098327,b'Dragonball Evolution',Action|Adventure|Fantasy|Sci-Fi|Thriller
+tt1549920,b'The Last Stand',Action|Crime|Thriller
+tt0335121,b'Godsend',Drama|Horror|Sci-Fi|Thriller
+tt0844993,b'Hoodwinked Too! Hood vs. Evil',Animation|Comedy|Family
+tt0350261,b'An Unfinished Life',Drama
+tt1054606,b'The Imaginarium of Doctor Parnassus',Adventure|Fantasy|Mystery
+tt1423894,"b""Barney's Version""",Comedy|Drama
+tt2364841,b'Runner Runner',Crime|Thriller
+tt0218817,b'Antitrust',Action|Crime|Drama|Thriller
+tt0097441,b'Glory',Drama|History|War
+tt0087843,b'Once Upon a Time in America',Crime|Drama
+tt2101341,b'Dead Man Down',Action|Crime|Drama|Thriller
+tt0379889,b'The Merchant of Venice',Drama|Romance
+tt0281820,b'The Good Thief',Action|Crime|Drama|Romance|Thriller
+tt0403016,b'Supercross',Action|Drama|Romance|Sport
+tt0482546,b'Miss Potter',Biography|Drama|Romance
+tt0417976,b'Wu ji',Action|Drama|Fantasy
+tt0398913,b'DOA: Dead or Alive',Action|Adventure
+tt0443680,b'The Assassination of Jesse James by the Coward Robert Ford',Biography|Crime|Drama|History|Western
+tt1772230,b'Xin hai ge ming',Action|Adventure|Drama|History|War
+tt2231253,b'Wild Card',Action|Crime|Drama|Thriller
+tt1586752,b'Machine Gun Preacher',Action|Biography|Crime|Drama
+tt1620449,b'Konferenz der Tiere',Animation|Comedy|Family
+tt2814362,b'United Passions',Drama|History|Sport
+tt2095649,b'Grace of Monaco',Biography|Drama|Romance
+tt4075322,b'Savva. Serdtse voina',Adventure|Animation|Fantasy
+tt0265651,"b""Ripley's Game""",Crime|Drama|Mystery|Thriller
+tt1700841,b'Sausage Party',Adventure|Animation|Comedy|Fantasy
+tt2848292,b'Pitch Perfect 2',Comedy|Music
+tt0358273,b'Walk the Line',Biography|Drama|Music|Romance
+tt3148266,b'12 Monkeys',Adventure|Drama|Mystery|Sci-Fi|Thriller
+tt0118755,b'The Borrowers',Adventure|Comedy|Family|Fantasy
+tt0870111,b'Frost/Nixon',Drama
+tt0270288,b'Confessions of a Dangerous Mind',Biography|Comedy|Crime|Drama|Romance|Thriller
+tt0261289,b'Serving Sara',Comedy|Romance
+tt2702724,b'The Boss',Comedy
+tt0140397,b'Mumford',Comedy|Drama
+tt0387575,b'Seed of Chucky',Comedy|Fantasy|Horror|Thriller
+tt0366627,b'The Jacket',Drama|Mystery|Sci-Fi|Thriller
+tt0103639,b'Aladdin',Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance
+tt1398426,b'Straight Outta Compton',Biography|Crime|Drama|History|Music
+tt0087469,b'Indiana Jones and the Temple of Doom',Action|Adventure
+tt0134067,b'The Rugrats Movie',Adventure|Animation|Comedy|Drama|Family|Musical
+tt4136084,b'Florence Foster Jenkins',Biography|Comedy|Drama|Music|Romance
+tt0285823,b'Once Upon a Time in Mexico',Action|Crime|Thriller
+tt0095016,b'Die Hard',Action|Thriller
+tt0430922,b'Role Models',Comedy
+tt1596363,b'The Big Short',Biography|Comedy|Drama|History
+tt1127896,b'Taking Woodstock',Comedy|Drama|Music
+tt0349825,b'Miracle',Biography|Drama|History|Sport
+tt0209475,b'The Wedding Planner',Comedy|Romance
+tt2668134,b'Kyaputen H\xc3\xa2rokku',Adventure|Animation|Sci-Fi
+tt0265666,b'The Royal Tenenbaums',Comedy|Drama
+tt0309698,b'Identity',Mystery|Thriller
+tt1204975,b'Last Vegas',Comedy|Romance
+tt0082398,b'For Your Eyes Only',Action|Adventure|Thriller
+tt0240890,b'Serendipity',Comedy|Romance
+tt0111438,b'Timecop',Action|Crime|Sci-Fi|Thriller
+tt0196229,b'Zoolander',Comedy
+tt1702439,b'Safe Haven',Drama|Romance|Thriller
+tt0107120,b'Hocus Pocus',Comedy|Family|Fantasy
+tt0481141,b'No Reservations',Comedy|Drama|Romance
+tt1250777,b'Kick-Ass',Action|Comedy
+tt1622547,b'30 Minutes or Less',Action|Comedy|Crime
+tt0219653,b'Dracula 2000',Action|Fantasy|Horror|Thriller
+tt1698641,"b'Alexander and the Terrible, Horrible, No Good, Very Bad Day'",Comedy|Family
+tt0414387,b'Pride & Prejudice',Drama|Romance
+tt0083658,b'Blade Runner',Sci-Fi|Thriller
+tt0114287,b'Rob Roy',Adventure|Biography
+tt2172934,b'3 Days to Kill',Action|Drama|Thriller
+tt0498399,b'We Own the Night',Crime|Drama|Thriller
+tt0160484,b'Lost Souls',Drama|Horror|Thriller
+tt0301727,b'Le peuple migrateur',Documentary
+tt0397078,b'Just My Luck',Comedy|Fantasy|Romance
+tt1273678,b'The Spy Next Door',Action|Comedy|Family
+tt0228333,b'Ghosts of Mars',Action|Horror|Sci-Fi
+tt1018765,b'Our Brand Is Crisis',Comedy|Drama
+tt1374989,b'Pride and Prejudice and Zombies',Action|Horror|Romance
+tt0455538,b'How to Lose Friends & Alienate People',Comedy|Drama|Romance
+tt1650554,b'Kick-Ass 2',Action|Comedy|Crime
+tt1430612,b'Brick Mansions',Action|Crime|Drama|Thriller
+tt0086034,b'Octopussy',Action|Adventure|Thriller
+tt0478311,b'Knocked Up',Comedy|Romance
+tt1078588,"b""My Sister's Keeper""",Drama
+tt0494652,"b'Welcome Home, Roscoe Jenkins'",Comedy|Drama|Romance
+tt0087892,b'A Passage to India',Adventure|Drama|History
+tt0465551,b'Notes on a Scandal',Crime|Drama|Romance|Thriller
+tt4422836,b'Limitless',Crime|Drama|Sci-Fi|Thriller
+tt0102975,b'Star Trek VI: The Undiscovered Country',Action|Adventure|Sci-Fi|Thriller
+tt0279778,b'Divine Secrets of the Ya-Ya Sisterhood',Drama
+tt0119468,b'Kiss the Girls',Crime|Drama|Mystery|Thriller
+tt1018785,b'The Sisterhood of the Traveling Pants 2',Comedy|Drama|Family|Romance
+tt1710396,b'Joyful Noise',Comedy|Music
+tt0139414,b'Lake Placid',Action|Comedy|Horror
+tt0425210,b'Lucky Number Slevin',Crime|Drama|Mystery|Thriller
+tt0086197,b'The Right Stuff',Adventure|Drama|History
+tt1521197,b'Anonymous',Drama|History|Thriller
+tt0118929,b'Dark City',Action|Drama|Fantasy|Mystery|Sci-Fi|Thriller
+tt0864761,b'The Duchess',Biography|Drama|History|Romance
+tt0120769,b'The Newton Boys',Action|Crime|Drama|History|Western
+tt0795351,b'Case 39',Horror|Mystery|Thriller
+tt0324127,b'Suspect Zero',Crime|Drama|Mystery|Thriller
+tt0415965,b'Martian Child',Comedy|Drama|Family
+tt1517489,b'Spy Kids: All the Time in the World in 4D',Action|Adventure|Comedy|Family|Sci-Fi
+tt2241351,b'Money Monster',Crime|Drama|Thriller
+tt0227984,b'The 51st State',Action|Comedy|Crime|Thriller
+tt0297284,b'Mindhunters',Crime|Horror|Mystery|Thriller
+tt0486674,b'What Just Happened',Comedy|Drama
+tt0340376,b'The Statement',Drama|Thriller
+tt0475331,b'The Magic Flute',Drama|Musical|Romance
+tt1114740,b'Paul Blart: Mall Cop',Action|Comedy|Crime
+tt0322330,b'Freaky Friday',Comedy|Family|Fantasy|Music|Romance
+tt0405422,b'The 40 Year Old Virgin',Comedy|Romance
+tt0138097,b'Shakespeare in Love',Comedy|Drama|Romance
+tt0365907,b'A Walk Among the Tombstones',Crime|Drama|Mystery|Thriller
+tt0099938,b'Kindergarten Cop',Action|Comedy|Crime
+tt0910936,b'Pineapple Express',Action|Comedy|Crime
+tt0316356,b'Open Range',Drama|Romance|Western
+tt0099582,b'Flatliners',Drama|Horror|Sci-Fi|Thriller
+tt0472954,"b""It's Always Sunny in Philadelphia""",Comedy
+tt0421239,b'Red Eye',Mystery|Thriller
+tt0309593,b'Final Destination 2',Horror|Thriller
+tt0190590,"b'O Brother, Where Art Thou?'",Adventure|Comedy|Crime|Music
+tt1038686,b'Legion',Action|Fantasy|Horror
+tt1980209,b'Pain & Gain',Comedy|Crime|Drama
+tt0385267,b'In Good Company',Comedy|Drama|Romance
+tt0157472,b'Clockstoppers',Action|Adventure|Comedy|Sci-Fi|Thriller
+tt0090022,b'Silverado',Action|Crime|Drama|Western
+tt0765010,b'Brothers',Drama|Thriller
+tt0358349,b'Agent Cody Banks 2: Destination London',Action|Adventure|Comedy|Family|Romance|Sci-Fi
+tt1598822,"b""New Year's Eve""",Comedy|Romance
+tt0218922,b'Original Sin',Drama|Mystery|Romance|Thriller
+tt1486192,b'The Raven',Crime|Mystery|Thriller
+tt0361925,b'Welcome to Mooseport',Comedy|Romance
+tt0110027,b'Highlander III: The Sorcerer',Action|Fantasy|Romance|Sci-Fi
+tt0119227,b'Snow White: A Tale of Terror',Fantasy|Horror
+tt0256524,b'The Curse of the Jade Scorpion',Comedy|Crime|Mystery|Romance
+tt1137470,b'Accidental Love',Comedy|Romance
+tt2140379,b'Self/less',Action|Mystery|Sci-Fi|Thriller
+tt0387131,b'The Constant Gardener',Drama|Mystery|Romance|Thriller
+tt0335345,b'The Passion of the Christ',Drama
+tt0107614,b'Mrs. Doubtfire',Comedy|Drama|Family|Romance
+tt0095953,b'Rain Man',Drama
+tt1205489,b'Gran Torino',Drama
+tt1175491,b'W.',Biography|Drama|History
+tt0936501,b'Taken',Action|Thriller
+tt1972779,b'The Best of Me',Drama|Romance
+tt0103855,b'The Bodyguard',Action|Drama|Music|Romance
+tt0108052,"b""Schindler's List""",Biography|Drama|History
+tt1454029,b'The Help',Drama
+tt1837703,b'The Fifth Estate',Biography|Drama|Thriller
+tt0331632,b'Scooby-Doo 2: Monsters Unleashed',Adventure|Comedy|Family|Fantasy|Horror|Mystery
+tt1224378,b'Viy',Adventure|Fantasy|Mystery|Thriller
+tt0329101,b'Freddy vs. Jason',Action|Horror|Thriller
+tt2967008,b'The Face of an Angel',Drama
+tt0268397,b'Jimmy Neutron: Boy Genius',Action|Adventure|Animation|Comedy|Family|Sci-Fi
+tt1060277,b'Cloverfield',Action|Adventure|Horror|Sci-Fi
+tt0103060,b'Teenage Mutant Ninja Turtles II: The Secret of the Ooze',Action|Adventure|Comedy|Family|Sci-Fi
+tt0094226,b'The Untouchables',Crime|Drama|Thriller
+tt0477348,b'No Country for Old Men',Crime|Drama|Thriller
+tt1408253,b'Ride Along',Action|Comedy|Crime|Romance
+tt0243155,"b""Bridget Jones's Diary""",Comedy|Drama|Romance
+tt0241303,b'Chocolat',Drama|Romance
+tt1047540,b'Parental Guidance',Comedy|Family
+tt1411238,b'No Strings Attached',Comedy|Romance
+tt0108358,b'Tombstone',Action|Biography|Drama|History|Romance|Western
+tt0165929,b'Romeo Must Die',Action|Crime|Thriller
+tt0075005,b'The Omen',Fantasy|Horror|Mystery
+tt0414982,b'Final Destination 3',Horror
+tt1327194,b'The Lucky One',Drama|Romance
+tt0398808,b'Bridge to Terabithia',Adventure|Drama|Family|Fantasy
+tt0308644,b'Finding Neverland',Biography|Drama|Family
+tt2609758,b'A Madea Christmas',Comedy|Drama
+tt1601913,b'The Grey',Action|Adventure|Drama|Thriller
+tt0382077,b'Hide and Seek',Drama|Horror|Mystery|Thriller
+tt0357413,b'Anchorman: The Legend of Ron Burgundy',Comedy
+tt0099685,b'Goodfellas',Biography|Crime|Drama
+tt0396752,b'Nanny McPhee',Comedy|Family|Fantasy
+tt0086250,b'Scarface',Crime|Drama
+tt0093389,b'The Last Emperor',Biography|Drama|History
+tt1524137,b'Contraband',Action|Crime|Drama|Thriller
+tt0119695,b'Money Talks',Action|Comedy|Crime|Thriller
+tt0469494,b'There Will Be Blood',Drama
+tt0282120,b'The Wild Thornberrys Movie',Adventure|Animation|Comedy|Family|Fantasy
+tt0337711,b'Rugrats Go Wild',Adventure|Animation|Comedy|Family|Fantasy|Musical
+tt0403508,b'The Sisterhood of the Traveling Pants',Comedy|Drama|Family|Romance
+tt0271027,b'Kiss of the Dragon',Action|Crime|Drama|Thriller
+tt0852713,b'The House Bunny',Comedy|Romance
+tt0388500,b'Beauty Shop',Comedy
+tt1647668,b'Million Dollar Arm',Biography|Drama|Sport
+tt0435651,b'The Giver',Drama|Romance|Sci-Fi
+tt0286788,b'What a Girl Wants',Comedy|Drama|Family|Romance
+tt0452625,b'Good Luck Chuck',Comedy|Romance
+tt0306685,b'Cradle 2 the Grave',Action|Crime|Drama|Thriller
+tt0274558,b'The Hours',Drama|Romance
+tt0454945,"b""She's the Man""",Comedy|Romance
+tt0453451,"b""Mr. Bean's Holiday""",Comedy|Family
+tt0366174,b'Anacondas: The Hunt for the Blood Orchid',Action|Adventure|Horror|Thriller
+tt1747958,b'Blood Ties',Crime|Drama|Thriller
+tt0426931,b'August Rush',Drama|Music
+tt0127536,b'Elizabeth',Biography|Drama|History
+tt0144120,b'Bride of Chucky',Comedy|Fantasy|Horror|Romance
+tt0066473,b'Tora! Tora! Tora!',Action|Drama|History|War
+tt0120185,b'Spice World',Comedy|Family|Music
+tt1366344,b'The Sitter',Comedy
+tt1153706,b'Dance Flick',Action|Comedy|Music
+tt0111161,b'The Shawshank Redemption',Crime|Drama
+tt0231402,b'Crocodile Dundee in Los Angeles',Adventure|Comedy|Crime
+tt2039393,b'The Gambler',Crime|Drama|Thriller
+tt1322269,b'August: Osage County',Drama
+tt0396652,b'Ice Princess',Comedy|Drama|Family|Sport
+tt1083452,b'Eddie the Eagle',Biography|Comedy|Drama|Sport
+tt0124718,b'He Got Game',Drama|Sport
+tt0112883,b'Don Juan DeMarco',Comedy|Drama|Romance
+tt0989757,b'Dear John',Drama|Romance|War
+tt0480255,b'The Losers',Action|Crime|Drama|Mystery|Thriller
+tt1270761,"b""Don't Be Afraid of the Dark""",Fantasy|Horror|Thriller
+tt0499556,b'War',Action|Crime|Thriller
+tt0272338,b'Punch-Drunk Love',Comedy|Drama|Romance|Thriller
+tt0356150,b'EuroTrip',Comedy
+tt0297162,b'Half Past Dead',Action|Crime|Thriller
+tt0488658,b'Unaccompanied Minors',Adventure|Comedy|Family|Romance
+tt0388980,b'The Greatest Game Ever Played',Drama|History|Sport
+tt0362478,b'The Box',Drama|Fantasy|Mystery|Thriller
+tt0963794,b'The Ruins',Horror
+tt0156841,b'The Next Best Thing',Comedy|Drama|Romance
+tt0872230,b'My Soul to Take',Horror|Mystery|Thriller
+tt0265208,b'The Girl Next Door',Comedy|Drama|Romance
+tt0265808,b'Stealing Harvard',Comedy|Crime
+tt3569230,b'Legend',Biography|Crime|Drama|History|Thriller
+tt0787475,b'Hot Rod',Comedy
+tt1633356,b'Shark Night 3D',Horror|Thriller
+tt2223990,b'Draft Day',Drama|Sport
+tt0089489,b'Lifeforce',Action|Horror|Sci-Fi|Thriller
+tt0175058,b'The Powerpuff Girls',Action|Animation|Comedy|Family|Fantasy|Sci-Fi
+tt0968264,b'The Conspirator',Crime|Drama|History
+tt0355702,b'Lords of Dogtown',Biography|Drama|Sport
+tt2006295,b'The 33',Biography|Drama|History
+tt0090728,b'Big Trouble in Little China',Action|Adventure|Comedy|Fantasy
+tt1986843,b'Un plan parfait',Comedy|Romance
+tt1291584,b'Warrior',Drama|Sport
+tt0117039,b'Michael Collins',Biography|Drama|Thriller|War
+tt0107007,b'Gettysburg',Drama|History|War
+tt0489281,b'Stop-Loss',Drama|War
+tt0120620,b'Brokedown Palace',Drama|Mystery|Thriller
+tt0431021,b'The Possession',Horror|Thriller
+tt0999913,b'Straw Dogs',Action|Drama|Thriller
+tt0462338,b'The Hoax',Comedy|Drama
+tt0102984,b'Stone Cold',Action|Crime|Drama|Thriller
+tt0898367,b'The Road',Adventure|Drama
+tt0373416,b'Underclassman',Action|Comedy|Crime|Drama|Thriller
+tt0412080,"b""The World's Fastest Indian""",Biography|Drama|Sport
+tt0114614,b'Tank Girl',Action|Comedy|Sci-Fi
+tt0388183,"b""King's Ransom""",Comedy|Crime
+tt0861689,b'Blindness',Drama|Mystery|Sci-Fi|Thriller
+tt1692486,b'Carnage',Comedy|Drama
+tt0373450,b'Where the Truth Lies',Crime|Drama|Mystery|Thriller
+tt1792647,b'Cirque du Soleil: Worlds Away',Fantasy
+tt0119934,b'Without Limits',Biography|Drama|Sport
+tt1175506,b'Me and Orson Welles',Drama
+tt1924396,b'La migliore offerta',Crime|Drama|Mystery|Romance
+tt1095217,b'The Bad Lieutenant: Port of Call - New Orleans',Crime|Drama
+tt1230204,"b""Sammy's avonturen: De geheime doorgang""",Adventure|Animation|Family
+tt1440232,b'Les petits mouchoirs',Comedy|Drama
+tt1125929,b'Love Ranch',Comedy|Drama|Romance|Sport
+tt1239462,b'La v\xc3\xa9ritable histoire du Chat Bott\xc3\xa9',Adventure|Animation|Comedy
+tt1272051,b'Belka i Strelka. Zvezdnye sobaki',Adventure|Animation|Comedy|Family
+tt2193215,b'The Counselor',Crime|Drama|Thriller
+tt1233301,b'Ironclad',Action|Adventure|History|Romance
+tt2952602,b'Yi ge ren de wu lin',Action|Drama
+tt0337692,b'On the Road',Adventure|Drama
+tt0092007,b'Star Trek IV: The Voyage Home',Adventure|Comedy|Sci-Fi
+tt0479143,b'Rocky Balboa',Drama|Sport
+tt0120082,b'Scream 2',Horror|Mystery
+tt2140037,b'Jane Got a Gun',Action|Drama|Western
+tt2239832,b'Think Like a Man Too',Comedy|Romance
+tt0087277,b'Footloose',Drama|Music|Romance
+tt0302886,b'Old School',Comedy
+tt0101889,b'The Fisher King',Comedy|Drama|Fantasy
+tt0130018,b'I Still Know What You Did Last Summer',Horror|Mystery
+tt1007028,b'Zack and Miri Make a Porno',Comedy|Romance
+tt0171580,b'Nurse Betty',Comedy|Crime|Drama
+tt1234548,b'The Men Who Stare at Goats',Comedy|War
+tt0172493,"b'Girl, Interrupted'",Biography|Drama
+tt0335559,b'Win a Date with Tad Hamilton!',Comedy|Romance
+tt0158811,b'Muppets from Space',Adventure|Comedy|Family|Fantasy|Music|Sci-Fi
+tt0078504,b'The Wiz',Adventure|Family|Fantasy|Music|Musical
+tt0217756,b'Ready to Rumble',Comedy|Sport
+tt1742650,"b""I Don't Know How She Does It""",Comedy|Romance
+tt0464154,b'Piranha 3D',Comedy|Horror
+tt0363473,b'Beyond the Sea',Biography|Drama|Music|Musical
+tt0356443,b'The Bridge of San Luis Rey',Drama|Romance
+tt1433108,b'Faster',Action|Crime|Drama|Thriller
+tt0347149,b'Hauru no ugoku shiro',Adventure|Animation|Family|Fantasy
+tt1156398,b'Zombieland',Adventure|Comedy|Horror|Sci-Fi
+tt0080684,b'Star Wars: Episode V - The Empire Strikes Back',Action|Adventure|Fantasy|Sci-Fi
+tt0112442,b'Bad Boys',Action|Comedy|Crime|Drama|Thriller
+tt0102510,b'The Naked Gun 2\xc2\xbd: The Smell of Fear',Comedy|Crime
+tt0195714,b'Final Destination',Horror|Thriller
+tt1124035,b'The Ides of March',Drama
+tt0134847,b'Pitch Black',Horror|Sci-Fi
+tt0244970,b'Someone Like You...',Comedy|Romance
+tt1798709,b'Her',Drama|Romance|Sci-Fi
+tt0206314,b'Joy Ride',Mystery|Thriller
+tt0149691,b'Anywhere But Here',Comedy|Drama
+tt0198386,b'The Crew',Comedy|Crime
+tt1506999,b'Haywire',Action|Thriller
+tt0093300,b'Jaws: The Revenge',Adventure|Horror|Thriller
+tt0116999,"b""Marvin's Room""",Drama
+tt1091751,b'The Longshots',Biography|Comedy|Drama|Family|Sport
+tt0102005,b'Harley Davidson and the Marlboro Man',Action|Crime|Drama|Thriller|Western
+tt0478134,b'In the Valley of Elah',Crime|Drama|Mystery|Thriller
+tt1035736,b'Coco avant Chanel',Biography|Drama
+tt2271563,b'Forsaken',Drama|Western
+tt1179258,b'Ch\xc3\xa9ri',Comedy|Drama|Romance
+tt0241025,b'Vanity Fair',Drama
+tt1403130,b'Shi yue wei cheng',Action|Drama|History
+tt0450385,b'1408',Fantasy|Horror
+tt3007512,b'The Water Diviner',Drama|War
+tt0099653,b'Ghost',Drama|Fantasy|Romance|Thriller
+tt0129387,"b""There's Something About Mary""",Comedy|Romance
+tt0111070,b'The Santa Clause',Comedy|Drama|Family|Fantasy
+tt0265662,b'The Rookie',Drama|Family|Sport
+tt0492956,b'The Game Plan',Comedy|Family|Sport
+tt0112579,b'The Bridges of Madison County',Drama|Romance
+tt0255798,b'The Animal',Comedy|Sci-Fi
+tt0083987,b'Gandhi',Biography|Drama|History
+tt2980648,b'The Hundred-Foot Journey',Comedy|Drama
+tt0113957,b'The Net',Action|Crime|Drama|Mystery|Thriller
+tt0277027,b'I Am Sam',Drama
+tt3210686,b'Son of God',Biography|Drama|History
+tt0320691,b'Underworld',Action|Fantasy|Thriller
+tt1130080,b'The Informant!',Comedy|Crime|Drama|Thriller
+tt0108101,b'Shadowlands',Biography|Drama|Romance
+tt0367652,b'Deuce Bigalow: European Gigolo',Comedy
+tt2387559,b'Delivery Man',Comedy|Drama
+tt1995390,b'Our Kind of Traitor',Thriller
+tt0239948,b'Saving Silverman',Comedy|Crime|Romance
+tt2023453,b'Diary of a Wimpy Kid: Dog Days',Comedy|Family
+tt0162677,b'Summer of Sam',Crime|Drama|Romance|Thriller
+tt0261392,b'Jay and Silent Bob Strike Back',Comedy
+tt0221218,b'The Glass House',Crime|Drama|Mystery|Thriller
+tt0475290,"b'Hail, Caesar!'",Comedy|Mystery
+tt0236348,b'Josie and the Pussycats',Comedy|Music
+tt2312718,b'Homefront',Action|Crime|Drama|Thriller
+tt0192255,b'The Little Vampire',Adventure|Comedy|Family|Fantasy
+tt0356721,b'I Heart Huckabees',Comedy
+tt0107978,b'RoboCop 3',Action|Crime|Sci-Fi|Thriller
+tt2938956,b'The Transporter Refueled',Action|Crime|Thriller
+tt0375920,b'The Libertine',Drama|Romance
+tt0389557,b'Zwartboek',Drama|Thriller|War
+tt0424205,b'Joyeux No\xc3\xabl',Drama|History|Music|Romance|War
+tt2097307,b'Hit and Run',Action|Comedy|Romance
+tt0951216,b'Mad Money',Comedy|Crime|Thriller
+tt1726592,b'Before I Go to Sleep',Drama|Mystery|Thriller
+tt0076740,b'Sorcerer',Adventure|Drama|Thriller
+tt1423995,b'Stone',Drama|Thriller
+tt0796335,b'Moli\xc3\xa8re',Comedy|History
+tt1206543,b'Out of the Furnace',Crime|Drama|Thriller
+tt0465538,b'Michael Clayton',Crime|Drama|Mystery|Thriller
+tt0117119,b'My Fellow Americans',Adventure|Comedy
+tt0137363,b'Arlington Road',Crime|Drama|Thriller
+tt1634003,b'Metegol',Adventure|Animation|Family|Sport
+tt1859650,b'To Rome with Love',Comedy|Romance
+tt0158983,"b'South Park: Bigger, Longer & Uncut'",Animation|Comedy|Fantasy|Musical
+tt0108308,b'Teenage Mutant Ninja Turtles III',Action|Adventure|Comedy|Family|Fantasy|Sci-Fi
+tt0180734,b'Hard Ball',Drama|Sport
+tt1045658,b'Silver Linings Playbook',Comedy|Drama|Romance
+tt0463998,b'Freedom Writers',Biography|Crime|Drama
+tt1405500,b'For Colored Girls',Drama
+tt0293662,b'The Transporter',Action|Crime|Thriller
+tt1023111,b'Never Back Down',Action|Drama|Sport
+tt0144814,b'The Rage: Carrie 2',Horror|Sci-Fi|Thriller
+tt1176740,b'Away We Go',Comedy|Drama|Romance
+tt1027862,b'Swing Vote',Comedy|Drama
+tt0179098,b'Moonlight Mile',Drama|Romance
+tt1340800,b'Tinker Tailor Soldier Spy',Drama|Mystery|Thriller
+tt1321860,b'The Beaver',Drama
+tt0120907,b'eXistenZ',Horror|Sci-Fi|Thriller
+tt0082971,b'Raiders of the Lost Ark',Action|Adventure
+tt0104431,b'Home Alone 2: Lost in New York',Adventure|Comedy|Family
+tt0075860,b'Close Encounters of the Third Kind',Drama|Sci-Fi
+tt0092644,b'Beverly Hills Cop II',Action|Comedy|Crime|Thriller
+tt0305669,b'Bringing Down the House',Comedy
+tt0102926,b'The Silence of the Lambs',Crime|Drama|Horror|Thriller
+tt1116184,b'Jackass 3D',Action|Comedy|Documentary
+tt0077766,b'Jaws 2',Adventure|Horror|Thriller
+tt1014775,b'Beverly Hills Chihuahua',Adventure|Comedy|Drama|Family|Romance
+tt1457767,b'The Conjuring',Horror|Mystery|Thriller
+tt2103254,b'Tammy',Comedy
+tt0332379,b'The School of Rock',Comedy|Music
+tt0381707,b'White Chicks',Comedy|Crime
+tt1033575,b'The Descendants',Comedy|Drama
+tt0311289,b'Holes',Adventure|Comedy|Drama|Family|Mystery
+tt1294226,b'The Last Song',Drama|Family|Music|Romance
+tt2024544,b'12 Years a Slave',Biography|Drama|History
+tt0303933,b'Drumline',Comedy|Drama|Music|Romance
+tt1391137,b'Why Did I Get Married Too?',Comedy|Drama|Romance
+tt0099487,b'Edward Scissorhands',Fantasy|Romance
+tt2674426,b'Me Before You',Drama|Romance
+tt2215285,"b""Madea's Witness Protection""",Comedy|Crime|Drama
+tt0067116,b'The French Connection',Action|Crime|Drama|Thriller
+tt4651520,b'Bad Moms',Comedy
+tt0466342,b'Date Movie',Comedy|Romance
+tt0280030,b'Return to Never Land',Adventure|Animation|Family|Fantasy
+tt1020072,b'Selma',Biography|Drama|History
+tt0283426,b'The Jungle Book 2',Adventure|Animation|Family|Musical
+tt0357507,b'Boogeyman',Drama|Horror|Mystery|Thriller
+tt0477071,b'Premonition',Drama|Mystery|Thriller
+tt0220099,b'The Tigger Movie',Animation|Comedy|Drama|Family|Musical
+tt1148204,b'Orphan',Horror|Mystery|Thriller
+tt3369806,b'Max',Adventure|Family
+tt0799949,b'Epic Movie',Adventure|Comedy
+tt1895587,b'Spotlight',Biography|Crime|Drama|History
+tt0947802,b'Lakeview Terrace',Crime|Drama|Thriller
+tt0433386,b'The Grudge 2',Horror|Thriller
+tt0101452,"b""Bill & Ted's Bogus Journey""",Adventure|Comedy|Fantasy|Music|Sci-Fi
+tt0483726,b'Man of the Year',Comedy|Drama|Romance|Thriller
+tt1440728,b'The American',Crime|Drama|Thriller
+tt0120094,b'Selena',Biography|Drama|Music
+tt1666186,b'Vampires Suck',Comedy
+tt0449467,b'Babel',Drama
+tt1371150,b'This Is Where I Leave You',Comedy|Drama
+tt0918927,b'Doubt',Drama|Mystery
+tt0372588,b'Team America: World Police',Action|Comedy
+tt1572315,b'Texas Chainsaw 3D',Horror|Thriller
+tt0795461,b'Scary Movie 5',Comedy
+tt0064782,b'Paint Your Wagon',Comedy|Drama|Musical|Romance|Western
+tt1013753,b'Milk',Biography|Drama|History
+tt3231054,b'Risen',Action|Adventure|Drama|Mystery
+tt0288477,b'Ghost Ship',Horror
+tt1268799,b'A Very Harold & Kumar 3D Christmas',Adventure|Comedy
+tt0120890,b'Wild Things',Crime|Drama|Mystery|Thriller
+tt0814335,b'The Stepfather',Crime|Thriller
+tt1226753,b'The Debt',Drama|Thriller
+tt0146882,b'High Fidelity',Comedy|Drama|Music|Romance
+tt0479968,b'One Missed Call',Horror|Mystery
+tt0116260,b'Eye for an Eye',Crime|Drama|Thriller
+tt0200465,b'The Bank Job',Crime|Drama|Romance|Thriller
+tt0338013,b'Eternal Sunshine of the Spotless Mind',Drama|Fantasy|Romance|Sci-Fi
+tt1414382,b'You Again',Comedy|Family|Romance
+tt0421073,b'Street Kings',Action|Crime|Drama|Thriller
+tt1213663,"b""The World's End""",Action|Comedy|Sci-Fi
+tt0479500,b'Nancy Drew',Comedy|Crime|Family|Mystery|Romance|Thriller
+tt0433362,b'Daybreakers',Action|Horror|Sci-Fi|Thriller
+tt0815236,"b""She's Out of My League""",Comedy|Romance
+tt1067774,b'Monte Carlo',Adventure|Comedy|Family|Romance
+tt0441796,b'Stay Alive',Horror|Thriller
+tt1213012,b'Alpha and Omega',Adventure|Animation|Comedy|Family|Romance
+tt0430634,b'Stick It',Comedy|Drama|Sport
+tt1100119,b'Shorts',Comedy|Family|Fantasy
+tt0114681,b'To Die For',Comedy|Crime|Drama
+tt3531824,b'Nerve',Adventure|Crime|Mystery|Sci-Fi|Thriller
+tt0800308,b'Appaloosa',Crime|Drama|Western
+tt0120877,b'Vampires',Action|Horror|Thriller
+tt0249327,b'Yu-Gi-Oh!',Action|Adventure|Animation|Family|Fantasy
+tt0054215,b'Psycho',Horror|Mystery|Thriller
+tt1046163,"b""My Best Friend's Girl""",Comedy|Romance
+tt2318092,b'Endless Love',Drama|Romance
+tt0791304,b'Georgia Rule',Comedy|Drama
+tt0490204,b'Reign Over Me',Drama
+tt0758758,b'Into the Wild',Adventure|Biography|Drama
+tt0462519,b'School for Scoundrels',Comedy
+tt0938330,b'Silent Hill: Revelation',Adventure|Drama|Horror|Mystery|Thriller
+tt0116367,b'From Dusk Till Dawn',Crime|Fantasy|Horror
+tt0373074,b'Kung fu',Action|Comedy|Crime|Fantasy
+tt0276033,b'The Country Bears',Comedy|Family|Music|Musical
+tt0419887,b'The Kite Runner',Drama
+tt0315733,b'21 Grams',Drama
+tt0338325,b'Paparazzi',Action|Crime|Drama|Thriller
+tt0217630,b'Loser',Comedy|Romance
+tt1232207,b'Capitalism: A Love Story',Crime|Documentary|News
+tt1741273,b'Secret in Their Eyes',Crime|Drama|Mystery|Thriller
+tt1213644,b'Disaster Movie',Comedy
+tt0913354,b'Armored',Action|Crime|Thriller
+tt0120483,b'The Man Who Knew Too Little',Action|Comedy|Crime|Thriller
+tt0770703,"b""What's Your Number?""",Comedy|Romance
+tt1592525,b'Lockout',Action|Adventure|Sci-Fi|Thriller
+tt0326856,b'Envy',Comedy
+tt1121931,b'Crank: High Voltage',Action|Crime|Sci-Fi|Thriller
+tt0109348,b'Bullets Over Broadway',Comedy|Crime
+tt0258068,b'The Quiet American',Drama|Mystery|Romance|Thriller|War
+tt0384680,b'The Weather Man',Comedy|Drama
+tt0281322,b'Undisputed',Action|Crime|Drama|Sport
+tt0995039,b'Ghost Town',Comedy|Drama|Fantasy|Romance
+tt1160368,b'12 Rounds',Action|Crime|Thriller
+tt1228987,b'Let Me In',Drama|Fantasy|Horror|Mystery
+tt0799934,b'Be Kind Rewind',Comedy
+tt0413015,b'Mrs Henderson Presents',Comedy|Drama|Music|War
+tt1712261,b'Triple 9',Action|Crime|Drama|Thriller
+tt0118954,b'Deconstructing Harry',Comedy
+tt2503944,b'Burnt',Comedy|Drama
+tt0116242,b'Everyone Says I Love You',Comedy|Musical|Romance
+tt0804461,b'Death Sentence',Action|Crime|Thriller
+tt0780511,"b""Everybody's Fine""",Adventure|Drama
+tt0270846,b'Superbabies: Baby Geniuses 2',Comedy|Family|Sci-Fi
+tt0399327,b'The Man',Action|Comedy|Crime
+tt0345074,b'Connie and Carla',Comedy|Crime|Music
+tt1791528,b'Inherent Vice',Comedy|Crime|Drama|Mystery|Romance
+tt1532958,b'Battle of the Year',Drama|Music
+tt1714204,b'Perception',Crime|Drama|Mystery|Thriller
+tt1190617,b'An American Carol',Comedy|Fantasy
+tt2002718,b'Machete Kills',Action|Comedy|Crime|Thriller
+tt0310357,b'Willard',Drama|Horror|Sci-Fi|Thriller
+tt0489282,b'Strange Wilderness',Adventure|Comedy
+tt0151568,b'Topsy-Turvy',Biography|Comedy|Drama|History|Music|Musical
+tt1810683,b'Little Boy',Drama|War
+tt1571222,b'A Dangerous Method',Biography|Drama|Thriller
+tt0405296,b'A Scanner Darkly',Animation|Drama|Mystery|Sci-Fi|Thriller
+tt1629757,b'Chasing Mavericks',Biography|Drama|Sport
+tt0369226,b'Alone in the Dark',Horror|Sci-Fi
+tt0976222,b'Bandslam',Comedy|Drama|Family|Music|Romance
+tt0337876,b'Birth',Drama|Mystery|Romance|Thriller
+tt2937898,b'A Most Violent Year',Action|Crime|Drama|Thriller
+tt1054588,b'Flash of Genius',Biography|Drama
+tt0368794,"b""I'm Not There.""",Biography|Drama|Music
+tt1366365,b'The Cold Light of Day',Action|Thriller
+tt0844286,b'The Brothers Bloom',Adventure|Comedy|Drama|Romance
+tt0383028,"b'Synecdoche, New York'",Comedy|Drama|Romance
+tt0119698,b'Mononoke-hime',Adventure|Animation|Fantasy
+tt0310778,b'Bon voyage',Comedy|Drama|Mystery|Romance|Thriller|War
+tt3719896,b'My All-American',Biography|Drama|Sport
+tt0266747,b'Marci X',Comedy|Music
+tt0238380,b'Equilibrium',Action|Drama|Sci-Fi|Thriller
+tt0889588,b'The Children of Huang Shi',Drama|War
+tt1520498,b'The Oogieloves in the Big Balloon Adventure',Adventure|Family|Fantasy|Musical
+tt3707106,b'By the Sea',Drama|Romance
+tt0348121,b'Such\xc3\xaemub\xc3\xb4i',Action|Adventure|Animation|Family|Sci-Fi|Thriller
+tt0354595,b'The Game of Their Lives',Drama|History|Sport
+tt1175709,b'All Good Things',Crime|Drama|Mystery|Romance|Thriller
+tt0940709,b'Cheung gong 7 hou',Comedy|Family|Sci-Fi
+tt1013860,b'Dylan Dog: Dead of Night',Action|Comedy|Crime|Fantasy|Horror|Mystery|Sci-Fi|Thriller
+tt0274711,b'People I Know',Crime|Drama|Mystery
+tt1274300,b'The Tempest',Comedy|Drama|Fantasy|Romance
+tt3319920,b'Regression',Crime|Drama|Mystery|Thriller
+tt0489664,b'Butterfly on a Wheel',Crime|Drama|Thriller
+tt1781827,b'Hands of Stone',Action|Biography|Drama|Sport
+tt3247714,b'Survivor',Action|Crime|Thriller
+tt2005374,b'The Frozen Ground',Crime|Drama|Mystery|Thriller
+tt0446755,b'The Painted Veil',Drama|Romance
+tt0765432,b'Der Baader Meinhof Komplex',Action|Biography|Crime|Drama
+tt0099348,b'Dances with Wolves',Adventure|Drama|Western
+tt1284575,b'Bad Teacher',Comedy
+tt0356470,b'A Cinderella Story',Comedy|Family|Romance
+tt0117571,b'Scream',Horror|Mystery
+tt0245674,b'Thir13en Ghosts',Horror
+tt0081505,b'The Shining',Drama|Horror
+tt0088763,b'Back to the Future',Adventure|Comedy|Sci-Fi
+tt0185371,b'House on Haunted Hill',Horror|Mystery|Thriller
+tt4280822,b'Fight Valley',Action|Drama
+tt0889573,b'The Switch',Comedy|Drama|Romance
+tt0305711,b'Just Married',Comedy|Romance
+tt1270262,"b""The Devil's Double""",Biography|Drama|Thriller
+tt0205461,b'Thomas and the Magic Railroad',Adventure|Comedy|Drama|Family|Fantasy
+tt0455407,b'The Crazies',Horror|Thriller
+tt0245429,b'Sen to Chihiro no kamikakushi',Adventure|Animation|Family|Fantasy
+tt0086993,b'The Bounty',Action|Adventure|Drama|History|Romance
+tt0816442,b'The Book Thief',Drama|War
+tt1135985,b'Sex Drive',Adventure|Comedy|Romance
+tt1216492,b'Leap Year',Comedy|Romance
+tt0810922,b'Take Me Home Tonight',Comedy|Drama|Romance
+tt1870529,"b""Won't Back Down""",Drama
+tt4193394,b'Indignation',Drama
+tt0384806,b'The Amityville Horror',Drama|Horror|Mystery|Thriller
+tt0268126,b'Adaptation.',Comedy|Drama
+tt0418819,b'Land of the Dead',Horror
+tt2957680,b'Tao chu sheng tian',Action
+tt0120669,b'Fear and Loathing in Las Vegas',Adventure|Comedy|Drama
+tt1058017,b'The Invention of Lying',Comedy|Fantasy|Romance
+tt2004420,b'Neighbors',Comedy
+tt0110475,b'The Mask',Action|Comedy|Crime|Fantasy
+tt0094737,b'Big',Comedy|Drama|Family|Fantasy|Romance
+tt0443453,b'Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan',Comedy
+tt0250494,b'Legally Blonde',Comedy|Romance
+tt0088170,b'Star Trek III: The Search for Spock',Action|Adventure|Sci-Fi
+tt0404032,b'The Exorcism of Emily Rose',Drama|Horror|Thriller
+tt2467046,b'Left Behind',Action|Drama|Fantasy|Mystery|Thriller
+tt0356680,b'The Family Stone',Comedy|Drama|Romance
+tt0337579,b'Barbershop 2: Back in Business',Comedy|Drama
+tt0307987,b'Bad Santa',Comedy|Crime|Drama
+tt0118655,b'Austin Powers: International Man of Mystery',Comedy|Crime
+tt3760922,b'My Big Fat Greek Wedding 2',Comedy|Family|Romance
+tt1650043,b'Diary of a Wimpy Kid: Rodrick Rules',Comedy|Family
+tt0093773,b'Predator',Action|Horror|Sci-Fi
+tt0086879,b'Amadeus',Biography|Drama|History|Music
+tt0926129,b'Prom Night',Horror|Mystery
+tt0377092,b'Mean Girls',Comedy
+tt0328589,b'Under the Tuscan Sun',Comedy|Drama|Romance
+tt0280707,b'Gosford Park',Drama|Mystery
+tt0362359,b'The O.C.',Comedy|Drama|Romance
+tt0091738,b'Peggy Sue Got Married',Comedy|Drama|Fantasy|Romance
+tt2562232,b'Birdman or (The Unexpected Virtue of Ignorance)',Comedy|Drama|Romance
+tt2334873,b'Blue Jasmine',Drama
+tt0475276,b'United 93',Drama|History|Thriller
+tt0322589,b'Honey',Drama|Music|Romance
+tt0080749,b'The Fog',Fantasy|Horror
+tt1596346,b'Soul Surfer',Biography|Drama|Family|Sport
+tt1197628,b'Observe and Report',Comedy|Crime|Drama
+tt0087078,b'Conan the Destroyer',Action|Adventure|Fantasy
+tt0081398,b'Raging Bull',Biography|Drama|Sport
+tt0899106,b'Love Happens',Drama|Romance
+tt1016075,b'Fame',Comedy|Drama|Musical|Romance
+tt1542344,b'127 Hours',Adventure|Biography|Drama|Thriller
+tt0196216,b'Small Time Crooks',Comedy|Crime
+tt0210616,b'Center Stage',Drama|Music|Romance
+tt2279339,b'Love the Coopers',Comedy
+tt0337917,b'Catch That Kid',Comedy|Crime
+tt0264796,b'Life as a House',Drama
+tt2080374,b'Steve Jobs',Biography|Drama
+tt1032815,"b'I Love You, Beth Cooper'",Comedy|Romance
+tt0403702,b'Youth in Revolt',Comedy|Drama|Romance
+tt0236784,b'The Tailor of Panama',Drama|Thriller
+tt0082085,b'Blow Out',Mystery|Thriller
+tt2167202,b'Getaway',Action|Crime|Thriller
+tt0119349,b'The Ice Storm',Drama
+tt2465146,b'And So It Goes',Comedy|Drama|Romance
+tt0340012,b'Being Julia',Comedy|Drama|Romance
+tt0824758,b'The Last Station',Biography|Drama|Romance
+tt0109707,b'Ed Wood',Biography|Comedy|Drama
+tt1967545,b'Labor Day',Drama
+tt0416044,b'Mongol',Adventure|Biography|Drama|History|War
+tt1032755,b'RocknRolla',Action|Crime|Thriller
+tt0116477,b'Hamlet',Drama
+tt2649554,b'Midnight Special',Adventure|Drama|Sci-Fi|Thriller
+tt0313792,b'Anything Else',Comedy|Romance
+tt2058107,b'The Railway Man',Biography|Drama|Romance|War
+tt1149362,b'Das wei\xc3\x9fe Band - Eine deutsche Kindergeschichte',Drama|Mystery
+tt4517738,b'Restoration',Horror
+tt0235737,b'The Salton Sea',Crime|Drama|Mystery|Thriller
+tt2172935,b'Metallica Through the Never',Music
+tt0865554,b'The Informers',Crime|Drama|Thriller
+tt1321865,b'Carlos',Biography|Crime|Drama|Thriller
+tt1024744,b'I Come with the Rain',Thriller
+tt0088993,b'Day of the Dead',Horror
+tt3212232,b'I Am Wrath',Action|Crime|Drama|Thriller
+tt0386741,b'Renaissance',Action|Animation|Sci-Fi|Thriller
+tt1748179,b'Red Lights',Drama|Horror|Mystery|Thriller
+tt0829482,b'Superbad',Comedy
+tt1142800,b'Madea Goes to Jail',Comedy|Crime|Drama
+tt1403241,b'Wolves',Action|Horror
+tt1023481,b'Step Up 2: The Streets',Drama|Music|Musical|Romance
+tt0443536,b'Hoodwinked!',Action|Animation|Comedy|Crime|Family
+tt0465494,b'Hitman',Action|Crime|Drama|Thriller
+tt1425922,b'Black Nativity',Drama|Family|Music|Musical
+tt1085492,b'The Prince',Action|Thriller
+tt0230600,b'The Others',Fantasy|Horror|Thriller
+tt0090605,b'Aliens',Action|Adventure|Sci-Fi
+tt0058385,b'My Fair Lady',Drama|Family|Musical|Romance
+tt0119345,b'I Know What You Did Last Summer',Horror|Mystery|Thriller
+tt1924435,"b""Let's Be Cops""",Comedy
+tt0375063,b'Sideways',Adventure|Comedy|Drama|Romance
+tt0486551,b'Beerfest',Comedy
+tt0077651,b'Halloween',Horror|Thriller
+tt2083355,b'The Best Man Holiday',Comedy|Drama
+tt0475394,"b""Smokin' Aces""",Action|Crime|Drama|Thriller
+tt1477076,b'Saw 3D',Horror|Mystery
+tt0243736,b'40 Days and 40 Nights',Comedy|Romance
+tt0120770,b'A Night at the Roxbury',Comedy|Music|Romance
+tt1152398,b'Beastly',Drama|Fantasy|Romance
+tt0454841,b'The Hills Have Eyes',Horror
+tt0325258,b'Dickie Roberts: Former Child Star',Comedy
+tt2097298,"b'McFarland, USA'",Biography|Drama|Sport
+tt0979434,b'Lottery Ticket',Comedy
+tt0466856,b'ATL',Comedy|Crime|Drama|Music|Romance
+tt1981677,b'Pitch Perfect',Comedy|Music|Romance
+tt0234829,b'Summer Catch',Comedy|Drama|Romance|Sport
+tt0120324,b'A Simple Plan',Crime|Drama|Thriller
+tt0462395,b'Larry the Cable Guy: Health Inspector',Comedy|Romance
+tt0159421,b'The Adventures of Elmo in Grouchland',Adventure|Comedy|Family|Fantasy|Musical
+tt1210042,"b""Brooklyn's Finest""",Crime|Drama|Thriller
+tt1288558,b'Evil Dead',Horror
+tt0865559,b'My Life in Ruins',Comedy|Romance
+tt0465142,b'American Dreamz',Comedy|Music
+tt0094074,b'Superman IV: The Quest for Peace',Action|Adventure|Family|Sci-Fi
+tt0770810,b'How She Move',Drama
+tt0404390,b'Running Scared',Action|Crime|Drama|Thriller
+tt0375104,b'Bobby Jones: Stroke of Genius',Biography|Drama|Romance|Sport
+tt0443543,b'The Illusionist',Drama|Mystery|Romance|Thriller
+tt0083001,b'Roar',Adventure|Horror|Thriller
+tt0312549,b'Veronica Guerin',Biography|Crime|Drama|Thriller
+tt2515030,b'Escobar: Paradise Lost',Crime|Drama|Romance|Thriller
+tt0405336,b'Southland Tales',Comedy|Mystery|Sci-Fi|Thriller
+tt0944834,b'Chasseurs de dragons',Adventure|Animation|Family|Fantasy
+tt0075909,b'Damnation Alley',Sci-Fi
+tt1433822,b'The Apparition',Horror|Thriller
+tt0102492,b'My Girl',Comedy|Drama|Family|Romance
+tt0422295,b'Fur: An Imaginary Portrait of Diane Arbus',Biography|Drama|Romance
+tt0094291,b'Wall Street',Crime|Drama
+tt0114388,b'Sense and Sensibility',Drama|Romance
+tt0416508,b'Becoming Jane',Biography|Drama|Romance
+tt0815244,b'Sydney White',Comedy|Romance
+tt0315983,b'House of Sand and Fog',Drama
+tt0097165,b'Dead Poets Society',Comedy|Drama
+tt0109686,b'Dumb and Dumber',Comedy
+tt0084855,b'The Verdict',Drama
+tt0215129,b'Road Trip',Comedy
+tt0139699,b'Varsity Blues',Comedy|Drama|Romance|Sport
+tt1655442,b'The Artist',Comedy|Drama|Romance
+tt1139668,b'The Unborn',Drama|Fantasy|Horror|Mystery|Thriller
+tt1748122,b'Moonrise Kingdom',Adventure|Comedy|Drama|Romance
+tt0420294,b'The Texas Chainsaw Massacre: The Beginning',Horror
+tt1002563,b'The Young Messiah',Drama
+tt0295427,b'The Master of Disguise',Comedy|Family
+tt0457430,b'El laberinto del fauno',Drama|Fantasy|War
+tt0250720,b'See Spot Run',Action|Comedy|Crime|Family
+tt1265990,b'The Roommate',Drama|Horror|Thriller
+tt0245686,b'Joe Dirt',Adventure|Comedy|Drama
+tt0101764,b'Double Impact',Action|Crime
+tt0425112,b'Hot Fuzz',Action|Comedy|Mystery
+tt0430770,b'The Women',Comedy|Drama
+tt0497465,b'Vicky Cristina Barcelona',Drama|Romance
+tt0837106,b'Arn: Tempelriddaren',Action|Adventure|Drama|Romance|War
+tt0204175,b'Boys and Girls',Comedy|Drama|Romance
+tt0283139,b'White Oleander',Drama
+tt1131734,"b""Jennifer's Body""",Comedy|Fantasy|Horror
+tt0186045,b'Drowning Mona',Comedy|Crime|Mystery
+tt0093818,b'Radio Days',Comedy
+tt1403981,b'Remember Me',Drama|Romance
+tt0319524,b'How to Deal',Comedy|Drama|Romance
+tt0107818,b'Philadelphia',Drama
+tt0139809,b'The Thirteenth Floor',Mystery|Sci-Fi|Thriller
+tt0134630,b'Duets',Comedy|Drama|Music
+tt0278823,b'Hollywood Ending',Comedy|Romance
+tt0165710,b'Detroit Rock City',Comedy|Music
+tt0091203,b'Highlander',Action|Adventure|Fantasy
+tt0469623,b'Things We Lost in the Fire',Drama
+tt1951181,b'The Immigrant',Drama|Romance
+tt0384686,b'The White Countess',Drama|History|Romance|War
+tt1924429,b'Trance',Crime|Drama|Mystery|Thriller
+tt1064932,"b""Bienvenue chez les Ch'tis""",Comedy|Romance
+tt0436364,b'Good',Drama|Romance|War
+tt1191111,b'Enter the Void',Drama|Fantasy
+tt1545106,b'Vamps',Comedy|Horror|Romance
+tt1028532,"b""Hachi: A Dog's Tale""",Drama|Family
+tt2398231,b'The Homesman',Drama|Western
+tt0247444,b'Juwanna Mann',Comedy|Drama|Romance|Sport
+tt1958961,b'Lilyhammer',Comedy|Crime|Drama
+tt0273435,b'Ararat',Drama|War
+tt0206113,b'Madison',Drama|Sport
+tt0376196,b'Slow Burn',Drama|Mystery|Thriller
+tt0439815,b'Slither',Comedy|Horror|Sci-Fi
+tt0099785,b'Home Alone',Comedy|Family
+tt0084805,b'Tootsie',Comedy|Drama|Romance
+tt0092099,b'Top Gun',Action|Drama|Romance
+tt0190332,b'Wo hu cang long',Action|Drama|Romance
+tt0169547,b'American Beauty',Drama
+tt1504320,"b""The King's Speech""",Biography|Drama|History|Romance
+tt0096320,b'Twins',Comedy|Crime
+tt3921180,b'Scream: The TV Series',Crime|Drama|Horror|Mystery|Thriller
+tt0954990,b'The Yellow Handkerchief',Drama|Romance
+tt0088939,b'The Color Purple',Drama
+tt2084970,b'The Imitation Game',Biography|Drama|Thriller|War
+tt1196141,b'Diary of a Wimpy Kid',Comedy|Family
+tt2023587,b'Mama',Fantasy|Horror
+tt3063516,b'Bad Grandpa',Comedy
+tt0436697,b'The Queen',Biography|Drama
+tt0094721,b'Beetlejuice',Comedy|Fantasy
+tt0906108,b'Why Did I Get Married?',Comedy|Drama
+tt0110367,b'Little Women',Drama|Family|Romance
+tt1596365,b'The Woman in Black',Drama|Fantasy|Horror|Thriller
+tt0455857,b'When a Stranger Calls',Horror|Thriller
+tt0077416,b'The Deer Hunter',Drama|War
+tt0120885,b'Wag the Dog',Comedy|Drama
+tt0306841,b'The Lizzie McGuire Movie',Adventure|Comedy|Family|Music|Romance
+tt0882977,b'Snitch',Action|Drama|Thriller
+tt3850590,b'Krampus',Comedy|Fantasy|Horror
+tt0133751,b'The Faculty',Horror|Mystery|Sci-Fi
+tt0108551,"b""What's Love Got to Do with It""",Biography|Drama|Music
+tt0118887,b'Cop Land',Crime|Drama|Thriller
+tt0277371,b'Not Another Teen Movie',Comedy
+tt1855199,b'End of Watch',Crime|Drama|Thriller
+tt2980516,b'The Theory of Everything',Biography|Drama|Romance
+tt0328099,"b""Malibu's Most Wanted""",Comedy|Crime
+tt0198021,b'Where the Heart Is',Comedy|Drama|Romance
+tt0056172,b'Lawrence of Arabia',Adventure|Biography|Drama|History|War
+tt1311067,b'Halloween II',Horror
+tt2305051,b'Wild',Adventure|Biography|Drama
+tt0844708,b'The Last House on the Left',Crime|Horror|Thriller
+tt0220506,b'Halloween: Resurrection',Comedy|Horror|Thriller
+tt0093779,b'The Princess Bride',Adventure|Family|Fantasy|Romance
+tt0427309,b'The Great Debaters',Biography|Drama
+tt0780504,b'Drive',Crime|Drama
+tt0361467,b'Confessions of a Teenage Drama Queen',Comedy|Family|Music|Romance
+tt0120772,b'The Object of My Affection',Comedy|Drama|Romance
+tt0463854,b'28 Weeks Later',Drama|Horror|Sci-Fi
+tt2247476,b'When the Game Stands Tall',Drama|Family|Sport
+tt0317132,b'Because of Winn-Dixie',Comedy|Drama|Family
+tt0199725,b'Love & Basketball',Drama|Romance|Sport
+tt0119229,b'Grosse Pointe Blank',Action|Comedy|Crime|Romance|Thriller
+tt0881891,b'All About Steve',Comedy|Romance
+tt0229260,b'Book of Shadows: Blair Witch 2',Adventure|Fantasy|Horror|Mystery|Thriller
+tt0115963,b'The Craft',Drama|Fantasy|Horror|Thriller
+tt0416320,b'Match Point',Drama|Romance|Thriller
+tt0493949,b'Ramona and Beezus',Adventure|Comedy|Family|Fantasy
+tt0107943,b'The Remains of the Day',Drama|Romance
+tt0118749,b'Boogie Nights',Drama
+tt0434215,b'Flicka',Adventure|Drama|Family
+tt0800069,b'The Hills Have Eyes II',Horror
+tt0192731,b'Urban Legends: Final Cut',Horror|Mystery|Thriller
+tt0419946,b'The Marine',Action|Drama|Thriller
+tt4139124,b'Keanu',Action|Comedy
+tt1555064,b'Country Strong',Drama|Music
+tt1817273,b'The Place Beyond the Pines',Crime|Drama|Thriller
+tt2402157,b'The November Man',Action|Crime|Thriller
+tt0120662,b'Eye of the Beholder',Drama|Mystery|Thriller
+tt0887912,b'The Hurt Locker',Drama|History|Thriller|War
+tt0087262,b'Firestarter',Action|Horror|Sci-Fi|Thriller
+tt1764234,b'Killing Them Softly',Crime|Thriller
+tt1972571,b'A Most Wanted Man',Crime|Drama|Thriller
+tt0240515,b'Freddy Got Fingered',Comedy
+tt0144964,b'Highlander: Endgame',Action|Adventure|Fantasy|Sci-Fi
+tt1563738,b'One Day',Drama|Romance
+tt1172233,b'Whip It',Drama|Sport
+tt0211465,b'Knockaround Guys',Crime|Drama|Thriller
+tt0310910,b'Confidence',Crime|Thriller
+tt0164108,b'The Muse',Comedy
+tt1258972,b'The Man with the Iron Fists',Action
+tt0119304,b'Home Fries',Comedy|Drama|Romance
+tt0195778,b'Here on Earth',Drama|Romance
+tt0088846,b'Brazil',Drama|Sci-Fi
+tt0361696,b'Raise Your Voice',Family|Music|Romance
+tt0118715,b'The Big Lebowski',Comedy|Crime
+tt0462200,b'Black Snake Moan',Drama|Music
+tt0279331,b'Dark Blue',Crime|Drama|Romance|Thriller
+tt0829459,b'A Mighty Heart',Biography|Drama|History|Thriller|War
+tt0202402,b'Whatever It Takes',Comedy|Drama|Romance
+tt0285462,b'Boat Trip',Comedy
+tt0278500,b'The Importance of Being Earnest',Comedy|Drama|Romance
+tt0453494,b'Hoot',Adventure|Comedy|Family
+tt0780536,b'In Bruges',Comedy|Crime|Drama
+tt1699755,b'Peeples',Comedy|Romance
+tt1142433,b'Post Grad',Comedy|Romance
+tt2091473,b'Promised Land',Drama
+tt1178663,b'Whatever Works',Comedy|Romance
+tt0163676,b'The In Crowd',Drama|Mystery|Thriller
+tt0419294,b'The Three Burials of Melquiades Estrada',Adventure|Crime|Drama|Mystery|Western
+tt0373469,b'Kiss Kiss Bang Bang',Comedy|Crime|Mystery
+tt0138510,b'Idle Hands',Comedy|Fantasy|Horror|Thriller
+tt0166924,b'Mulholland Dr.',Drama|Mystery|Thriller
+tt1182350,b'You Will Meet a Tall Dark Stranger',Comedy|Drama|Romance
+tt1334260,b'Never Let Me Go',Drama|Romance|Sci-Fi
+tt0488352,b'The Company',Drama|History|Thriller
+tt0800241,b'Transsiberian',Crime|Drama|Mystery|Thriller
+tt0142201,b'Crazy in Alabama',Comedy|Crime|Drama
+tt0808279,b'Funny Games',Crime|Drama|Horror|Thriller
+tt3153582,b'Listening',Drama|Sci-Fi|Thriller
+tt0165773,"b""Felicia's Journey""",Drama|Thriller
+tt0017136,b'Metropolis',Drama|Sci-Fi
+tt0414852,b'Banlieue 13',Action|Crime|Thriller
+tt3508840,b'C\xc3\xack\xc3\xa8 Ni\xc3\xa8 Yinni\xc3\xa1ng',Action|Drama
+tt0252299,b'Buffalo Soldiers',Comedy|Crime|Drama|Thriller|War
+tt0785035,b'Ong-bak 2',Action
+tt1020558,b'Centurion',Action|Adventure|Drama|History|Thriller|War
+tt0805570,b'The Midnight Meat Train',Fantasy|Horror|Mystery
+tt1551641,b'Winnie',Biography|Drama|History
+tt1535612,b'The Son of No One',Crime|Drama|Thriller
+tt0252223,"b""All the Queen's Men""",Action|Comedy|Drama|War
+tt0484111,b'The Good Night',Comedy|Drama|Fantasy|Music|Romance
+tt1487931,b'Khumba',Adventure|Animation|Family
+tt1971325,b'Aut\xc3\xb3mata',Action|Sci-Fi|Thriller
+tt1075419,b'San suk si gin',Action|Crime|Drama|Thriller
+tt0210217,b'Pandaemonium',Biography|Drama
+tt0107048,b'Groundhog Day',Comedy|Fantasy|Romance
+tt2268016,b'Magic Mike XXL',Comedy|Drama|Music
+tt0117509,b'Romeo + Juliet',Drama|Romance
+tt1668200,"b""Elle s'appelait Sarah""",Drama|War
+tt0105695,b'Unforgiven',Drama|Western
+tt0342735,b'Manderlay',Drama
+tt1010048,b'Slumdog Millionaire',Drama|Romance
+tt0093010,b'Fatal Attraction',Drama|Romance|Thriller
+tt0100405,b'Pretty Woman',Comedy|Romance
+tt0092493,"b""'Crocodile' Dundee II""",Action|Adventure|Comedy
+tt2503954,b'Broken Horses',Action|Crime|Drama|Mystery|Thriller
+tt0096969,b'Born on the Fourth of July',Biography|Drama|War
+tt0106611,b'Cool Runnings',Adventure|Comedy|Family|Sport
+tt1179891,b'My Bloody Valentine',Horror|Thriller
+tt0076752,b'The Spy Who Loved Me',Action|Adventure|Sci-Fi|Thriller
+tt0146336,b'Urban Legend',Horror|Mystery|Thriller
+tt1885265,b'Good Deeds',Comedy|Drama|Romance
+tt0103247,b'White Fang',Adventure|Drama
+tt0167427,b'Superstar',Comedy|Romance
+tt1007029,b'The Iron Lady',Biography|Drama|History
+tt0107840,b'Poetic Justice',Drama|Romance
+tt0429573,b'An American Haunting',Horror|Mystery|Thriller
+tt0971209,b'A Perfect Getaway',Adventure|Mystery|Thriller
+tt1305583,b'Our Family Wedding',Comedy|Romance
+tt0118301,b'Dead Man on Campus',Comedy
+tt0117894,b'Thinner',Fantasy|Horror
+tt0770772,b'I Think I Love My Wife',Comedy|Drama|Romance
+tt0211443,b'Jason X',Action|Horror|Sci-Fi|Thriller
+tt0308055,b'Bobby',Drama|History
+tt0192111,b'Head Over Heels',Comedy|Mystery|Romance
+tt1663143,b'Fun Size',Adventure|Comedy
+tt0401383,b'Le scaphandre et le papillon',Biography|Drama
+tt0404203,b'Little Children',Drama|Romance
+tt0176783,b'Gossip',Drama|Mystery|Thriller
+tt0120613,b'A Walk on the Moon',Drama
+tt0437232,b'Catch a Fire',Biography|Drama|History
+tt0218619,b'Soul Survivors',Drama|Horror|Mystery|Thriller
+tt0808244,b'Easy Virtue',Comedy|Romance
+tt2473794,b'Mr. Turner',Biography|Drama|History
+tt1156143,b'Les herbes folles',Drama|Romance
+tt0466893,b'Margaret',Drama
+tt0817177,b'Flipped',Comedy|Drama|Romance
+tt0388795,b'Brokeback Mountain',Drama|Romance
+tt0112697,b'Clueless',Comedy|Romance
+tt0297884,b'Far from Heaven',Drama|Romance
+tt0092337,b'Dekalog',Drama
+tt0180073,b'Quills',Biography|Drama
+tt1931533,b'Seven Psychopaths',Comedy|Crime
+tt0182000,"b""The Caveman's Valentine""",Crime|Drama|Music|Mystery|Thriller
+tt1441395,b'Under the Skin',Drama|Horror|Sci-Fi|Thriller
+tt0093105,"b'Good Morning, Vietnam'",Biography|Comedy|Drama|War
+tt1584131,b'The Last Godfather',Comedy
+tt1702443,b'Justin Bieber: Never Say Never',Documentary|Music
+tt0947798,b'Black Swan',Drama|Thriller
+tt0071562,b'The Godfather: Part II',Crime|Drama
+tt0206275,b'Save the Last Dance',Drama|Music|Romance
+tt0095742,b'A Nightmare on Elm Street 4: The Dream Master',Fantasy|Horror|Thriller
+tt0096487,b'Young Guns',Action|Crime|Drama|Thriller|Western
+tt2170593,b'St. Vincent',Comedy|Drama
+tt1826590,b'About Last Night',Comedy|Romance
+tt0147800,b'10 Things I Hate About You',Comedy|Drama|Romance
+tt0241760,b'The New Guy',Comedy
+tt4052882,b'The Shallows',Drama|Horror|Thriller
+tt0289879,b'The Butterfly Effect',Sci-Fi|Thriller
+tt0937375,b'This Christmas',Comedy|Drama|Romance
+tt0118665,b'Baby Geniuses',Comedy|Crime|Family|Sci-Fi
+tt0120609,b'The Big Hit',Action|Comedy|Crime|Thriller
+tt0116493,b'Harriet the Spy',Comedy|Drama|Family
+tt2011159,b'No Good Deed',Crime|Thriller
+tt0884328,b'The Mist',Horror
+tt0470752,b'Ex Machina',Drama|Mystery|Sci-Fi|Thriller
+tt0120601,b'Being John Malkovich',Comedy|Drama|Fantasy
+tt0269341,b'Two Can Play That Game',Comedy|Romance
+tt2183034,b'Earth to Echo',Adventure|Family|Sci-Fi
+tt0250224,b'Crazy/Beautiful',Drama|Romance
+tt0498380,b'Letters from Iwo Jima',Drama|History|War
+tt0469263,b'The Astronaut Farmer',Adventure|Drama|Sci-Fi
+tt0120531,b'Woo',Comedy|Romance
+tt3170832,b'Room',Drama
+tt0111127,b'Serial Mom',Comedy|Crime|Thriller
+tt0172726,b'Light It Up',Drama|Thriller
+tt0120577,b'54',Drama|Music
+tt0188453,b'Birthday Girl',Comedy|Crime|Thriller
+tt1711425,b'21 & Over',Comedy
+tt0401711,"b""Paris, je t'aime""",Comedy|Drama|Romance
+tt0416185,b'Resurrecting the Champ',Drama|Sport
+tt1814621,b'Admission',Comedy|Drama|Romance
+tt0191636,b'La veuve de Saint-Pierre',Drama|Romance
+tt1352824,b'Chloe',Drama|Mystery|Romance|Thriller
+tt0116269,b'Faithful',Comedy|Crime|Drama
+tt0419749,b'Find Me Guilty',Biography|Comedy|Crime|Drama
+tt1659337,b'The Perks of Being a Wallflower',Drama|Romance
+tt0420609,b'Infamous',Biography|Crime|Drama
+tt0218378,b'The Claim',Drama|Romance|Western
+tt1524575,b'The Vatican Tapes',Horror|Thriller
+tt1478964,b'Attack the Block',Action|Comedy|Sci-Fi|Thriller
+tt1714209,b'In the Land of Blood and Honey',Drama|Romance|War
+tt1911644,b'The Call',Crime|Thriller
+tt0305396,b'The Crocodile Hunter: Collision Course',Action|Adventure|Comedy|Family
+tt1045772,b'I Love You Phillip Morris',Biography|Comedy|Crime|Drama|Romance
+tt0168786,b'Antwone Fisher',Biography|Drama
+tt0283530,"b""The Emperor's Club""",Drama
+tt0108399,b'True Romance',Action|Crime|Drama|Romance|Thriller
+tt1216520,b'Womb',Drama|Romance|Sci-Fi
+tt0104348,b'Glengarry Glen Ross',Crime|Drama|Mystery
+tt0954947,b'The Killer Inside Me',Crime|Drama|Thriller
+tt1232783,b'Sorority Row',Horror|Mystery
+tt0805564,b'Lars and the Real Girl',Comedy|Drama|Romance
+tt0914798,b'The Boy in the Striped Pyjamas',Drama|War
+tt0168629,b'Dancer in the Dark',Crime|Drama|Musical
+tt1294213,b'Solitary Man',Comedy|Drama|Romance
+tt0985694,b'Machete',Action|Crime|Thriller
+tt1194417,b'Casino Jack',Biography|Comedy|Crime|Drama
+tt0473102,b'The Perfect Game',Comedy|Drama|Family|Sport
+tt0070047,b'The Exorcist',Horror
+tt0073195,b'Jaws',Adventure|Drama|Thriller
+tt0163651,b'American Pie',Comedy
+tt1816518,b'Ernest et C\xc3\xa9lestine',Animation|Comedy|Crime|Drama|Family
+tt1621045,b'Think Like a Man',Comedy|Romance
+tt0084726,b'Star Trek: The Wrath of Khan',Action|Adventure|Sci-Fi
+tt0109040,b'Ace Ventura: Pet Detective',Comedy
+tt1591479,b'Act of Valor',Action|Adventure|Drama|Thriller|War
+tt0462590,b'Step Up',Crime|Drama|Music|Romance
+tt0115641,b'Beavis and Butt-Head Do America',Adventure|Animation|Comedy|Crime
+tt0119396,b'Jackie Brown',Crime|Thriller
+tt0481536,b'Harold & Kumar Escape from Guantanamo Bay',Adventure|Comedy
+tt1706593,b'Chronicle',Drama|Sci-Fi|Thriller
+tt0081633,b'Time Bandits',Adventure|Comedy|Fantasy|Sci-Fi
+tt1636826,b'Project X',Comedy|Crime
+tt0066206,b'Patton',Biography|Drama|War
+tt0265459,b'One Hour Photo',Drama|Thriller
+tt1082868,b'Quarantine',Horror|Sci-Fi|Thriller
+tt0406759,b'The Eye',Horror|Mystery
+tt0104940,b'The Muppet Christmas Carol',Comedy|Drama|Family|Fantasy|Musical
+tt0120679,b'Frida',Biography|Drama|Romance
+tt2215719,b'Katy Perry: Part of Me',Documentary|Music
+tt2582846,b'The Fault in Our Stars',Drama|Romance
+tt0128442,b'Rounders',Crime|Drama
+tt2784678,b'Top Five',Comedy|Romance
+tt0164181,b'Stir of Echoes',Horror|Mystery|Thriller
+tt1442449,b'Spartacus: Blood and Sand',Action|Adventure|Biography|Drama|History
+tt2431286,b'Philomena',Biography|Drama
+tt0365885,b'The Upside of Anger',Comedy|Drama
+tt0429591,b'Aquamarine',Comedy|Family|Fantasy|Romance
+tt3622592,b'Paper Towns',Drama|Mystery|Romance
+tt0332712,"b""My Baby's Daddy""",Comedy
+tt1821549,b'Nebraska',Adventure|Comedy|Drama
+tt0114608,b'Tales from the Crypt: Demon Knight',Action|Fantasy|Horror|Thriller
+tt0273799,"b""Max Keeble's Big Move""",Comedy|Crime|Family
+tt1625346,b'Young Adult',Comedy|Drama
+tt0479884,b'Crank',Action|Crime|Thriller
+tt0119326,b'How to Be a Player',Comedy
+tt1407061,b'Just Wright',Comedy|Romance|Sport
+tt1084950,b'Rachel Getting Married',Drama|Romance
+tt0082934,b'The Postman Always Rings Twice',Crime|Drama|Romance|Thriller
+tt0335119,b'Girl with a Pearl Earring',Biography|Drama|Romance
+tt0082096,b'Das Boot',Adventure|Drama|Thriller|War
+tt0279781,b'Sorority Boys',Comedy
+tt2194499,b'About Time',Drama|Fantasy|Romance
+tt0385004,b'Shi mian mai fu',Action|Adventure|Drama|Romance
+tt1764183,b'Arbitrage',Drama|Thriller
+tt2436386,b'Project Almanac',Sci-Fi|Thriller
+tt1042877,b'Cadillac Records',Biography|Drama|Music
+tt0470765,b'For Your Consideration',Comedy
+tt0120533,b'Celebrity',Comedy|Drama
+tt0439289,b'Running with Scissors',Comedy|Drama
+tt0339034,b'From Justin to Kelly',Comedy|Musical|Romance
+tt0199626,b'In the Cut',Mystery|Thriller
+tt1103275,b'Two Lovers',Drama|Romance
+tt0253200,b'Last Orders',Drama
+tt0468492,b'Gwoemul',Comedy|Drama|Horror|Sci-Fi
+tt0129332,b'Ravenous',Fantasy|Horror|Thriller
+tt2358891,b'La grande bellezza',Drama
+tt0238924,b'The Dangerous Lives of Altar Boys',Comedy|Drama
+tt1682180,b'Stoker',Drama|Thriller
+tt0212712,b'2046',Drama|Romance|Sci-Fi
+tt0804505,b'Married Life',Crime|Drama|Romance
+tt0361715,b'Duma',Adventure|Drama|Family
+tt1235796,b'Ondine',Drama|Mystery|Romance
+tt0222851,b'Brother',Crime|Drama|Thriller
+tt0815178,b'The Life Before Her Eyes',Drama|Mystery|Thriller
+tt1730687,b'Darling Companion',Comedy|Drama|Romance
+tt0367082,b'Sorstalans\xc3\xa1g',Drama|Romance|War
+tt1428556,b'San qiang pai an jing qi',Comedy|Drama
+tt1124052,b'Nanjing! Nanjing!',Drama|History|War
+tt1876517,b'Tu xia chuan qi',Action|Adventure|Animation|Comedy|Family
+tt1486193,b'5 Days of War',Action|Drama|War
+tt1187064,b'Triangle',Fantasy|Mystery|Thriller
+tt3453052,b'10 Days in a Madhouse',Drama
+tt1929263,b'Heaven Is for Real',Biography|Drama
+tt0208092,b'Snatch',Comedy|Crime
+tt2598580,"b""Dancin': It's On!""",Family|Musical
+tt0098084,b'Pet Sematary',Fantasy|Horror
+tt1034302,b'The Cry of the Owl',Drama|Thriller
+tt0087363,b'Gremlins',Comedy|Fantasy|Horror
+tt0076759,b'Star Wars',Action|Adventure|Fantasy|Sci-Fi
+tt1860213,b'Dirty Grandpa',Comedy
+tt1921149,b'Trash',Adventure|Crime|Drama|Mystery|Thriller
+tt0962726,b'High School Musical 3: Senior Year',Comedy|Drama|Family|Music|Musical|Romance
+tt0964517,b'The Fighter',Biography|Drama|Sport
+tt0493430,b'Jackass Number Two',Action|Comedy|Documentary
+tt0104952,b'My Cousin Vinny',Comedy|Crime
+tt1355630,b'If I Stay',Drama|Fantasy|Music|Romance
+tt2968804,b'Drive Hard',Action|Comedy|Crime
+tt0097815,b'Major League',Comedy|Sport
+tt0964587,"b""St. Trinian's""",Comedy
+tt0183649,b'Phone Booth',Crime|Thriller
+tt0139134,b'Cruel Intentions',Drama|Romance
+tt1233227,b'Saw VI',Horror|Mystery
+tt0082517,b'History of the World: Part I',Comedy
+tt0250310,b'Corky Romano',Comedy|Crime
+tt0105217,b'Raising Cain',Crime|Drama|Thriller
+tt0091276,b'Invaders from Mars',Horror|Sci-Fi
+tt2381111,b'Brooklyn',Drama|Romance
+tt0072684,b'Barry Lyndon',Adventure|Drama|History|War
+tt0253798,b'Out Cold',Comedy|Sport
+tt0213790,b'The Ladies Man',Comedy
+tt1441951,b'Quartet',Comedy|Drama
+tt2404425,b'Woman in Gold',Biography|Drama|History
+tt0362269,b'Kinsey',Biography|Drama
+tt0106308,b'Army of Darkness',Comedy|Fantasy|Horror
+tt0240900,b'Slackers',Comedy|Romance
+tt0108550,"b""What's Eating Gilbert Grape""",Drama|Romance
+tt0377992,b'The Visual Bible: The Gospel of John',Biography|Drama|History
+tt0383694,b'Vera Drake',Crime|Drama
+tt0280720,b'The Guru',Comedy|Music|Romance
+tt2042568,b'Inside Llewyn Davis',Drama|Music
+tt0184791,b'O',Drama|Romance|Thriller
+tt0102782,b'Return to the Blue Lagoon',Adventure|Drama|Romance
+tt0368222,b'Romance & Cigarettes',Comedy|Musical|Romance
+tt0424908,b'Copying Beethoven',Biography|Drama|Music
+tt1233192,b'Brighton Rock',Crime|Drama|Thriller
+tt1132626,b'Saw V',Horror|Mystery
+tt1592873,b'LOL',Comedy|Drama|Romance
+tt1709143,b'The Last Days on Mars',Horror|Sci-Fi|Thriller
+tt0273517,b'Darkness',Horror
+tt0062622,b'2001: A Space Odyssey',Adventure|Mystery|Sci-Fi
+tt0083866,b'E.T. the Extra-Terrestrial',Family|Sci-Fi
+tt0419843,b'In the Land of Women',Comedy|Drama|Romance
+tt0313300,b'The Blue Butterfly',Adventure|Drama
+tt4051832,b'Lovesick',Comedy
+tt0473700,b'September Dawn',Drama|History|Romance|Western
+tt1566501,b'For Greater Glory: The True Story of Cristiada',Drama|History|War
+tt3547740,b'La famille B\xc3\xa9lier',Comedy|Drama|Music
+tt0119217,b'Good Will Hunting',Drama
+tt3658772,b'Misconduct',Drama|Thriller
+tt0489270,b'Saw III',Horror|Mystery
+tt4094724,b'The Purge: Election Year',Action|Horror|Sci-Fi|Thriller
+tt0160862,"b""She's All That""",Comedy|Romance
+tt0890870,b'Saw IV',Horror|Mystery
+tt0375210,b'White Noise',Drama|Horror|Mystery|Thriller
+tt0455612,"b""Madea's Family Reunion""",Comedy|Drama|Romance
+tt0090863,b'The Color of Money',Drama|Sport
+tt0056197,b'The Longest Day',Action|Drama|History|War
+tt0104868,b'The Mighty Ducks',Comedy|Drama|Family|Sport
+tt0391198,b'The Grudge',Horror|Mystery|Thriller
+tt0116483,b'Happy Gilmore',Comedy|Sport
+tt0096928,"b""Bill & Ted's Excellent Adventure""",Adventure|Comedy|Music|Sci-Fi
+tt1412386,b'The Best Exotic Marigold Hotel',Comedy|Drama
+tt0089530,b'Mad Max Beyond Thunderdome',Action|Adventure|Sci-Fi|Thriller
+tt0088944,b'Commando',Action|Adventure|Thriller
+tt3882082,b'The Boy',Horror|Mystery|Thriller
+tt1314655,b'Devil',Horror|Mystery|Thriller
+tt3195644,b'Insidious: Chapter 3',Fantasy|Horror|Thriller
+tt0104692,b'The Lawnmower Man',Horror|Sci-Fi
+tt0981227,"b""Nick and Norah's Infinite Playlist""",Comedy|Drama|Music|Romance
+tt0120655,b'Dogma',Adventure|Comedy|Drama|Fantasy
+tt0280460,b'The Banger Sisters',Comedy|Drama
+tt0283026,b'Swimfan',Drama|Thriller
+tt0424993,b'Employee of the Month',Comedy|Romance
+tt0127723,"b""Can't Hardly Wait""",Comedy|Romance
+tt0086066,b'The Outsiders',Crime|Drama
+tt2788732,"b""Pete's Dragon""",Adventure|Family|Fantasy
+tt0085407,b'The Dead Zone',Horror|Sci-Fi|Thriller
+tt2752772,b'Sinister 2',Horror|Mystery|Thriller
+tt1876451,b'Sparkle',Drama|Music
+tt0242998,b'Valentine',Horror|Mystery|Thriller
+tt1220198,b'The Fourth Kind',Mystery|Sci-Fi|Thriller
+tt0420087,b'A Prairie Home Companion',Comedy|Drama|Music
+tt0107079,b'Sugar Hill',Drama|Thriller
+tt0089348,b'Invasion U.S.A.',Action|Thriller
+tt0403455,b'Roll Bounce',Comedy|Drama|Music|Romance
+tt0128445,b'Rushmore',Comedy|Drama
+tt1564585,b'Skyline',Action|Sci-Fi|Thriller
+tt2555736,b'The Second Best Exotic Marigold Hotel',Comedy|Drama
+tt0846308,b'Kit Kittredge: An American Girl',Drama|Family
+tt0380623,b'The Perfect Man',Comedy|Family|Romance
+tt0100168,"b""Mo' Better Blues""",Drama|Music|Romance
+tt0240468,b'Kung Pow: Enter the Fist',Action|Comedy
+tt0295700,b'Wrong Turn',Horror|Thriller
+tt0142192,b'The Corruptor',Action|Crime|Drama|Mystery|Thriller
+tt1935179,b'Mud',Drama
+tt0499554,b'Reno 911!: Miami',Comedy|Crime
+tt2515086,b'One Direction: This Is Us',Documentary|Music
+tt1092633,"b'The Goods: Live Hard, Sell Hard'",Comedy
+tt0314166,b'Hey Arnold! The Movie',Adventure|Animation|Comedy|Family
+tt1655420,b'My Week with Marilyn',Biography|Drama
+tt0365485,b'The Matador',Comedy|Crime|Drama|Thriller
+tt4178092,b'The Gift',Mystery|Thriller
+tt0399862,b'End of the Spear',Adventure|Drama
+tt0151804,b'Office Space',Comedy
+tt0157503,b'Drop Dead Gorgeous',Comedy|Romance|Thriller
+tt1126590,b'Big Eyes',Biography|Crime|Drama|Romance
+tt0124198,b'Very Bad Things',Comedy|Crime|Thriller
+tt0086984,b'Body Double',Mystery|Thriller
+tt1470023,b'MacGruber',Action|Comedy|Romance
+tt0301199,b'Dirty Pretty Things',Crime|Drama|Thriller
+tt1333125,b'Movie 43',Comedy
+tt0785007,b'Over Her Dead Body',Comedy|Fantasy|Romance
+tt1307068,b'Seeking a Friend for the End of the World',Adventure|Comedy|Drama|Romance|Sci-Fi
+tt1477837,b'Cedar Rapids',Comedy
+tt0460627,b'Bones',Comedy|Crime|Drama|Mystery|Romance
+tt0120586,b'American History X',Crime|Drama
+tt1748227,b'The Collection',Action|Horror|Thriller
+tt0350194,"b""Teacher's Pet""",Animation|Comedy|Family|Fantasy|Musical
+tt2170299,b'Bad Words',Comedy|Drama
+tt0425413,b'Run Fatboy Run',Comedy|Romance|Sport
+tt2883434,b'Black or White',Drama
+tt0279286,b'On the Line',Comedy|Family|Romance
+tt0462504,b'Rescue Dawn',Adventure|Biography|Drama|War
+tt1772288,b'Danny Collins',Comedy|Drama|Music
+tt1588334,"b'Jeff, Who Lives at Home'",Comedy|Drama
+tt1226236,"b""Io sono l'amore""",Drama|Romance
+tt1985017,b'Atlas Shrugged II: The Strike',Drama|Mystery|Sci-Fi
+tt0107983,b'Romeo Is Bleeding',Action|Crime|Drama|Thriller
+tt0165854,b'The Limey',Crime|Drama|Mystery|Thriller
+tt0375679,b'Crash',Crime|Drama|Thriller
+tt0200720,b'The House of Mirth',Drama|Romance
+tt0438315,b'Peaceful Warrior',Drama|Romance|Sport
+tt1411664,b'Bucky Larson: Born to Be a Star',Comedy
+tt0215545,b'Bamboozled',Comedy|Drama|Music
+tt3387542,b'The Forest',Horror|Mystery|Thriller
+tt0083113,b'Sphinx',Adventure|Mystery|Thriller
+tt1791682,"b""While We're Young""",Comedy|Drama
+tt1554091,b'A Better Life',Drama|Romance
+tt0278731,b'Spider',Drama|Mystery|Thriller
+tt0171356,b'Gun Shy',Comedy|Crime|Romance
+tt0309912,b'Nicholas Nickleby',Drama|Romance
+tt1491044,b'The Iceman',Biography|Crime|Drama
+tt0173716,b'Cecil B. DeMented',Comedy|Crime|Thriller
+tt1726669,b'Killer Joe',Crime|Drama|Romance|Thriller
+tt1285309,b'The Joneses',Comedy|Drama
+tt0285861,b'Owning Mahowny',Crime|Drama|Thriller
+tt0784972,b'The Brothers Solomon',Comedy
+tt0765120,b'My Blueberry Nights',Drama|Romance
+tt0291502,b'Swept Away',Comedy|Romance
+tt0884224,"b'War, Inc.'",Action|Comedy|Thriller
+tt0286112,b'Siu Lam juk kau',Action|Comedy|Sport
+tt0330099,b'The Brown Bunny',Drama
+tt2752688,b'Rosewater',Biography|Drama
+tt1372686,b'Coriolanus',Drama|Thriller|War
+tt0253126,b'High Heels and Low Lifes',Action|Comedy|Drama
+tt1262981,"b""World's Greatest Dad""",Comedy|Drama
+tt0464196,b'Severance',Comedy|Horror|Thriller
+tt0443496,b'Edmond',Drama|Thriller
+tt1183923,b'Welcome to the Rileys',Drama
+tt1210039,b'Blood Done Sign My Name',Drama
+tt2553908,b'Cinco de Mayo: La batalla',Drama|History|War
+tt1007018,b'The Open Road',Comedy|Drama
+tt1220220,b'Motherhood',Comedy|Drama
+tt1128071,b'Free Style',Drama
+tt2325977,b'Strangerland',Drama|Mystery|Thriller
+tt0887719,b'Blonde Ambition',Comedy|Romance
+tt0488604,b'The Oxford Murders',Crime|Mystery|Thriller
+tt1320291,b'The Reef',Horror|Thriller
+tt0349416,b'Eulogy',Comedy|Drama
+tt1568139,b'Beat the World',Drama|Music
+tt2722786,b'Jungle Shuffle',Adventure|Animation
+tt0479341,b'Adam Resurrected',Drama|War
+tt3074732,b'Hross \xc3\xad oss',Comedy|Drama|Romance
+tt1319716,"b""It's a Wonderful Afterlife""",Comedy|Drama|Horror|Romance
+tt1147687,"b""The Devil's Tomb""",Action|Horror|Sci-Fi
+tt0213985,b'Partition',Drama|Romance
+tt0901487,b'Joheunnom nabbeunnom isanghannom',Action|Adventure|Comedy|Western
+tt1913166,b'Nurse 3-D',Horror|Thriller
+tt1091722,b'Adventureland',Comedy|Drama|Romance
+tt0195945,b'Next Friday',Comedy
+tt2923316,b'American Heist',Action|Crime|Drama|Thriller
+tt0062512,b'You Only Live Twice',Action|Adventure|Thriller
+tt2556874,b'Plastic',Action|Comedy|Crime|Drama
+tt1602620,b'Amour',Drama|Romance
+tt1612319,b'Re-Kill',Action|Horror
+tt0082509,b'Heavy Metal',Adventure|Animation|Fantasy|Horror|Sci-Fi
+tt1161418,b'Gentlemen Broncos',Adventure|Comedy|Sci-Fi
+tt1694021,b'Into the Grizzly Maze',Action|Horror|Thriller
+tt1198101,b'Kites',Action|Drama|Romance|Thriller
+tt1527186,b'Melancholia',Drama|Sci-Fi
+tt0803061,b'Red Dog',Biography|Comedy|Drama|Family|Romance
+tt2176013,b'Jab Tak Hai Jaan',Drama|Romance
+tt0078748,b'Alien',Horror|Sci-Fi
+tt0072271,b'The Texas Chain Saw Massacre',Horror|Thriller
+tt1017451,b'The Runaways',Biography|Drama|Music
+tt0067093,b'Fiddler on the Roof',Drama|Family|Musical|Romance
+tt0059800,b'Thunderball',Action|Adventure|Thriller
+tt1701990,b'Detention',Comedy|Horror|Sci-Fi
+tt0117603,b'Set It Off',Action|Crime|Drama|Romance|Thriller
+tt0094862,"b""Child's Play""",Fantasy|Horror
+tt0386032,b'Sicko',Documentary|Drama
+tt2975578,b'The Purge: Anarchy',Action|Horror|Sci-Fi|Thriller
+tt0186975,b'Down to You',Comedy|Drama|Romance
+tt0366551,b'Harold & Kumar Go to White Castle',Adventure|Comedy
+tt0208874,b'The Contender',Drama|Thriller
+tt0181984,b'Boiler Room',Crime|Drama|Thriller
+tt0086465,b'Trading Places',Comedy
+tt0454082,b'Black Christmas',Horror
+tt0349169,"b""Breakin' All the Rules""",Comedy|Romance
+tt0775529,b'The Savages',Comedy|Drama
+tt0202677,b'The Way of the Gun',Action|Crime|Drama|Thriller
+tt0110759,b'PCU',Comedy
+tt0482629,b'The Ultimate Gift',Drama|Family|Romance
+tt0441007,b'Gracie',Biography|Drama|Sport
+tt0427968,b'Trust the Man',Comedy|Drama|Romance
+tt1104733,b'Hamlet 2',Comedy|Music
+tt0120879,b'Velvet Goldmine',Drama|Music
+tt5215952,b'Gok-seong',Fantasy|Horror|Mystery|Thriller
+tt1922612,b'Glee: The 3D Concert Movie',Documentary|Music
+tt1185344,"b""Princess Ka'iulani""",Drama
+tt0434424,b'Undiscovered',Comedy|Music|Romance
+tt1259574,b'Red Riding: The Year of Our Lord 1974',Crime|Drama|Mystery|Thriller
+tt1183672,b'La fille du RER',Drama
+tt1068678,b'Veronika Decides to Die',Drama|Romance
+tt0090555,b'Crocodile Dundee',Adventure|Comedy
+tt1679332,"b'Ultramarines: A Warhammer 40,000 Movie'",Action|Animation|Fantasy|Horror|Mystery|Sci-Fi|Thriller
+tt0325596,b'The I Inside',Mystery|Sci-Fi|Thriller
+tt1418646,b'Beneath Hill 60',Drama|History|War
+tt1661420,b'Polisse',Crime|Drama
+tt0211933,b'Awake',Crime|Mystery|Thriller
+tt0458290,b'Star Wars: The Clone Wars',Action|Adventure|Animation|Drama|Fantasy|Sci-Fi
+tt1641841,b'Skin Trade',Action|Crime|Thriller
+tt0093437,b'The Lost Boys',Comedy|Fantasy|Horror
+tt1263670,b'Crazy Heart',Drama|Music|Romance
+tt1171222,b'Baggage Claim',Comedy
+tt0062711,b'Barbarella',Adventure|Comedy|Fantasy|Sci-Fi
+tt0099816,b'Haakon Haakonsen',Adventure|Family
+tt0433416,b'The Namesake',Drama
+tt1666801,b'The DUFF',Comedy
+tt0118589,b'Glitter',Drama|Music|Romance
+tt1457765,b'The Haunting in Connecticut 2: Ghosts of Georgia',Drama|Horror|Mystery|Thriller
+tt0810784,b'Bright Star',Biography|Drama|Romance
+tt1188996,b'My Name Is Khan',Adventure|Drama|Thriller
+tt2017038,b'All Is Lost',Action|Adventure|Drama
+tt0164085,b'Limbo',Adventure|Drama|Thriller
+tt0460989,b'The Wind That Shakes the Barley',Drama|War
+tt0043949,b'Quo Vadis',Biography|Drama|History|Romance
+tt0963194,b'Repo! The Genetic Opera',Horror|Musical|Sci-Fi
+tt0110912,b'Pulp Fiction',Crime|Drama
+tt0079588,b'The Muppet Movie',Adventure|Comedy|Family|Musical
+tt2872718,b'Nightcrawler',Crime|Drama|Thriller
+tt0331953,b'Club Dread',Comedy|Horror|Thriller
+tt0059742,b'The Sound of Music',Biography|Drama|Family|Musical|Romance
+tt0449059,b'Little Miss Sunshine',Comedy|Drama
+tt0092005,b'Stand by Me',Adventure|Drama
+tt0289043,b'28 Days Later...',Drama|Horror|Sci-Fi|Thriller
+tt0365957,b'You Got Served',Drama|Music
+tt0297037,b'Brown Sugar',Comedy|Drama|Music|Romance
+tt1306980,b'50/50',Comedy|Drama|Romance
+tt0482599,b'Shutter',Horror|Mystery|Thriller
+tt1800246,b'That Awkward Moment',Comedy|Romance
+tt0082763,b'Modern Problems',Comedy|Fantasy|Sci-Fi
+tt4254584,b'Kicks',Adventure
+tt0107616,b'Much Ado About Nothing',Comedy|Drama|Romance
+tt0064757,"b""On Her Majesty's Secret Service""",Action|Adventure|Thriller
+tt4474310,b'The Player',Action|Crime|Drama|Thriller
+tt0111686,b'New Nightmare',Fantasy|Horror|Mystery|Thriller
+tt0437800,b'Akeelah and the Bee',Drama
+tt0120693,b'Half Baked',Comedy|Crime
+tt1095174,b'New in Town',Comedy|Romance
+tt0144084,b'American Psycho',Crime|Drama
+tt0279113,b'The Good Girl',Drama|Romance
+tt1300851,b'The Boondock Saints II: All Saints Day',Action|Crime|Thriller
+tt2390361,b'Enough Said',Comedy|Drama|Romance
+tt1282140,b'Easy A',Comedy|Romance
+tt0189998,b'Shadow of the Vampire',Drama|Horror
+tt1604171,b'Prom',Comedy|Drama
+tt0117283,b'The Pallbearer',Comedy|Romance
+tt0206420,b'Woman on Top',Comedy|Fantasy|Romance
+tt0104454,b'Howards End',Drama|Romance
+tt5016504,b'Preacher',Adventure|Drama|Fantasy|Mystery
+tt2401878,b'Anomalisa',Animation|Comedy|Drama|Romance
+tt1431181,b'Another Year',Comedy|Drama
+tt0102915,b'Showdown in Little Tokyo',Action|Comedy|Crime|Thriller
+tt0804497,"b""It's Kind of a Funny Story""",Comedy|Drama|Romance
+tt1371155,b'Made in Dagenham',Biography|Comedy|Drama|History
+tt0829098,b'And When Did You Last See Your Father?',Biography|Drama
+tt0485601,b'The Secret of Kells',Adventure|Animation|Family|Fantasy
+tt1980929,b'Begin Again',Drama|Music
+tt0398027,b'Down in the Valley',Drama|Romance|Thriller
+tt0283503,b'Brooklyn Rules',Crime|Drama
+tt0314676,b'The Singing Detective',Comedy|Crime|Musical|Mystery
+tt0373445,b'The Wendell Baker Story',Comedy|Drama|Romance
+tt1235189,b'Wild Target',Action|Comedy|Crime
+tt0360323,b'10th & Wolf',Crime|Drama|Thriller
+tt2494384,b'Aloft',Drama
+tt0094625,b'Akira',Action|Animation|Sci-Fi
+tt0473188,b'The Death and Life of Bobby Z',Action|Crime|Thriller
+tt2112277,b'Swelter',Action|Crime|Drama|Thriller
+tt2102502,b'Fei chang xing yun',Action|Adventure|Comedy|Romance
+tt0421994,b'Imagine Me & You',Comedy|Drama|Romance
+tt4196848,b'Mr. Church',Drama
+tt0324133,b'Swimming Pool',Crime|Drama|Mystery|Thriller
+tt2628316,b'Green Street 3: Never Back Down',Action|Drama
+tt0097239,b'Driving Miss Daisy',Comedy|Drama|Family
+tt0120169,b'Soul Food',Comedy|Drama
+tt0113326,b'Hung fan kui',Action|Comedy
+tt2936180,b'Loin des hommes',Drama|War|Western
+tt0427944,b'Thank You for Smoking',Comedy|Drama
+tt0498353,b'Hostel: Part II',Horror
+tt1174732,b'An Education',Drama
+tt0338427,b'Shopgirl',Drama|Romance
+tt0272207,b'Narc',Crime|Drama|Mystery|Thriller
+tt1225822,b'Extract',Comedy|Crime|Romance
+tt0319829,b'Masked and Anonymous',Comedy|Drama|Music
+tt1772422,b'Outside Bet',Comedy
+tt1602098,b'Albert Nobbs',Drama
+tt2147225,b'Black November',Action|Crime|Drama|Thriller
+tt0833553,b'Ta Ra Rum Pum',Comedy|Family|Romance
+tt0808417,b'Persepolis',Animation|Biography|Drama|War

@@ -36,7 +36,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'movie',
-    'behave_django',
+    'uzytkownik',
+    'numpy',
+    'pandas',
+
 ]
 
 MIDDLEWARE = [

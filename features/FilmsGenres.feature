@@ -42,7 +42,14 @@ Feature: Tabela pomocnicza Filmy i Gatunki
     When kiedy wywoluje funkcje helpers.genres.weighted_film_genres(movies_file, links_file, data_file)
     Then Otrzymuje dataframe z wagami
 
-  Scenario: Generuje plik imdb_movies.csv w oparciu o stwierdzone id filmow z bazy
+  Scenario: Generuje plik imdb_movies.csv w oparciu o stwierdzone id filmow z bazy (4233 filmy)
     Given Mam listę identyfikatorow IMDB wystepujacych w bazie
     When Kiedy pobieram dane ze strony IMDB w oparciu o IMDB ID - helpers.genres.create_imdb_movies_csv(ids_file)
     Then Otrzymuje plik imdb_movies.csv
+
+  Scenario: Przygotuj ważony data frame Films/Genres z pliku movies_django.csv lub z bazy danych
+    Given Jezeli mamy plik movies_django.csv, a jezeli nie baze danych
+    When Kiedy posiadam slownik filmow i wywoluje helpers.from_django.create_films_genres(movie_list)
+    Then Otrzymuje wazony dataframe
+
+

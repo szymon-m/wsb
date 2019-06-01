@@ -47,7 +47,7 @@ def create_genres_dict(movies_file):
     with open(movies_file, encoding="utf8") as f:
         for row in f.readlines()[1:]:
             count = sum(line.count(",") for line in row)
-            columns = row.split(',')
+            columns = row.split(', ')
             genres_string = _parse_bytes(columns[count])
             genres_string = genres_string.replace("\n", "")
             genres_string = genres_string.replace("(", "")
@@ -57,7 +57,7 @@ def create_genres_dict(movies_file):
             for genre in genres_list:
                 if genre not in genres:
                     genres[genre] = dict()
-    print(genres)
+    #print(genres)
     return genres
 
 

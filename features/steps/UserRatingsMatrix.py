@@ -165,3 +165,5 @@ def step_impl(context):
     :type context: behave.runner.Context
     """
     assert_that(context.user_ratings_df, equal_to(type(pandas.DataFrame)))
+
+
